@@ -1,0 +1,779 @@
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "First Fusion",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:First_Fusion-Booster-GX02-Localized.png",
+    "unlock_methods": "Available from the beginning of the game",
+    "card_count": 5,
+    "total_cards": 67,
+    "description": "A pack of Fusion Monsters.\nSounds tough!",
+    "description_extra": "It's a pack of Fusion Monsters."
+}
+
+### <-- First Effect Monster -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "First Effect Monster",
+    "price": 150,
+    "image_url": "https://yugipedia.com/wiki/File:First_Effect_Monster-Booster-GX02-Localized.png",
+    "unlock_methods": "Available from the beginning of the game",
+    "card_count": 5,
+    "total_cards": 57,
+    "description": "They say this pack only has \"Effect Monsters\" in it.\nWhat is an \"Effect Monster\" anyway?",
+    "description_extra": "This is an Effect Monster pack."
+}
+
+### <-- Step Up Spell・Trap -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 5,
+    "name": "Step Up Spell・Trap",
+    "price": 150,
+    "image_url": "https://yugipedia.com/wiki/File:Step_Up_Spell-Trap-Booster-GX02-Localized.png",
+    "unlock_methods": "Available from the beginning of the game",
+    "card_count": 5,
+    "total_cards": 68,
+    "description": "A second set of Spell and Trap Cards!\nYou can totally use this pack's Spells and Traps.",
+    "description_extra": "This is an advanced Spell and Trap Card pack."
+}
+
+### <-- Step Up fusion -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 6,
+    "name": "Step Up fusion",
+    "price": 150,
+    "image_url": "https://yugipedia.com/wiki/File:Step_Up_Fusion-Booster-GX02-Localized.png",
+    "unlock_methods": "Available after May 7 in-game",
+    "card_count": 5,
+    "total_cards": 63,
+    "description": "A second set of Fusion Monsters!",
+    "description_extra": "It's an additional pack of Fusion Monsters."
+}
+
+### <-- Anti Effect -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 7,
+    "name": "Anti Effect",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Anti_Effect-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlock by having at least 80% of the cards from First Effect Monster, Step Up Spell・Trap and Step Up fusion.",
+    "card_count": 5,
+    "total_cards": 48,
+    "description": "They say this pack is good for people having problems with Spells & Traps.",
+    "description_extra": "A pack for those who want to destroy or negate Spells & Traps."
+}
+
+### <-- Life Breaker -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 8,
+    "name": "Life Breaker",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Life_Breaker-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlock by having at least 80% of the cards from First Effect Monster, Step Up Spell・Trap and Step Up fusion.",
+    "card_count": 5,
+    "total_cards": 54,
+    "description": "Contains monster destruction cards…\nScary!",
+    "description_extra": "Looks like it has cards that destroy monsters."
+}
+
+### <-- Go Go Direct -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 9,
+    "name": "Go Go Direct",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Go_Go_Direct-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlock by having at least 80% of the cards from First Effect Monster, Step Up Spell・Trap and Step Up fusion.",
+    "card_count": 5,
+    "total_cards": 53,
+    "description": "I attack you directly! Mwahaha!\nHow did that sound?",
+    "description_extra": "This pack helps you attack your opponent directly."
+}
+
+### <-- Visitor from the Dark -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 10,
+    "name": "Visitor from the Dark",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Visitor_from_the_Dark-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Mondays",
+    "card_count": 5,
+    "total_cards": 54,
+    "description": "Looks like a Dark Attribute pack.\nYou wanna gather Dark Attribute cards? Then this is for you!",
+    "description_extra": "A pack for gathering Dark Attribute cards."
+}
+
+### <-- Emergent Fire -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 11,
+    "name": "Emergent Fire",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Emergent_Fire-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Tuesdays",
+    "card_count": 5,
+    "total_cards": 51,
+    "description": "Looks like a Fire Attribute pack.\nThis pack has Fire Attribute cards. It's on fire!",
+    "description_extra": "A pack for gathering Fire Attribute cards."
+}
+
+### <-- Water of Life -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 12,
+    "name": "Water of Life",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Water_of_Life-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Wednesdays",
+    "card_count": 5,
+    "total_cards": 54,
+    "description": "Looks like a Water Attribute pack.\nYou wanna gather Water Attribute cards? Then check this out!",
+    "description_extra": "A pack for gathering Water Attribute cards."
+}
+
+### <-- Gift of Wind -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 13,
+    "name": "Gift of Wind",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Gift_of_Wind-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Thursdays",
+    "card_count": 5,
+    "total_cards": 51,
+    "description": "Looks like a Wind Attribute pack.\nYou wanna gather Wind Attribute cards? Then choose this!",
+    "description_extra": "A pack for gathering Wind Attribute cards."
+}
+
+### <-- Platinum Light -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 14,
+    "name": "Platinum Light",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Platinum_Light-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Fridays",
+    "card_count": 5,
+    "total_cards": 52,
+    "description": "Looks like a Light Attribute pack.\nI bet they shine like me! You wanna gather Light Attribute cards? Then feast your eyes on this!",
+    "description_extra": "A pack for gathering Light Attribute cards."
+}
+
+### <-- Earth Dwellers -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 15,
+    "name": "Earth Dwellers",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Earth_Dwellers-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Saturdays",
+    "card_count": 5,
+    "total_cards": 55,
+    "description": "Looks like an Earth Attribute pack.\nYou wanna gather Earth Attribute cards? Then this pack is calling your name!",
+    "description_extra": "A pack for gathering Earth Attribute cards."
+}
+
+### <-- Lucky Economy Pack -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 16,
+    "name": "Lucky Economy Pack",
+    "price": 300,
+    "image_url": "https://yugipedia.com/wiki/File:Lucky_Economy_Pack-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 1, during Saturdays",
+    "card_count": 5,
+    "total_cards": 0,
+    "description": "This is our special pack of the day.\nThis pack has monsters of all Attributes in it.",
+    "description_extra": "A special pack of the day."
+}
+
+### <-- Endless Thoughts -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 17,
+    "name": "Endless Thoughts",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Endless_Thoughts-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 5 or higher",
+    "card_count": 5,
+    "total_cards": 55,
+    "description": "They say the cards in this pack have continuous effects.",
+    "description_extra": "Continuous effect cards are in this pack!"
+}
+
+### <-- Flip the Picture -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 18,
+    "name": "Flip the Picture",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Flip_the_Picture-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 10 or higher",
+    "card_count": 5,
+    "total_cards": 51,
+    "description": "I think the pack has Flip Effect monsters.",
+    "description_extra": "I reveal my face-down card!\nHee hee, I always wanted to say that."
+}
+
+### <-- Equip Me -->
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 19,
+    "name": "Equip Me",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Equip_Me-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 15 or higher",
+    "card_count": 5,
+    "total_cards": 59,
+    "description": "It contains Equip cards.\nI wonder if I can wear them and power up?",
+    "description_extra": "This pack has Equip Spell cards."
+}
+
+### More Eternal Memories
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 20,
+    "name": "More Eternal Memories",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:More_Eternal_Memories-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 20 or higher",
+    "card_count": 5,
+    "total_cards": 56,
+    "description": "This is the second set of continuous effect cards!",
+    "description_extra": "This pack has cool continuous effect cards."
+}
+
+### Speed King
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 21,
+    "name": "Speed King",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Speed_King-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 25 or higher",
+    "card_count": 5,
+    "total_cards": 41,
+    "description": "This pack contains cards with quick Spell Speeds.",
+    "description_extra": "If you buy this pack, you can do lots of chains."
+}
+
+### Spice of Duel
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 22,
+    "name": "Spice of Duel",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Spice_of_Duel-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 30 or higher",
+    "card_count": 5,
+    "total_cards": 58,
+    "description": "It says Toon, Spirit, Union…\nToo complex for my brain.",
+    "description_extra": "Toon, Spirit, Union…\nSounds complicated."
+}
+
+### Fairy's Sky
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 23,
+    "name": "Fairy's Sky",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Fairy%27s_Sky-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 35 or higher",
+    "card_count": 5,
+    "total_cards": 48,
+    "description": "I think it's a pack of Fairy-Types.",
+    "description_extra": "This has lots of Fairy-Type monsters."
+}
+
+### Dragon Drive
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 24,
+    "name": "Dragon Drive",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Dragon_Drive-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 40 or higher",
+    "card_count": 5,
+    "total_cards": 55,
+    "description": "I think it's a pack of Dragon-Type Monsters.",
+    "description_extra": "This has lots of Dragon-Type monsters."
+}
+
+### Fiend Night
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 25,
+    "name": "Fiend Night",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Fiend_Night-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 45 or higher",
+    "card_count": 5,
+    "total_cards": 52,
+    "description": "I think it's a pack of Fiend-Type Monsters.\nBrrr, frightening!",
+    "description_extra": "This has lots of Fiend-Type monsters."
+}
+
+### Skillful Spellcasters
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 26,
+    "name": "Skillful Spellcasters",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Skillful_Spellcasters-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 50 or higher",
+    "card_count": 5,
+    "total_cards": 49,
+    "description": "I think it's a pack of Spellcaster-Type Monsters.",
+    "description_extra": "This has lots of Spellcaster-Type monsters."
+}
+
+### Cold Skin
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 27,
+    "name": "Cold Skin",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Cold_Skin-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duel Ranking percentage of 50% or higher",
+    "card_count": 5,
+    "total_cards": 50,
+    "description": "I heard that Zombie-Type monsters are in this pack.",
+    "description_extra": "A lot of Zombie-Type monsters in this pack, you know."
+}
+
+### Ritual Dance
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 28,
+    "name": "Ritual Dance",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Ritual_Dance-Booster-GX02-Localized.png",
+    "unlock_methods": "Having at least 20 hours of play time in your save file",
+    "card_count": 5,
+    "total_cards": 47,
+    "description": "People say the cards in this pack can be used in rituals.",
+    "description_extra": "I heard this pack has cards you can use for Ritual Summoning."
+}
+
+### Symbol 50
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 29,
+    "name": "Symbol 50",
+    "price": 300,
+    "image_url": "https://yugipedia.com/wiki/File:Symbol_50-Booster-GX02-Localized.png",
+    "unlock_methods": "Having a Duelist Level of 50 or higher",
+    "card_count": 5,
+    "total_cards": 0,
+    "description": "This mysterious pack tends to have cards you don't have in it.",
+    "description_extra": "Find some cards you don't have in this pack!"
+}
+
+### Wave of the Future
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 30,
+    "name": "Wave of the Future",
+    "price": 300,
+    "image_url": "https://yugipedia.com/wiki/File:Wave_of_the_Future-Booster-GX02-Localized.png",
+    "unlock_methods": "Available while having a streak of at least 10 victories in a row during a single Part of the game",
+    "card_count": 5,
+    "total_cards": 52,
+    "description": "This pack contains recent cards.\nI like new better than old too. Hee hee.",
+    "description_extra": "This pack has new cards."
+}
+
+### Good Ol' Days
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 31,
+    "name": "Good Ol' Days",
+    "price": 300,
+    "image_url": "https://yugipedia.com/wiki/File:Good_Ol%27_Days-Booster-GX02-Localized.png",
+    "unlock_methods": "Available while having a streak of at least 10 losses in a row during a single Part of the game",
+    "card_count": 5,
+    "total_cards": 49,
+    "description": "This pack has classic old cards.",
+    "description_extra": "This pack has old cards.\nI like antiques. They have that special flavor."
+}
+
+### Hero Emerges!
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 32,
+    "name": "Hero Emerges!",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Hero_Emerges%21-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Jaden Yuki",
+    "card_count": 5,
+    "total_cards": 60,
+    "description": "Jaden uses these cards.",
+    "description_extra": "We've gathered together Jaden's cards."
+}
+
+### A Machine's Soul Never Sleeps
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 33,
+    "name": "A Machine's Soul Never Sleeps",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:A_Machine%27s_Soul_Never_Sleeps-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Syrus Truesdale",
+    "card_count": 5,
+    "total_cards": 40,
+    "description": "Syrus uses these cards.",
+    "description_extra": "We've gathered together Syrus' cards."
+}
+
+### Beast Kingdom
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 34,
+    "name": "Beast Kingdom",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Beast_Kingdom-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Chumley Huffington",
+    "card_count": 5,
+    "total_cards": 40,
+    "description": "Chumley uses these cards.",
+    "description_extra": "We've gathered together Chumley's cards."
+}
+
+### Maiden's Heartbeat
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 35,
+    "name": "Maiden's Heartbeat",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Maiden%27s_Heartbeat-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Alexis Rhodes",
+    "card_count": 5,
+    "total_cards": 39,
+    "description": "Alexis uses these cards.",
+    "description_extra": "We've gathered together Alexis' cards."
+}
+
+### Never Give Up
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 36,
+    "name": "Never Give Up",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Never_Give_Up-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Chazz Princeton",
+    "card_count": 5,
+    "total_cards": 40,
+    "description": "Chazz uses these cards.",
+    "description_extra": "We've gathered together Chazz's cards."
+}
+
+### Warrior's Pyramid
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 37,
+    "name": "Warrior's Pyramid",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Warrior%27s_Pyramid-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Bastion Misawa",
+    "card_count": 5,
+    "total_cards": 40,
+    "description": "Bastion uses these cards.",
+    "description_extra": "We've gathered together Bastion's cards."
+}
+
+### Technology Master
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 38,
+    "name": "Technology Master",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Technology_Master-Booster-GX02-Localized.png",
+    "unlock_methods": "Have the best relation with Zane Truesdale",
+    "card_count": 5,
+    "total_cards": 40,
+    "description": "We've gathered Zane's cards for your enjoyment!",
+    "description_extra": "Zane uses these cards."
+}
+
+### Bit Players
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 39,
+    "name": "Bit Players",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Bit_Players-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 2 and Part 3 if the player is partnered with a Duelist 2 character.",
+    "card_count": 5,
+    "total_cards": 0,
+    "description": "We've gathered normal rare cards.",
+    "description_extra": "We've gathered normal rare cards and put them in a pack."
+}
+
+### Vanilla Gloom
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 40,
+    "name": "Vanilla Gloom",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Vanilla_Gloom-Booster-GX02-Localized.png",
+    "unlock_methods": "Available if the player is partnered with a Duelist 3 character.",
+    "card_count": 5,
+    "total_cards": 170,
+    "description": "When I hear the word \"vanilla,\" I get a little teary-eyed.\nI wonder why…",
+    "description_extra": "I like the taste of vanilla."
+}
+
+### Tag Survivor
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 41,
+    "name": "Tag Survivor",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Tag_Survivor-Booster-GX02-Localized.png",
+    "unlock_methods": "Available for purchase only in Part 2 and Part 3, regardless of the player's partner.",
+    "card_count": 5,
+    "total_cards": 52,
+    "description": "I think you should buy this pack if you're going to tag duel.",
+    "description_extra": "How about one for a tag duel?"
+}
+
+### Princeton Power
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 42,
+    "name": "Princeton Power",
+    "price": 50,
+    "image_url": "https://yugipedia.com/wiki/File:Princeton_Power-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlocked for purchase by finishing Part 3 with Chazz Princeton, Slade Princeton and Jagger Princeton.",
+    "card_count": 5,
+    "total_cards": 38,
+    "description": "The Princeton Group forced me to stock this pack in my store.",
+    "description_extra": "The Princeton Group are so arrogant that I don't like 'em."
+}
+
+### Approach the Hotties
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 43,
+    "name": "Approach the Hotties",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Approach_the_Hotties-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlocked for purchase by finishing Part 3 with Mindy.",
+    "card_count": 5,
+    "total_cards": 35,
+    "description": "This pack is chock full of hotties!\n*blush*",
+    "description_extra": "I care more about kindness than looks."
+}
+
+### Dorothy's Soul
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 44,
+    "name": "Dorothy's Soul",
+    "price": 50,
+    "image_url": "https://yugipedia.com/wiki/File:Dorothy%27s_Soul-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlocked for purchase by finishing Part 3 with Dorothy.",
+    "card_count": 5,
+    "total_cards": 43,
+    "description": "From the bottom of my heart!",
+    "description_extra": "It's a present from Dorothy."
+}
+
+### Sadie's Soul
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 45,
+    "name": "Sadie's Soul",
+    "price": 50,
+    "image_url": "https://yugipedia.com/wiki/File:Sadie%27s_Soul-Booster-GX02-Localized.png",
+    "unlock_methods": "Unlocked for purchase by finishing Part 3 with Sadie.",
+    "card_count": 5,
+    "total_cards": 43,
+    "description": "Straight from Sadie's heart!",
+    "description_extra": "It's a present from me!♪"
+}
+
+### Midday Constellation (Noon Star)
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 46,
+    "name": "Midday Constellation (Noon Star)",
+    "price": 5730,
+    "image_url": "https://yugipedia.com/wiki/File:Midday_Constellation_%28Noon_Star%29-Booster-GX02-Localized.png",
+    "unlock_methods": "Enter the Konami Code; ↑↑↓↓←→←→×○, while browsing packs in the shop.",
+    "card_count": 5,
+    "total_cards": 27,
+    "description": "Up, up, down, down, left, right, left, right...\nI wonder what that's all about.",
+    "description_extra": "Well this is certainly a nice pack to end up with!"
+}
+
+### Double Triple Destiny Draw
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 47,
+    "name": "Double Triple Destiny Draw",
+    "price": 100,
+    "image_url": "https://yugipedia.com/wiki/File:Double_Triple_Destiny_Draw-Booster-GX02-Localized.png",
+    "unlock_methods": "Obtain the Golden Egg Sandwich at least once.",
+    "card_count": 5,
+    "total_cards": 39,
+    "description": "If you buy this pack, maybe even Damon will show up...",
+    "description_extra": "Draw! Draw! Draw!\nThis pack helps you increase your draw!"
+}
+
+### Checkered Flag
+
+POST http://localhost:3000/packs
+Content-Type: application/json
+
+{
+    "id": 48,
+    "name": "Checkered Flag",
+    "price": 300,
+    "image_url": "https://yugipedia.com/wiki/File:Checkered_Flag-Booster-GX02-Localized.png",
+    "unlock_methods": "Obtain 90% of all cards in the game.",
+    "card_count": 5,
+    "total_cards": 0,
+    "description": "This is a legendary pack!",
+    "description_extra": "You're close to gathering all the cards!"
+}
