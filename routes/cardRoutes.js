@@ -1,7 +1,12 @@
 import { Router } from 'express';
-const router = Router();
-import { getAllCards } from '../controllers/cardController.js';
+import CardController from '../controllers/CardController.js';
+import { validateIdParam, validatePaginationParams } from '../middleware/validateParams.js';
 
-router.get('/', getAllCards);
+
+const router = Router();
+
+// Rutas para cartas
+router.get('/', validatePaginationParams, CardController.getAllCards);
+router.get('/:id', validateIdParam, CardController.getCardById);
 
 export default router;

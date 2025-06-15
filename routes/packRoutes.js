@@ -1,11 +1,11 @@
 import { Router } from 'express';
-const router = Router();
-import { getAllPacks, getPackById, createPack, updatePack, deletePack } from '../controllers/packController.js';
+import PackController from '../controllers/PackController.js';
 
-router.get('/', getAllPacks);
-router.get('/:id', getPackById);
-router.post('/', createPack);
-router.put('/:id', updatePack);
-router.delete('/:id', deletePack);
+const router = Router();
+
+// Rutas para packs
+router.get('/', PackController.getAllPacks);
+router.get('/:id', PackController.getPackById);
+router.get('/:id/cards', PackController.getPackCards);
 
 export default router;

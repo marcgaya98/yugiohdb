@@ -1,0 +1,9526 @@
+[
+  {
+    "packName": "First Monster",
+    "cards": [
+      {
+        "name": "Blue-Eyes White Dragon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Summoned Skull",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dark Magician",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Red-Eyes B. Dragon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Gaia The Fierce Knight",
+        "rarity": "Super"
+      },
+      {
+        "name": "Giant Soldier of Stone",
+        "rarity": "Super"
+      },
+      {
+        "name": "Millennium Shield",
+        "rarity": "Super"
+      },
+      {
+        "name": "Oppressed People",
+        "rarity": "Super"
+      },
+      {
+        "name": "D.D. Trainer",
+        "rarity": "Super"
+      },
+      {
+        "name": "Gogiga Gagagigo",
+        "rarity": "Super"
+      },
+      {
+        "name": "Neo Aqua Madoor",
+        "rarity": "Super"
+      },
+      {
+        "name": "Curse of Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Aqua Madoor",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Prevent Rat",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ushi Oni",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Island Turtle",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Earthbound Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Inpachi",
+        "rarity": "Rare"
+      },
+      {
+        "name": "People Running About",
+        "rarity": "Rare"
+      },
+      {
+        "name": "United Resistance",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Acrobat Monkey",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Skull Dog Marron",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Shadow Specter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beaver Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Saggi the Dark Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Griffore",
+        "rarity": "Common"
+      },
+      {
+        "name": "Torike",
+        "rarity": "Common"
+      },
+      {
+        "name": "Big Insect",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giant Flea",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mammoth Graveyard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wolf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kojikocy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jellyfish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Uraby",
+        "rarity": "Common"
+      },
+      {
+        "name": "King of Yamimakai",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sleeping Lion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Plant",
+        "rarity": "Common"
+      },
+      {
+        "name": "The 13th Grave",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Judgement Hand",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Jar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark King of the Abyss",
+        "rarity": "Common"
+      },
+      {
+        "name": "Turtle Tiger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Water Omotics",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Tree of Enlightenment",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tao the Chanter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Change Slime",
+        "rarity": "Common"
+      },
+      {
+        "name": "Toon Alligator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Rabbit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blocker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Golgoil",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kappa Avenger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destroyer Golem",
+        "rarity": "Common"
+      },
+      {
+        "name": "Garvas",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kattapillar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fungi of the Musk",
+        "rarity": "Common"
+      },
+      {
+        "name": "Laughing Flower",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bean Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bone Mouse",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yormungarde",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pale Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Lizard Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Red Archery Girl",
+        "rarity": "Common"
+      },
+      {
+        "name": "Grand Tiki Elder",
+        "rarity": "Common"
+      },
+      {
+        "name": "Melchid the Four-Face Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Souls of the Forgotten",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Portrait's Secret",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Gross Ghost of Fled Dreams",
+        "rarity": "Common"
+      },
+      {
+        "name": "Headless Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Earl of Demise",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gigobyte",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend Scorpion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin Calligrapher",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "First Spell・Trap",
+    "cards": [
+      {
+        "name": "Swords of Revealing Light",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Waboku",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Nightmare's Steelcage",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Shield & Sword",
+        "rarity": "Super"
+      },
+      {
+        "name": "Share the Pain",
+        "rarity": "Super"
+      },
+      {
+        "name": "Backup Soldier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Adhesion Trap Hole",
+        "rarity": "Super"
+      },
+      {
+        "name": "Self-Destruct Button",
+        "rarity": "Super"
+      },
+      {
+        "name": "Back to Square One",
+        "rarity": "Super"
+      },
+      {
+        "name": "Threatening Roar",
+        "rarity": "Super"
+      },
+      {
+        "name": "Stop Defense",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Reverse Trap",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Lightforce Sword",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Block Attack",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Graverobber",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Windstorm of Etaqua",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cold Wave",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fiend Comedian",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Huge Revolution",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Zero Gravity",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark-Piercing Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mesmeric Control",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Dice",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravedigger Ghoul",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Inexperienced Spy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Reinforcements",
+        "rarity": "Common"
+      },
+      {
+        "name": "Castle Walls",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Telescope",
+        "rarity": "Common"
+      },
+      {
+        "name": "Curse of Fiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Final Destiny",
+        "rarity": "Common"
+      },
+      {
+        "name": "Darkness Approaches",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fairy's Hand Mirror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Snake Fang",
+        "rarity": "Common"
+      },
+      {
+        "name": "Major Riot",
+        "rarity": "Common"
+      },
+      {
+        "name": "Solomon's Lawbook",
+        "rarity": "Common"
+      },
+      {
+        "name": "Seal of the Ancients",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chosen One",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mask of Weakness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Multiplication of Ants",
+        "rarity": "Common"
+      },
+      {
+        "name": "Insect Imitation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Exchange",
+        "rarity": "Common"
+      },
+      {
+        "name": "Deal of Phantom",
+        "rarity": "Common"
+      },
+      {
+        "name": "A Feint Plan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spell Reproduction",
+        "rarity": "Common"
+      },
+      {
+        "name": "De-Spell Germ Weapon",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Secret of the Bandit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bubble Crash",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Designator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hieroglyph Lithograph",
+        "rarity": "Common"
+      },
+      {
+        "name": "Curse of Aging",
+        "rarity": "Common"
+      },
+      {
+        "name": "Non Aggression Area",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gather Your Mind",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sage's Stone",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dice Re-Roll",
+        "rarity": "Common"
+      },
+      {
+        "name": "Energy Drain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jade Insect Whistle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Micro Ray",
+        "rarity": "Common"
+      },
+      {
+        "name": "Order to Charge",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Law of the Normal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thousand Energy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Triangle Power",
+        "rarity": "Common"
+      },
+      {
+        "name": "Order to Smash",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fruits of Kozaky's Studies",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mind Haxorz",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pot of Generosity",
+        "rarity": "Common"
+      },
+      {
+        "name": "Simultaneous Loss",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destruction of Destiny",
+        "rarity": "Common"
+      },
+      {
+        "name": "Life Equalizer",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "First Fusion",
+    "cards": [
+      {
+        "name": "Polymerization",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Fusion Sage",
+        "rarity": "Super"
+      },
+      {
+        "name": "Summoner of Illusions",
+        "rarity": "Super"
+      },
+      {
+        "name": "Flame Swordsman",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Monster Eye",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Punished Eagle",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rose Spectre of Dunn",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ryu-Kishin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Feral Imp",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tyhone",
+        "rarity": "Common"
+      },
+      {
+        "name": "Karbonala Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hercules Beetle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Silver Fang",
+        "rarity": "Common"
+      },
+      {
+        "name": "Man-Eating Plant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Barox",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystic Horseman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rabid Horseman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wings of Wicked Flame",
+        "rarity": "Common"
+      },
+      {
+        "name": "Charubin the Fire Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flame Manipulator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Temple of Skulls",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rhaimundos of the Red Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Firegrass",
+        "rarity": "Common"
+      },
+      {
+        "name": "M-Warrior #1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Darkfire Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armaill",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fusionist",
+        "rarity": "Common"
+      },
+      {
+        "name": "Petit Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Petit Angel",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hinotama Soul",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rare Fish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beautiful Headhuntress",
+        "rarity": "Common"
+      },
+      {
+        "name": "Enchanting Mermaid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mavelus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ground Attacker Bugroth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Protector of the Throne",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystical Sheep 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fireyarou",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragoness the Wicked Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "One-Eyed Shield Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sonic Maid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giltia the D. Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ocubeam",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metal Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Deepsea Shark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Defender of the Sea",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kaminari Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Vermillion Sparrow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kuwagata Alpha",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pragtical",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flower Wolf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skullbird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kwagar Hercules",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mega Thunderball",
+        "rarity": "Common"
+      },
+      {
+        "name": "Niwatori",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tongyo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Behegon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Steel Ogre Grotto 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lesser Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Darkworld Thorns",
+        "rarity": "Common"
+      },
+      {
+        "name": "Trakadon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Takuhee",
+        "rarity": "Common"
+      },
+      {
+        "name": "Marine Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Warrior of Tradition",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blue-Winged Crown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amphibious Bugroth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flame Viper",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "First Effect Monster",
+    "cards": [
+      {
+        "name": "Sangan",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Kaibaman",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dark Eradicator Warlock",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Time Wizard",
+        "rarity": "Super"
+      },
+      {
+        "name": "Kuriboh",
+        "rarity": "Super"
+      },
+      {
+        "name": "D.D. Warrior",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Magician Girl",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ancient Lamp",
+        "rarity": "Super"
+      },
+      {
+        "name": "White Magical Hat",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Pinch Hopper",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sword Hunter",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Wall of Illusion",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Buster Blader",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gearfried the Iron Knight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hayabusa Knight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cat's Ear Tribe",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hyper Hammerhead",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Prickle Fairy",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Swamp Battleguard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crass Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dream Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tainted Wisdom",
+        "rarity": "Common"
+      },
+      {
+        "name": "Penguin Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wodan the Resident of the Forest",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Little Swordsman of Aile",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jirai Gumo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zone Eater",
+        "rarity": "Common"
+      },
+      {
+        "name": "Steel Scorpion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Swordsman from a Foreign Land",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cockroach Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yado Karu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Muka Muka",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Elf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lava Battleguard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Electric Lizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Invitation to a Dark Sleep",
+        "rarity": "Common"
+      },
+      {
+        "name": "Panther Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Drill Bug",
+        "rarity": "Common"
+      },
+      {
+        "name": "Total Defense Shogun",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flash Assailant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Karate Man",
+        "rarity": "Common"
+      },
+      {
+        "name": "Boar Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ceremonial Bell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kryuel",
+        "rarity": "Common"
+      },
+      {
+        "name": "Arsenal Bug",
+        "rarity": "Common"
+      },
+      {
+        "name": "Archfiend of Gilfer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Sage",
+        "rarity": "Common"
+      },
+      {
+        "name": "Byser Shock",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ryu-Kishin Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Hunter with 7 Weapons",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Phantom Thief",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blindly Loyal Goblin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Emissary of the Oasis",
+        "rarity": "Common"
+      },
+      {
+        "name": "Familiar Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Element Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mind on Air",
+        "rarity": "Common"
+      },
+      {
+        "name": "Element Saurus",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Step Up Spell・Trap",
+    "cards": [
+      {
+        "name": "Last Will",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Confiscation",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Giant Trunade",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "The Shallow Grave",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Soul Release",
+        "rarity": "Super"
+      },
+      {
+        "name": "Foolish Burial",
+        "rarity": "Super"
+      },
+      {
+        "name": "Reasoning",
+        "rarity": "Super"
+      },
+      {
+        "name": "Compulsory Evacuation Device",
+        "rarity": "Super"
+      },
+      {
+        "name": "Monster Gate",
+        "rarity": "Super"
+      },
+      {
+        "name": "Curse of Anubis",
+        "rarity": "Super"
+      },
+      {
+        "name": "Soul Resurrection",
+        "rarity": "Super"
+      },
+      {
+        "name": "Hallowed Life Barrier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Time Machine",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Magic Curtain",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Magical Hats",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Riryoku",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Shift",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Book of Taiyou",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Trap Dustshoot",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Monster Relief",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Clone Duplication",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cost Down",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Tribute Doll",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Physical Double",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Big Burn",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Mirror Force",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Desert Sunlight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "A Feather of the Phoenix",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Phoenix Wing Wind Blast",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Forced Ceasefire",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rising Energy",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Big Evolution Pill",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dimensionhole",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thousand Knives",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Magician's Tome of Black Magic",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Spirit of the Silent",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spiritualism",
+        "rarity": "Common"
+      },
+      {
+        "name": "Miracle Dig",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rope of Life",
+        "rarity": "Common"
+      },
+      {
+        "name": "Disappear",
+        "rarity": "Common"
+      },
+      {
+        "name": "Reversal Quiz",
+        "rarity": "Common"
+      },
+      {
+        "name": "Interdimensional Matter Transporter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Core",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thunder of Ruler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Emblem of Dragon Destroyer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hidden Book of Spell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Staunch Defender",
+        "rarity": "Common"
+      },
+      {
+        "name": "Frozen Soul",
+        "rarity": "Common"
+      },
+      {
+        "name": "D.D. Designator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dimension Distortion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chain Disappearance",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ultra Evolution Pill",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend's Hand Mirror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Earthquake",
+        "rarity": "Common"
+      },
+      {
+        "name": "Earthbound Spirit's Invitation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sword of the Soul-Eater",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dust Barrier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Delta Attacker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Human-Wave Tactics",
+        "rarity": "Common"
+      },
+      {
+        "name": "Abyssal Designator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Taunt",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mind Crush",
+        "rarity": "Common"
+      },
+      {
+        "name": "Level Conversion Lab",
+        "rarity": "Common"
+      },
+      {
+        "name": "Conscription",
+        "rarity": "Common"
+      },
+      {
+        "name": "Karma Cut",
+        "rarity": "Common"
+      },
+      {
+        "name": "Next to be Lost",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hunting Instinct",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tail Swipe",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Step Up Fusion",
+    "cards": [
+      {
+        "name": "The Last Warrior from Another Planet",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Metamorphosis",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Thunder Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Crimson Sunbird",
+        "rarity": "Super"
+      },
+      {
+        "name": "Twin-Headed Thunder Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fusion Gate",
+        "rarity": "Super"
+      },
+      {
+        "name": "Centrifugal Field",
+        "rarity": "Super"
+      },
+      {
+        "name": "Re-Fusion",
+        "rarity": "Super"
+      },
+      {
+        "name": "Goddess with the Third Eye",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Beastking of the Swamps",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Versago the Destroyer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mystical Sheep #1",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Zombyra the Dark",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Supply",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Maryokutai",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mispolymerization",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Branch!",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Non-Fusion Area",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Winged Dragon, Guardian of the Fortress 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blackland Fire Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zombie Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Two-Headed King Rex",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Snake Hair",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Curtain of the Dark Ones",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kamionwizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Faith Bird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lord of the Lamp",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Brain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flame Ghost",
+        "rarity": "Common"
+      },
+      {
+        "name": "Roaring Ocean Snake",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bickuribox",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kaiser Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Aqua Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Red Bird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Soul Hunter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Musician King",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Saurus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bracchio-raidus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystical Sand",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skelgon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Invader from Another Dimension",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Mammoth of Goldfine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Man-eating Black Shark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Empress Judge",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fairy Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lady of Faith",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazon of the Seas",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gruesome Goo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hyosube",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gazelle the King of Mythical Beasts",
+        "rarity": "Common"
+      },
+      {
+        "name": "Berfomet",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chimera the Flying Mythical Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Humanoid Slime",
+        "rarity": "Common"
+      },
+      {
+        "name": "Worm Drake",
+        "rarity": "Common"
+      },
+      {
+        "name": "Humanoid Worm Drake",
+        "rarity": "Common"
+      },
+      {
+        "name": "Roboyarou",
+        "rarity": "Common"
+      },
+      {
+        "name": "Super Robolady",
+        "rarity": "Common"
+      },
+      {
+        "name": "Super Roboyarou",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sanwitch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Memory Crusher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Success Probability 0%",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Anti Effect",
+    "cards": [
+      {
+        "name": "Jinzo",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Heavy Storm",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Mystical Space Typhoon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Skill Drain",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Skull Descovery Knight",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Royal Decree",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dust Tornado",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Balter the Terrible",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ryu Senshi",
+        "rarity": "Super"
+      },
+      {
+        "name": "Tyrant Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fiend Skull Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Calamity of the Wicked",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spell Canceller",
+        "rarity": "Super"
+      },
+      {
+        "name": "Chiron the Mage",
+        "rarity": "Super"
+      },
+      {
+        "name": "The End of Anubis",
+        "rarity": "Super"
+      },
+      {
+        "name": "Alkana Knight Joker",
+        "rarity": "Super"
+      },
+      {
+        "name": "Big Shield Gardna",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Amplifier",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Nobleman of Extermination",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Royal Command",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Bait Doll",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Double Snare",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Swarm of Locusts",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Timidity",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blade Knight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Chaos Command Magician",
+        "rarity": "Rare"
+      },
+      {
+        "name": "My Body as a Shield",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Invader of Darkness",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rare Metalmorph",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mid Shield Gardna",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Anteatereatingant",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gorgon's Eye",
+        "rarity": "Common"
+      },
+      {
+        "name": "Remove Trap",
+        "rarity": "Common"
+      },
+      {
+        "name": "De-Spell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gust",
+        "rarity": "Common"
+      },
+      {
+        "name": "Driving Snow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armored Glass",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystic Probe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metal Detector",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Emperor's Holiday",
+        "rarity": "Common"
+      },
+      {
+        "name": "Enchanted Arrow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Twin-Headed Wolf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Frontier Wiseman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magic Reflector",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gora Turtle of Illusion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Arcane Archer of the Forest",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gemini Fiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sorcerer of Dark Magic",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Life Breaker",
+    "cards": [
+      {
+        "name": "Dark Hole",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Torrential Tribute",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Lightning Vortex",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Exiled Force",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Tribe-Infecting Virus",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Macro Cosmos",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Acid Trap Hole",
+        "rarity": "Super"
+      },
+      {
+        "name": "Widespread Ruin",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fissure",
+        "rarity": "Super"
+      },
+      {
+        "name": "Trap Hole",
+        "rarity": "Super"
+      },
+      {
+        "name": "Tribute to The Doomed",
+        "rarity": "Super"
+      },
+      {
+        "name": "Nobleman of Crossout",
+        "rarity": "Super"
+      },
+      {
+        "name": "Bottomless Trap Hole",
+        "rarity": "Super"
+      },
+      {
+        "name": "Bottomless Shifting Sand",
+        "rarity": "Super"
+      },
+      {
+        "name": "Needle Wall",
+        "rarity": "Super"
+      },
+      {
+        "name": "Sakuretsu Armor",
+        "rarity": "Super"
+      },
+      {
+        "name": "Smashing Ground",
+        "rarity": "Super"
+      },
+      {
+        "name": "Grand Convergence",
+        "rarity": "Super"
+      },
+      {
+        "name": "Chain Destruction",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Tragedy",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Michizure",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mystic Box",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blind Destruction",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Throwstone Unit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Swarm of Scarabs",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Newdoria",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rope of Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Roulette Barrel",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Soul Taker",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hammer Shot",
+        "rarity": "Rare"
+      },
+      {
+        "name": "D.D. Trap Hole",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Icarus Attack",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Jurassic World",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Volcanic Eruption",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Eradicating Aerosol",
+        "rarity": "Common"
+      },
+      {
+        "name": "Breath of Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eternal Draught",
+        "rarity": "Common"
+      },
+      {
+        "name": "House of Adhesive Tape",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eatgaboon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin Fan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Two-Pronged Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "White Hole",
+        "rarity": "Common"
+      },
+      {
+        "name": "Earthshaker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Return of the Doomed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Infinite Dismissal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Lair",
+        "rarity": "Common"
+      },
+      {
+        "name": "Viser Des",
+        "rarity": "Common"
+      },
+      {
+        "name": "After the Struggle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Needle Ceiling",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pineapple Blast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Assault on GHQ",
+        "rarity": "Common"
+      },
+      {
+        "name": "Medusa Worm",
+        "rarity": "Common"
+      },
+      {
+        "name": "Weed Out",
+        "rarity": "Common"
+      },
+      {
+        "name": "Generation Shift",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Go Go Direct",
+    "cards": [
+      {
+        "name": "Catapult Turtle",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Blast Sphere",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Airknight Parshath",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Magic Cylinder",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Cannon Soldier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Exarion Universe",
+        "rarity": "Super"
+      },
+      {
+        "name": "Big Bang Shot",
+        "rarity": "Super"
+      },
+      {
+        "name": "Shooting Star Bow - Ceal",
+        "rarity": "Super"
+      },
+      {
+        "name": "Opti-Camouflage Armor",
+        "rarity": "Super"
+      },
+      {
+        "name": "Raging Flame Sprite",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dimension Wall",
+        "rarity": "Super"
+      },
+      {
+        "name": "Rancer Dragonute",
+        "rarity": "Super"
+      },
+      {
+        "name": "Jinzo 7",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gear Golem the Moving Fortress",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ectoplasmer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fairy Meteor Crush",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mad Sword Beast",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spear Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Inaba White Rabbit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mefist the Infernal General",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Enraged Battle Ox",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gaia Soul the Combustible Collective",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Castle Gate",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Shadowslayer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Baby Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystic Lamp",
+        "rarity": "Common"
+      },
+      {
+        "name": "Leghul",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ooguchi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rainbow Flower",
+        "rarity": "Common"
+      },
+      {
+        "name": "Queen's Double",
+        "rarity": "Common"
+      },
+      {
+        "name": "Alligator's Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Alligator's Sword Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mucus Yolk",
+        "rarity": "Common"
+      },
+      {
+        "name": "Servant of Catabolism",
+        "rarity": "Common"
+      },
+      {
+        "name": "Drillago",
+        "rarity": "Common"
+      },
+      {
+        "name": "Meteorain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mass Driver",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Driceratops",
+        "rarity": "Common"
+      },
+      {
+        "name": "Black Tyranno",
+        "rarity": "Common"
+      },
+      {
+        "name": "Anti-Aircraft Flower",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destruction Ring",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bitelon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rocket Jumper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Needle Burrower",
+        "rarity": "Common"
+      },
+      {
+        "name": "Atomic Firefly",
+        "rarity": "Common"
+      },
+      {
+        "name": "Piranha Army",
+        "rarity": "Common"
+      },
+      {
+        "name": "Man-Thro' Tro'",
+        "rarity": "Common"
+      },
+      {
+        "name": "Des Counterblow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Absolute End",
+        "rarity": "Common"
+      },
+      {
+        "name": "Astral Barrier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mecha-Dog Marron",
+        "rarity": "Common"
+      },
+      {
+        "name": "Saber Beetle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sonic Shooter",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Visitor from the Dark",
+    "cards": [
+      {
+        "name": "Crush Card Virus",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Don Zaloog",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Deck Devastation Virus",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Mystic Tomato",
+        "rarity": "Super"
+      },
+      {
+        "name": "Swift Gaia the Fierce Knight",
+        "rarity": "Super"
+      },
+      {
+        "name": "Cliff the Trap Remover",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Scorpion - Meanae the Thorn",
+        "rarity": "Super"
+      },
+      {
+        "name": "Double Coston",
+        "rarity": "Super"
+      },
+      {
+        "name": "Pitch-Black Warwolf",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fusilier Dragon, the Dual-Mode Beast",
+        "rarity": "Super"
+      },
+      {
+        "name": "D.D. Survivor",
+        "rarity": "Super"
+      },
+      {
+        "name": "La Jinn the Mystical Genie of the Lamp",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mechanical Spider",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Vorse Raider",
+        "rarity": "Rare"
+      },
+      {
+        "name": "8-Claws Scorpion",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hidden Soldiers",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Scorpion - Chick the Yellow",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Archfiend Soldier",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Scorpion - Gorg the Strong",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Strike Ninja",
+        "rarity": "Rare"
+      },
+      {
+        "name": "D.D. Scout Plane",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mad Dog of Darkness",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Dreadroute",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Horn Imp",
+        "rarity": "Common"
+      },
+      {
+        "name": "Koumori Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Trial of Nightmare",
+        "rarity": "Common"
+      },
+      {
+        "name": "Witty Phantom",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lord of Zemia",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Titan of Terror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Sorcerer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystic Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Soldier of Darkworld",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sword of Dark Destruction",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yaranzo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ryu-Kishin Powered",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yaiba Robo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magical Ghost",
+        "rarity": "Common"
+      },
+      {
+        "name": "Brave Scizzar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ghoul with an Appetite",
+        "rarity": "Common"
+      },
+      {
+        "name": "Whiptail Crow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Baron of the Fiend Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sorcerer of the Doomed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Luminous Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Illusory Gentleman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Timeater",
+        "rarity": "Common"
+      },
+      {
+        "name": "Opticlops",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Scorpion Burglars",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gil Garth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mustering of the Dark Scorpions",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Scorpion Combination",
+        "rarity": "Common"
+      },
+      {
+        "name": "Element Doom",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chthonian Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "D.D. Guide",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Emergent Fire",
+    "cards": [
+      {
+        "name": "Manticore of Darkness",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Sacred Phoenix of Nephthys",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "UFO Turtle",
+        "rarity": "Super"
+      },
+      {
+        "name": "Inferno",
+        "rarity": "Super"
+      },
+      {
+        "name": "Gren Maju Da Eiza",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ultimate Baseball Kid",
+        "rarity": "Super"
+      },
+      {
+        "name": "Thestalos the Firestorm Monarch",
+        "rarity": "Super"
+      },
+      {
+        "name": "Flame Ruler",
+        "rarity": "Super"
+      },
+      {
+        "name": "Infernal Flame Emperor",
+        "rarity": "Super"
+      },
+      {
+        "name": "Blast Juggler",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Little Chimera",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Jigen Bakudan",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rigras Leever",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spirit of Flames",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ultimate Obedient Fiend",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Battle Footballer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blazing Inpachi",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Thing in the Crater",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Twinheaded Beast",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Backfire",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Charcoal Inpachi",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Horus' Servant",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fox Fire",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blazing Hiita",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Garoozis",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fire Eye",
+        "rarity": "Common"
+      },
+      {
+        "name": "Launcher Spider",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giga-Tech Wolf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fire Kraken",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flame Cerebrus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tyhone 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Salamandra",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ryu-Ran",
+        "rarity": "Common"
+      },
+      {
+        "name": "Burning Spear",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flame Champion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Twin-Headed Fire Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Darkfire Soldier 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mr. Volcano",
+        "rarity": "Common"
+      },
+      {
+        "name": "Darkfire Soldier #2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Robotic Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Molten Behemoth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flame Dancer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gadget Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dokuroyaiba",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lady Assailant of Flames",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fire Sorcerer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Angus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Woodborg Inpachi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Invasion of Flames",
+        "rarity": "Common"
+      },
+      {
+        "name": "Firebird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Infernal Incinerator",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Water of Life",
+    "cards": [
+      {
+        "name": "Levia-Dragon - Daedalus",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Mobius the Frost Monarch",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Treeborn Frog",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Mother Grizzly",
+        "rarity": "Super"
+      },
+      {
+        "name": "Maiden of the Aqua",
+        "rarity": "Super"
+      },
+      {
+        "name": "A Legendary Ocean",
+        "rarity": "Super"
+      },
+      {
+        "name": "Gora Turtle",
+        "rarity": "Super"
+      },
+      {
+        "name": "Nightmare Penguin",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fenrir",
+        "rarity": "Super"
+      },
+      {
+        "name": "Abyss Soldier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Star Boy",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Serpentine Princess",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Tornado Wall",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Aqua Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Lord Poison",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Yomi Ship",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gagagigo",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Giga Gagagigo",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Terrorking Salmon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Amphibious Bugroth MK-3",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Orca Mega-Fortress of Darkness",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Salvage",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Unshaven Angler",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ocean Dragon Lord - Neo-Daedalus",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Raging Eria",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Steel Shell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Takriminos",
+        "rarity": "Common"
+      },
+      {
+        "name": "7 Colored Fish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crazy Fish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Violent Rain",
+        "rarity": "Common"
+      },
+      {
+        "name": "High Tide Gyojin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fairy of the Fountain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Deepsea Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Revival Jam",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amphibian Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Legendary Fisherman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jam Defender",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Mariner",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kabazauls",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lekunga",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sea Serpent Warrior of Darkness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Don Turtle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Torpedo Fish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cannonball Spear Shellfish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mermaid Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Big Wave Small Wave",
+        "rarity": "Common"
+      },
+      {
+        "name": "Creeping Doom Manta",
+        "rarity": "Common"
+      },
+      {
+        "name": "Des Frog",
+        "rarity": "Common"
+      },
+      {
+        "name": "T.A.D.P.O.L.E.",
+        "rarity": "Common"
+      },
+      {
+        "name": "Poison Draw Frog",
+        "rarity": "Common"
+      },
+      {
+        "name": "Des Croaking",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beelze Frog",
+        "rarity": "Common"
+      },
+      {
+        "name": "Grass Phantom",
+        "rarity": "Common"
+      },
+      {
+        "name": "D.3.S. Frog",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Gift of Wind",
+    "cards": [
+      {
+        "name": "Slate Warrior",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "The Tricky",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Black Ptera",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Flying Kamakiri #1",
+        "rarity": "Super"
+      },
+      {
+        "name": "Silpheed",
+        "rarity": "Super"
+      },
+      {
+        "name": "Insect Princess",
+        "rarity": "Super"
+      },
+      {
+        "name": "Hand of Nephthys",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dreadscythe Slayer",
+        "rarity": "Super"
+      },
+      {
+        "name": "Swift Birdman Joe",
+        "rarity": "Super"
+      },
+      {
+        "name": "Bladefly",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Little-Winguard",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sonic Jammer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Garuda the Wind Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Tricky's Magic 4",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Whirlwind Prodigy",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Adhesive Explosive",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Whirlwind Weasel",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Storming Wynn",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Simorgh, Bird of Divinity",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rallis the Star Bird",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spirit of the Books",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yamatano Dragon Scroll",
+        "rarity": "Common"
+      },
+      {
+        "name": "Djinn the Watcher of the Wind",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kurama",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dancing Elf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bat",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sky Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wing Eagle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Queen Bird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Air Eater",
+        "rarity": "Common"
+      },
+      {
+        "name": "Insect Soldiers of the Sky",
+        "rarity": "Common"
+      },
+      {
+        "name": "Peacock",
+        "rarity": "Common"
+      },
+      {
+        "name": "Monstrous Bird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Winged Dragon, Guardian of the Fortress 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crow Goblin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend Reflection 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gust Fan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Bat",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flying Kamakiri 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flying Fish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Girochin Kuwagata",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bombardment Beetle",
+        "rarity": "Common"
+      },
+      {
+        "name": "4-Starred Ladybug of Doom",
+        "rarity": "Common"
+      },
+      {
+        "name": "The All-Seeing White Tiger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gray Wing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Winged Sage Falcos",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sonic Duck",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nin-Ken Dog",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chaosrider Gustaph",
+        "rarity": "Common"
+      },
+      {
+        "name": "Roc from the Valley of Haze",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eagle Eye",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Platinum Light",
+    "cards": [
+      {
+        "name": "Zaborg the Thunder Monarch",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Elemental Mistress Doriado",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Golden Homunculus",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Reflect Bounder",
+        "rarity": "Super"
+      },
+      {
+        "name": "Shining Angel",
+        "rarity": "Super"
+      },
+      {
+        "name": "Freed the Brave Wanderer",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ninja Grandmaster Sasuke",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Creator",
+        "rarity": "Super"
+      },
+      {
+        "name": "Batteryman AA",
+        "rarity": "Super"
+      },
+      {
+        "name": "Helios Tris Megistus",
+        "rarity": "Super"
+      },
+      {
+        "name": "Super Conductor Tyranno",
+        "rarity": "Super"
+      },
+      {
+        "name": "Hoshiningen",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Soul of Purity and Light",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Kaiser Sea Horse",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gilford the Lightning",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mystical Knight of Jackal",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Emes the Infinity",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Andro Sphinx",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sphinx Teleia",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Theinen the Great Sphinx",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Creator Incarnate",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Battery Charger",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Helios Duo Megistus",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Super-Electromagnetic Voltech Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Oscillo Hero 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend Reflection 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ray & Temperature",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Artist",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elf's Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Binding Chain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shining Friendship",
+        "rarity": "Common"
+      },
+      {
+        "name": "Maiden of the Moonlight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bright Castle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dunames Dark Witch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wingweaver",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bio-Mage",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dreamsprite",
+        "rarity": "Common"
+      },
+      {
+        "name": "Queen's Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "King's Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jack's Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ray of Hope",
+        "rarity": "Common"
+      },
+      {
+        "name": "Teva",
+        "rarity": "Common"
+      },
+      {
+        "name": "Solar Ray",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beckoning Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pyramid of Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Element Magician",
+        "rarity": "Common"
+      },
+      {
+        "name": "Homunculus the Alchemic Being",
+        "rarity": "Common"
+      },
+      {
+        "name": "Element Valkyrie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Doriado's Blessing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Batteryman C",
+        "rarity": "Common"
+      },
+      {
+        "name": "Helios - The Primordial Sun",
+        "rarity": "Common"
+      },
+      {
+        "name": "Batteryman D",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Earth Dwellers",
+    "cards": [
+      {
+        "name": "Guardian Sphinx",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Megarock Dragon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Tyranno Infinity",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Stone Statue of the Aztecs",
+        "rarity": "Super"
+      },
+      {
+        "name": "Giant Rat",
+        "rarity": "Super"
+      },
+      {
+        "name": "Marauding Captain",
+        "rarity": "Super"
+      },
+      {
+        "name": "Gigantes",
+        "rarity": "Super"
+      },
+      {
+        "name": "Master Monk",
+        "rarity": "Super"
+      },
+      {
+        "name": "Doom Dozer",
+        "rarity": "Super"
+      },
+      {
+        "name": "Black Stego",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ultimate Tyranno",
+        "rarity": "Super"
+      },
+      {
+        "name": "Milus Radiant",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gemini Elf",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Goblin Attack Force",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Rock Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gilasaurus",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Maximum Six",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Legendary Jujitsu Master",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Howling Insect",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Trojan Horse",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Insect Knight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Golem Sentry",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hieracosphinx",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Criosphinx",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gilford the Legend",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Exxod, Master of The Guard",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Avalanching Aussa",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Axe Raider",
+        "rarity": "Common"
+      },
+      {
+        "name": "Invigoration",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cobraman Sakuzy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Neo Bug",
+        "rarity": "Common"
+      },
+      {
+        "name": "Disc Fighter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Legacy Hunter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ghost Knight of Jackal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Enraged Muka Muka",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blockman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chu-Ske the Mouse Fighter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Granmarg the Rock Monarch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Millennium Scorpion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lost Guardian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Grave Ohja",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mine Golem",
+        "rarity": "Common"
+      },
+      {
+        "name": "Monk Fighter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Statue",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kaminote Blow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Legendary Black Belt",
+        "rarity": "Common"
+      },
+      {
+        "name": "Minefield Eruption",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rock Bombardment",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jerry Beans Man",
+        "rarity": "Common"
+      },
+      {
+        "name": "Parasitic Ticky",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gokipon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sand Moth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Spirit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Miracle Jurassic Egg",
+        "rarity": "Common"
+      },
+      {
+        "name": "Babycerasaurus",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Endless Thoughts",
+    "cards": [
+      {
+        "name": "Call of the Haunted",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Gravity Bind",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Spell Economics",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Kunai with Chain",
+        "rarity": "Super"
+      },
+      {
+        "name": "Shadow Spell",
+        "rarity": "Super"
+      },
+      {
+        "name": "Chain Energy",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Eye of Truth",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mask of Dispel",
+        "rarity": "Super"
+      },
+      {
+        "name": "Convulsion of Nature",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spirit Barrier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Toll",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Chorus of Sanctuary",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Skull Invitation",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Anti-Spell Fragrance",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Burning Land",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Graverobber's Retribution",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Vengeful Bog Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blast with Chain",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Archfiend's Oath",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Stumbling",
+        "rarity": "Rare"
+      },
+      {
+        "name": "DNA Transplant",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Swords of Concealing Light",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Forest",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wasteland",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mountain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sogen",
+        "rarity": "Common"
+      },
+      {
+        "name": "Umi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yami",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spellbinding Circle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Insect Barrier",
+        "rarity": "Common"
+      },
+      {
+        "name": "World Suppression",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Regulation of Tribe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Respect Play",
+        "rarity": "Common"
+      },
+      {
+        "name": "Inspection",
+        "rarity": "Common"
+      },
+      {
+        "name": "Aqua Chorus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jam Breeding Machine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Infinite Cards",
+        "rarity": "Common"
+      },
+      {
+        "name": "Type Zero Magic Crusher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yellow Luster Shield",
+        "rarity": "Common"
+      },
+      {
+        "name": "Card Shuffle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Banner of Courage",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kishido Spirit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Senri Eye",
+        "rarity": "Common"
+      },
+      {
+        "name": "D.D. Borderline",
+        "rarity": "Common"
+      },
+      {
+        "name": "Recycle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Robbin' Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ninjitsu Art of Transformation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Labyrinth of Nightmare",
+        "rarity": "Common"
+      },
+      {
+        "name": "Two-Man Cell Battle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ninjitsu Art of Decoy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Enervating Mist",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shattered Axe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shifting Shadows",
+        "rarity": "Common"
+      },
+      {
+        "name": "Impenetrable Formation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Prepare to Strike Back",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Flip the Picture",
+    "cards": [
+      {
+        "name": "Mask of Darkness",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Morphing Jar",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Cyber Jar",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Magician of Faith",
+        "rarity": "Super"
+      },
+      {
+        "name": "Penguin Soldier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spear Cretin",
+        "rarity": "Super"
+      },
+      {
+        "name": "Morphing Jar #2",
+        "rarity": "Super"
+      },
+      {
+        "name": "Magical Merchant",
+        "rarity": "Super"
+      },
+      {
+        "name": "Night Assailant",
+        "rarity": "Super"
+      },
+      {
+        "name": "Man-Eater Bug",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Skelengel",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Needle Worm",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Greenkappa",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hiro's Shadow Scout",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Jowls of Dark Demise",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Electromagnetic Bagworm",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mysterious Guard",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Des Feral Imp",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dice Jar",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Old Vindictive Magician",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Nobleman-Eater Bug",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Searchlightman",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Reaper of the Cards",
+        "rarity": "Common"
+      },
+      {
+        "name": "Big Eye",
+        "rarity": "Common"
+      },
+      {
+        "name": "Trap Master",
+        "rarity": "Common"
+      },
+      {
+        "name": "Princess of Tsurugi",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Immortal of Thunder",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armed Ninja",
+        "rarity": "Common"
+      },
+      {
+        "name": "Needle Ball",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hane-Hane",
+        "rarity": "Common"
+      },
+      {
+        "name": "Weather Report",
+        "rarity": "Common"
+      },
+      {
+        "name": "Invader of the Throne",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark-Eyes Illusionist",
+        "rarity": "Common"
+      },
+      {
+        "name": "Parasite Paracide",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bite Shoes",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Stern Mystic",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tornado Bird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Poison Mummy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cobra Jar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dimension Jar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Cat with White Tail",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crimson Ninja",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gale Lizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Witch Doctor of Chaos",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit Caller",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rafflesia Seduction",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hade-Hane",
+        "rarity": "Common"
+      },
+      {
+        "name": "Brain Jacker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dummy Golem",
+        "rarity": "Common"
+      },
+      {
+        "name": "White Ninja",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guard Dog",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Equip Me",
+    "cards": [
+      {
+        "name": "Axe of Despair",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Megamorph",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Premature Burial",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Maha Vailo",
+        "rarity": "Super"
+      },
+      {
+        "name": "Gravity Axe - Grarl",
+        "rarity": "Super"
+      },
+      {
+        "name": "Wicked-Breaking Flamberge - Baou",
+        "rarity": "Super"
+      },
+      {
+        "name": "Twin Swords of Flashing Light - Tryce",
+        "rarity": "Super"
+      },
+      {
+        "name": "Iron Blacksmith Kotetsu",
+        "rarity": "Super"
+      },
+      {
+        "name": "Armed Samurai - Ben Kei",
+        "rarity": "Super"
+      },
+      {
+        "name": "Black Pendant",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Malevolent Nuzzler",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ring of Magnetism",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mask of Brutality",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Scroll of Bewitchment",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Collected Power",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ekibyo Drakmord",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Heart of Clear Water",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Demotion",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Autonomous Action Unit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Raregold Armor",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fairy of the Spring",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fuhma Shuriken",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Flint",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mistobody",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Laser Cannon Armor",
+        "rarity": "Common"
+      },
+      {
+        "name": "Insect Armor with Laser Cannon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Vile Germs",
+        "rarity": "Common"
+      },
+      {
+        "name": "Horn of Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Horn of the Unicorn",
+        "rarity": "Common"
+      },
+      {
+        "name": "Electro-Whip",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystical Moon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Raise Body Heat",
+        "rarity": "Common"
+      },
+      {
+        "name": "Follow Wind",
+        "rarity": "Common"
+      },
+      {
+        "name": "Power of Kaishin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eternal Rest",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Raider",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sword of Deep-Seated",
+        "rarity": "Common"
+      },
+      {
+        "name": "Germ Infection",
+        "rarity": "Common"
+      },
+      {
+        "name": "Paralyzing Potion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Stim-Pack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tailor of the Fickle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Woodland Sprite",
+        "rarity": "Common"
+      },
+      {
+        "name": "Smoke Grenade of the Thief",
+        "rarity": "Common"
+      },
+      {
+        "name": "Buster Rancher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Disarmament",
+        "rarity": "Common"
+      },
+      {
+        "name": "Arsenal Summoner",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Elma",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Ceal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Grarl",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Baou",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Kay'est",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian Tryce",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rod of Silence - Kay'est",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rod of the Mind's Eye",
+        "rarity": "Common"
+      },
+      {
+        "name": "Arsenal Robber",
+        "rarity": "Common"
+      },
+      {
+        "name": "Really Eternal Rest",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ballista of Rampart Smashing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nitro Unit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Symbol of Heritage",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "More Eternal Memories",
+    "cards": [
+      {
+        "name": "Destiny Board",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Cathedral of Nobles",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Level Limit - Area B",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Ultimate Offering",
+        "rarity": "Super"
+      },
+      {
+        "name": "Messenger of Peace",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ground Collapse",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ordeal of a Traveler",
+        "rarity": "Super"
+      },
+      {
+        "name": "Metal Reflect Slime",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spatial Collapse",
+        "rarity": "Super"
+      },
+      {
+        "name": "Skull Zoma",
+        "rarity": "Super"
+      },
+      {
+        "name": "Wall of Revealing Light",
+        "rarity": "Super"
+      },
+      {
+        "name": "Robbin' Goblin",
+        "rarity": "Rare"
+      },
+      {
+        "name": "DNA Surgery",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Light of Intervention",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mirror Wall",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mask of Restrict",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fairy Box",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Embodiment of Apophis",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Second Coin Toss",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Terraforming",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Final Attack Orders",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Non-Spellcasting Area",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dangerous Machine TYPE-6",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Level Limit - Area A",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Silent Insect",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Magical Thorn",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Servant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gaia Power",
+        "rarity": "Common"
+      },
+      {
+        "name": "Umiiruka",
+        "rarity": "Common"
+      },
+      {
+        "name": "Molten Destruction",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rising Air Current",
+        "rarity": "Common"
+      },
+      {
+        "name": "Luminous Spark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystic Plasma Zone",
+        "rarity": "Common"
+      },
+      {
+        "name": "Forced Requisition",
+        "rarity": "Common"
+      },
+      {
+        "name": "Minor Goblin Official",
+        "rarity": "Common"
+      },
+      {
+        "name": "Prohibition",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit Message \"I\"",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit Message \"N\"",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit Message \"A\"",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit Message \"L\"",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fatal Abacus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Array of Revealing Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Different Dimension Gate",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tower of Babel",
+        "rarity": "Common"
+      },
+      {
+        "name": "Curse of Darkness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nubian Guard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Malice Doll of Demise",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lighten the Load",
+        "rarity": "Common"
+      },
+      {
+        "name": "Malice Dispersion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Xing Zhen Hu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chain Burst",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spell Purification",
+        "rarity": "Common"
+      },
+      {
+        "name": "Canyon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Absorber",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dimensional Fissure",
+        "rarity": "Common"
+      },
+      {
+        "name": "Seismic Shockwave",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Speed King",
+    "cards": [
+      {
+        "name": "Solemn Judgment",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Book of Moon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Seven Tools of the Bandit",
+        "rarity": "Super"
+      },
+      {
+        "name": "Judgment of Anubis",
+        "rarity": "Super"
+      },
+      {
+        "name": "Cursed Seal of the Forbidden Spell",
+        "rarity": "Super"
+      },
+      {
+        "name": "Divine Wrath",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Ruler Vandalgyon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Voltanis the Adjudicator",
+        "rarity": "Super"
+      },
+      {
+        "name": "Magic Jammer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Shrink",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Barrel Behind the Door",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spell Shield Type-8",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Trap Jammer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Triage",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Bountiful Artemis",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Forced Back",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Negate Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Multiply",
+        "rarity": "Common"
+      },
+      {
+        "name": "Graceful Dice",
+        "rarity": "Common"
+      },
+      {
+        "name": "Horn of Heaven",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rush Recklessly",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Reliable Guardian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magic Drain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Riryoku Field",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pyramid Energy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tutan Mask",
+        "rarity": "Common"
+      },
+      {
+        "name": "Curse of Royal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spell of Pain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Trap of Board Eraser",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pigeonholing Books of Spell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spell Vanishing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dedication through Light and Darkness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armor Break",
+        "rarity": "Common"
+      },
+      {
+        "name": "Soul Reversal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Serial Spell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spell-Stopping Statute",
+        "rarity": "Common"
+      },
+      {
+        "name": "Royal Surrender",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin Out of the Frying Pan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Malfunction",
+        "rarity": "Common"
+      },
+      {
+        "name": "Layard the Liberator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Synthetic Seraphim",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Spice of Duel",
+    "cards": [
+      {
+        "name": "Toon Cannon Soldier",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Tsukuyomi",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "VWXYZ-Dragon Catapult Cannon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Toon Summoned Skull",
+        "rarity": "Super"
+      },
+      {
+        "name": "Toon World",
+        "rarity": "Super"
+      },
+      {
+        "name": "Hino-Kagu-Tsuchi",
+        "rarity": "Super"
+      },
+      {
+        "name": "Asura Priest",
+        "rarity": "Super"
+      },
+      {
+        "name": "Toon Table of Contents",
+        "rarity": "Super"
+      },
+      {
+        "name": "XYZ-Dragon Cannon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Corpse of Yata-Garasu",
+        "rarity": "Super"
+      },
+      {
+        "name": "Heavy Mech Support Platform",
+        "rarity": "Super"
+      },
+      {
+        "name": "Yamata Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Dust Spirit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Toon Dark Magician Girl",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Toon Gemini Elf",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Toon Goblin Attack Force",
+        "rarity": "Rare"
+      },
+      {
+        "name": "X-Head Cannon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Y-Dragon Head",
+        "rarity": "Rare"
+      },
+      {
+        "name": "XY-Dragon Cannon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Z-Metal Tank",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Giant Orc",
+        "rarity": "Rare"
+      },
+      {
+        "name": "XZ-Tank Cannon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "YZ-Tank Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Indomitable Fighter Lei Lei",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Roll Out!",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Manga Ryu-Ran",
+        "rarity": "Common"
+      },
+      {
+        "name": "Toon Mermaid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blue-Eyes Toon Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Maharaghi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Susa Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Long Nose",
+        "rarity": "Common"
+      },
+      {
+        "name": "Otohime",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fushi No Tori",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fengsheng Mirror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spiritual Energy Settle Machine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit's Invitation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Toon Defense",
+        "rarity": "Common"
+      },
+      {
+        "name": "Toon Masked Sorcerer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Blade",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pitch-Dark Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kiryu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Decayed Commander",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zombie Tiger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Second Goblin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Vampire Orchis",
+        "rarity": "Common"
+      },
+      {
+        "name": "Des Dendle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Burning Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Freezing Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Union Rider",
+        "rarity": "Common"
+      },
+      {
+        "name": "Frontline Base",
+        "rarity": "Common"
+      },
+      {
+        "name": "Combination Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Formation Union",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metallizing Parasite - Lunatite",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Blade the Dragon Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Protective Soul Ailin",
+        "rarity": "Common"
+      },
+      {
+        "name": "V-Tiger Jet",
+        "rarity": "Common"
+      },
+      {
+        "name": "W-Wing Catapult",
+        "rarity": "Common"
+      },
+      {
+        "name": "VW-Tiger Catapult",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Fairy's Sky",
+    "cards": [
+      {
+        "name": "The Sanctuary in the Sky",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Marshmallon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Banisher of the Radiance",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Banisher of the Light",
+        "rarity": "Super"
+      },
+      {
+        "name": "Kelbek",
+        "rarity": "Super"
+      },
+      {
+        "name": "Begone, Knave!",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Agent of Judgment - Saturn",
+        "rarity": "Super"
+      },
+      {
+        "name": "Archlord Zerato",
+        "rarity": "Super"
+      },
+      {
+        "name": "Majestic Mech - Goryu",
+        "rarity": "Super"
+      },
+      {
+        "name": "Celestial Transformation",
+        "rarity": "Super"
+      },
+      {
+        "name": "Kotodama",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Moisture Creature",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mystical Beast Serket",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mudora",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cestus of Dagla",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Watapon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Majestic Mech - Ohka",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Herald of Purple Light",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Herald of Green Light",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Miraculous Descent",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spirit of the Harp",
+        "rarity": "Common"
+      },
+      {
+        "name": "Key Mace",
+        "rarity": "Common"
+      },
+      {
+        "name": "Happy Lover",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hourglass of Life",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wing Egg Elf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Silver Bow and Arrow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goddess of Whim",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Witch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Muse-A",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tenderness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hourglass of Courage",
+        "rarity": "Common"
+      },
+      {
+        "name": "Winged Egg of New Life",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shining Abyss",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Forgiving Maiden",
+        "rarity": "Common"
+      },
+      {
+        "name": "St. Joan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Keldo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Agido",
+        "rarity": "Common"
+      },
+      {
+        "name": "Warrior of Zera",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystical Shine Ball",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Agent of Wisdom - Mercury",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Agent of Creation - Venus",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Agent of Force - Mars",
+        "rarity": "Common"
+      },
+      {
+        "name": "Light of Judgment",
+        "rarity": "Common"
+      },
+      {
+        "name": "Marshmallon glasses",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mokey Mokey",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mokey Mokey King",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mokey Mokey Smackdown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Majestic Mech - Senku",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Dragon Drive",
+    "cards": [
+      {
+        "name": "F.G.D.",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dragon's Mirror",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "White Horns D.",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Meteor B. Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Stamping Destruction",
+        "rarity": "Super"
+      },
+      {
+        "name": "Kaiser Glider",
+        "rarity": "Super"
+      },
+      {
+        "name": "Des Volstgalph",
+        "rarity": "Super"
+      },
+      {
+        "name": "Master of Dragon Soldier",
+        "rarity": "Super"
+      },
+      {
+        "name": "Masked Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mirage Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Twin-Headed Behemoth",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spirit Ryu",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Dragon dwelling in the Cave",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Troop Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dragon's Rage",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Crush D. Gandra",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blue-Eyes Shining Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Red-Eyes B. Chick",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Red-Eyes Darkness Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Axe Dragonute",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gaia the Dragon Champion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Piper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thousand Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crawling Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "B. Skull Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wicked Dragon with the Ersatz Head",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Treasure",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Capture Jar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Parrot Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Seeker",
+        "rarity": "Common"
+      },
+      {
+        "name": "B. Dragon Jungle King",
+        "rarity": "Common"
+      },
+      {
+        "name": "Meteor Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragonic Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Warrior Dai Grepher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Manipulator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lizard Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cave Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Dragon's Bead",
+        "rarity": "Common"
+      },
+      {
+        "name": "A Wingbeat of Giant Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon's Gunfire",
+        "rarity": "Common"
+      },
+      {
+        "name": "Super Rejuvenation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Burst Breath",
+        "rarity": "Common"
+      },
+      {
+        "name": "D. Tribe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rare Metal Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Element Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Divine Dragon - Excelion",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Fiend Night",
+    "cards": [
+      {
+        "name": "Dark Ruler Ha Des",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Great Maju Garzett",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Skull Archfiend of Lightning",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dark Necrofear",
+        "rarity": "Super"
+      },
+      {
+        "name": "Legendary Fiend",
+        "rarity": "Super"
+      },
+      {
+        "name": "Terrorking Archfiend",
+        "rarity": "Super"
+      },
+      {
+        "name": "Pandemonium",
+        "rarity": "Super"
+      },
+      {
+        "name": "Goblin King",
+        "rarity": "Super"
+      },
+      {
+        "name": "Goldd, Wu-Lord of Dark World",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark World Lightning",
+        "rarity": "Super"
+      },
+      {
+        "name": "Lesser Fiend",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Possessed Dark Soul",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Infernalqueen Archfiend",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Falling Down",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mazera DeVille",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Emissary of the Afterlife",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Goblin Elite Attack Force",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Brron, Mad King of Dark World",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sillva, Warlord of Dark World",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gateway to Dark World",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Energy",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Cheerful Coffin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Exile of the Wicked",
+        "rarity": "Common"
+      },
+      {
+        "name": "Winged Minion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Knight #2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bark of Dark Ruler",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Puppet Magic of Dark Ruler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Soul Demolition",
+        "rarity": "Common"
+      },
+      {
+        "name": "Puppet Master",
+        "rarity": "Common"
+      },
+      {
+        "name": "Helpoemer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Maju Garzett",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pandemonium Watchbear",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin of Greed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Vilepawn Archfiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shadowknight Archfiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Darkbishop Archfiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Desrook Archfiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Checkmate",
+        "rarity": "Common"
+      },
+      {
+        "name": "Battle-Scarred",
+        "rarity": "Common"
+      },
+      {
+        "name": "Archfiend's Roar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Inferno Hammer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kozaky",
+        "rarity": "Common"
+      },
+      {
+        "name": "Theban Nightmare",
+        "rarity": "Common"
+      },
+      {
+        "name": "Aswan Apparition",
+        "rarity": "Common"
+      },
+      {
+        "name": "Grave Protector",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giant Kozaky",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zure, Knight of Dark World",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beiige, Vanguard of Dark World",
+        "rarity": "Common"
+      },
+      {
+        "name": "Broww, Huntsman of Dark World",
+        "rarity": "Common"
+      },
+      {
+        "name": "Scarr, Scout of Dark World",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Forces of Darkness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Deal",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Skillful Spellcasters",
+    "cards": [
+      {
+        "name": "Jowgen the Spiritualist",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Chaos Sorcerer",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dark Magician of Chaos",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Gravekeeper's Spy",
+        "rarity": "Super"
+      },
+      {
+        "name": "Necrovalley",
+        "rarity": "Super"
+      },
+      {
+        "name": "Skilled Dark Magician",
+        "rarity": "Super"
+      },
+      {
+        "name": "Apprentice Magician",
+        "rarity": "Super"
+      },
+      {
+        "name": "Magical Dimension",
+        "rarity": "Super"
+      },
+      {
+        "name": "Magician's Circle",
+        "rarity": "Super"
+      },
+      {
+        "name": "Summon Priest",
+        "rarity": "Super"
+      },
+      {
+        "name": "Kycoo the Ghost Destroyer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gravekeeper's Spear Soldier",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gravekeeper's Chief",
+        "rarity": "Rare"
+      },
+      {
+        "name": "A Cat of Ill Omen",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Royal Tribute",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Diffusion Wave-Motion",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Magical Marionette",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Magician's Valkyria",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blast Magician",
+        "rarity": "Rare"
+      },
+      {
+        "name": "D.D.M. - Different Dimension Master",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dryad",
+        "rarity": "Common"
+      },
+      {
+        "name": "Book of Secret Arts",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hannibal Necromancer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Last Day of Witch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Curse",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Guard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Vassal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Watcher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Cannonholder",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gravekeeper's Assailant",
+        "rarity": "Common"
+      },
+      {
+        "name": "A Man with Wdjat",
+        "rarity": "Common"
+      },
+      {
+        "name": "An Owl of Luck",
+        "rarity": "Common"
+      },
+      {
+        "name": "Charm of Shabti",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rite of Spirit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skilled White Magician",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pixie Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magical Plant Mandragola",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armor Exe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pitch-Black Power Stone",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mega Ton Magical Cannon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Exhausting Spell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Miracle Restoring",
+        "rarity": "Common"
+      },
+      {
+        "name": "Anti-Spell",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sand Gambler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Peten the Dark Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magician's Unite",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mythical Beast Cerberus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magical Blast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Toy Magician",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Cold Skin",
+    "cards": [
+      {
+        "name": "Vampire Lord",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Pyramid Turtle",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Book of Life",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Des Lacooda",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spirit Reaper",
+        "rarity": "Super"
+      },
+      {
+        "name": "Berserk Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ryu Kokki",
+        "rarity": "Super"
+      },
+      {
+        "name": "Soul-Absorbing Bone Tower",
+        "rarity": "Super"
+      },
+      {
+        "name": "Overpowering Eye",
+        "rarity": "Super"
+      },
+      {
+        "name": "King of the Skull Servants",
+        "rarity": "Super"
+      },
+      {
+        "name": "Patrician of Darkness",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Royal Keeper",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Great Dezard",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fushioh Richie",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Call of the Mummy",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Reaper on the Nightmare",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fear from the Dark",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spirit of the Pharaoh",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The First Sarcophagus",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Vampire Genesis",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Skull Servant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Castle of Dark Illusions",
+        "rarity": "Common"
+      },
+      {
+        "name": "Clown Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pumpking the King of Ghosts",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend's Hand",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fire Reaper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mech Mole Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Phantom Ghost",
+        "rarity": "Common"
+      },
+      {
+        "name": "Violet Crystal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shadow Ghoul",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Wandering Doomed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Red-Moon Baby",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wandering Mummy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giant Axe Mummy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gernia",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nightmare Horse",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Despair from the Dark",
+        "rarity": "Common"
+      },
+      {
+        "name": "A Deal with Dark Ruler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chopman the Desperate Outlaw",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Kick Man",
+        "rarity": "Common"
+      },
+      {
+        "name": "Vampire Lady",
+        "rarity": "Common"
+      },
+      {
+        "name": "Return Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pharaoh's Servant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Regenerating Mummy",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Third Sarcophagus",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Second Sarcophagus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blood Sucker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Reborn Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Malice Ascendant",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Ritual Dance",
+    "cards": [
+      {
+        "name": "Shinato, King of a Higher Plane",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dark Master - Zorc",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Demise, King of Armageddon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "The Masked Beast",
+        "rarity": "Super"
+      },
+      {
+        "name": "Legendary Flame Lord",
+        "rarity": "Super"
+      },
+      {
+        "name": "Contract with the Abyss",
+        "rarity": "Super"
+      },
+      {
+        "name": "Manju of the Ten Thousand Hands",
+        "rarity": "Super"
+      },
+      {
+        "name": "Earth Chant",
+        "rarity": "Super"
+      },
+      {
+        "name": "Reshef the Dark Being",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ruin, Queen of Oblivion",
+        "rarity": "Super"
+      },
+      {
+        "name": "Senju of the Thousand Hands",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sonic Bird",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Curse of the Masked Beast",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Paladin of White Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Shinato's Ark",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Incandescent Ordeal",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Contract with the Dark Master",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fulfillment of the Contract",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Final Ritual of the Ancients",
+        "rarity": "Rare"
+      },
+      {
+        "name": "End of the World",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Super War-Lion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zera The Mant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend's Mirror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zera Ritual",
+        "rarity": "Common"
+      },
+      {
+        "name": "War-Lion Ritual",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beastly Mirror Ritual",
+        "rarity": "Common"
+      },
+      {
+        "name": "Commencement Dance",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hamburger Recipe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Novox's Prayer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Turtle Oath",
+        "rarity": "Common"
+      },
+      {
+        "name": "Resurrection of Chakra",
+        "rarity": "Common"
+      },
+      {
+        "name": "Javelin Beetle Pact",
+        "rarity": "Common"
+      },
+      {
+        "name": "Garma Sword Oath",
+        "rarity": "Common"
+      },
+      {
+        "name": "Revival of Dokurorider",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fortress Whale's Oath",
+        "rarity": "Common"
+      },
+      {
+        "name": "Performance of Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hungry Burger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Guardian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chakra",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crab Turtle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Garma Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Javelin Beetle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fortress Whale",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dokurorider",
+        "rarity": "Common"
+      },
+      {
+        "name": "White Dragon Ritual",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ritual Weapon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Samsara",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Wave of the Future",
+    "cards": [
+      {
+        "name": "Dandylion",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Chimeratech Overdragon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Destiny Hero - Dasher",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Overload Fusion",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Phantom Beast Rock Lizard",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Elemental Hero Shining Phoenix Enforcer",
+        "rarity": "Super"
+      },
+      {
+        "name": "Destiny Hero - Diamond Dude",
+        "rarity": "Super"
+      },
+      {
+        "name": "Clock Tower Prison",
+        "rarity": "Super"
+      },
+      {
+        "name": "Destiny Hero - Double Dude",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mausoleum of the Emperor",
+        "rarity": "Super"
+      },
+      {
+        "name": "Phantom Beast Cross-Wing",
+        "rarity": "Super"
+      },
+      {
+        "name": "Phantom Beast Wild-Horn",
+        "rarity": "Super"
+      },
+      {
+        "name": "Phantom Beast Thunder-Pegasus",
+        "rarity": "Super"
+      },
+      {
+        "name": "Elemental Hero Phoenix Enforcer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Destiny Hero - Dreadmaster",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Destiny Signal",
+        "rarity": "Rare"
+      },
+      {
+        "name": "D - Shield",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Destiny Hero - Fear Monger",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Destiny Hero - Dogma",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark City",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Aqua Neos",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Flare Neos",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Neo-Spacian Aqua Dolphin",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Neo Space",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sabersaurus",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Alien Mother",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cosmic Horror Gangi'el",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Crop Circles",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Neos",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destiny Hero - Doom Lord",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destiny Hero - Captain Tenacious",
+        "rarity": "Common"
+      },
+      {
+        "name": "Misfortune",
+        "rarity": "Common"
+      },
+      {
+        "name": "D - Time",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destiny Hero - Blade Master",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destiny Hero - Defender",
+        "rarity": "Common"
+      },
+      {
+        "name": "D - Chain",
+        "rarity": "Common"
+      },
+      {
+        "name": "D - Spirit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destiny Mirage",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chrysalis Dolphin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Neo-Spacian Flare Scarab",
+        "rarity": "Common"
+      },
+      {
+        "name": "Contact",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fake Hero",
+        "rarity": "Common"
+      },
+      {
+        "name": "Common Soul",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spell Calling",
+        "rarity": "Common"
+      },
+      {
+        "name": "Alien Grey",
+        "rarity": "Common"
+      },
+      {
+        "name": "Alien Skull",
+        "rarity": "Common"
+      },
+      {
+        "name": "Alien Hunter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Alien Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flying Saucer Muusik'i",
+        "rarity": "Common"
+      },
+      {
+        "name": "Orbital Bombardment",
+        "rarity": "Common"
+      },
+      {
+        "name": "Brainwashing Beam",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyclone Blade",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Good Ol' Days",
+    "cards": [
+      {
+        "name": "Exodia the Forbidden One",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Mirror Force",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Exodia Necross",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Right Leg of the Forbidden One",
+        "rarity": "Super"
+      },
+      {
+        "name": "Left Leg of the Forbidden One",
+        "rarity": "Super"
+      },
+      {
+        "name": "Right Arm of the Forbidden One",
+        "rarity": "Super"
+      },
+      {
+        "name": "Left Arm of the Forbidden One",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fiber Jar",
+        "rarity": "Super"
+      },
+      {
+        "name": "Yata-Garasu",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mirage of Nightmare",
+        "rarity": "Super"
+      },
+      {
+        "name": "Chaos Emperor Dragon - Envoy of the End",
+        "rarity": "Super"
+      },
+      {
+        "name": "Raigeki",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sinister Serpent",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Witch of the Black Forest",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Harpie's Feather Duster",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Change of Heart",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Delinquent Duo",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Forceful Sentry",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Painful Choice",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Imperial Order",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ring of Destruction",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Makyura the Destructor",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Magical Scientist",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Butterfly Dagger - Elma",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sixth Sense",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Larvae Moth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Moth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Perfectly Ultimate Great Moth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cocoon of Evolution",
+        "rarity": "Common"
+      },
+      {
+        "name": "Petit Moth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Labyrinth Wall",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wall Shadow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sanga of the Thunder",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kazejin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Suijin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gate Guardian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zoa",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metalzoa",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gale Dogra",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magical Labyrinth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metalmorph",
+        "rarity": "Common"
+      },
+      {
+        "name": "Red-Eyes Black Metal Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Call of the Grave",
+        "rarity": "Common"
+      },
+      {
+        "name": "Anti Raigeki",
+        "rarity": "Common"
+      },
+      {
+        "name": "Call of the Dark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gryphon Wing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Contract with Exodia",
+        "rarity": "Common"
+      },
+      {
+        "name": "Primal Seed",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Hero Emerges!",
+    "cards": [
+      {
+        "name": "King of the Swamp",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Miracle Fusion",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Elemental Hero Shining Flare Wingman",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Elemental Hero Wildheart",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Winged Kuriboh",
+        "rarity": "Super"
+      },
+      {
+        "name": "Elemental Hero Flame Wingman",
+        "rarity": "Super"
+      },
+      {
+        "name": "Elemental Hero Thunder Giant",
+        "rarity": "Super"
+      },
+      {
+        "name": "Elemental Hero Bladedge",
+        "rarity": "Super"
+      },
+      {
+        "name": "Elemental Hero Wildedge",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Flute of Summoning Kuriboh",
+        "rarity": "Super"
+      },
+      {
+        "name": "Elemental Hero Wild Wingman",
+        "rarity": "Super"
+      },
+      {
+        "name": "E - Emergency Call",
+        "rarity": "Super"
+      },
+      {
+        "name": "A Hero Emerges",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Factory of Mass Production",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Monster Reincarnation",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hero Signal",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Bubbleman",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Skyscraper",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Winged Kuriboh LV10",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fusion Recovery",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Tempest",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Necroshade",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cyclone Boomerang",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Erikshieler",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Necroid Shaman",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elemental Hero Mariner",
+        "rarity": "Rare"
+      },
+      {
+        "name": "R - Righteous Justice",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Oscillo Hero",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Warrior Returning Alive",
+        "rarity": "Common"
+      },
+      {
+        "name": "Special Hurricane",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Burst",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Avian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Burstinatrix",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Clayman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Sparkman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wroughtweiler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Catapulter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Transcendent Wings",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bubble Shuffle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spark Blaster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Rampart Blaster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Feather Shot",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hero Barrier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Feather Wind",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hero Ring",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Madballman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Steam Healer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Burst Return",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bubble Blaster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bubble Illusion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Clay Charge",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Hero Neo Bubbleman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hero Kid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hero Heart",
+        "rarity": "Common"
+      },
+      {
+        "name": "Miracle Kids",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hero Spirit",
+        "rarity": "Common"
+      },
+      {
+        "name": "H - Heated Heart",
+        "rarity": "Common"
+      },
+      {
+        "name": "O - Oversoul",
+        "rarity": "Common"
+      },
+      {
+        "name": "HERO Flash!!",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elemental Recharge",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "A Machine's Soul Never Sleeps",
+    "cards": [
+      {
+        "name": "Limiter Removal",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Shield Crash",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Super Vehicroid Jumbo Drill",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Steamroid",
+        "rarity": "Super"
+      },
+      {
+        "name": "Drillroid",
+        "rarity": "Super"
+      },
+      {
+        "name": "UFOroid Fighter",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ambulanceroid",
+        "rarity": "Super"
+      },
+      {
+        "name": "Submarineroid",
+        "rarity": "Super"
+      },
+      {
+        "name": "Decoyroid",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Jeroid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Perfect Machine King",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gyroid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "UFOroid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Steam Gyroid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cyber Summon Blaster",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ambulance Rescueroid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rescueroid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Supercharge",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Vehicroid Connection Zone",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Machine King",
+        "rarity": "Common"
+      },
+      {
+        "name": "Patrol Robo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Acid Rain",
+        "rarity": "Common"
+      },
+      {
+        "name": "7 Completed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Oni Tank T-34",
+        "rarity": "Common"
+      },
+      {
+        "name": "Overdrive",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thunder Nyan Nyan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rocket Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Weapon Change",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bokoichi the Freightening Car",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dekoichi the Battlechanted Locomotive",
+        "rarity": "Common"
+      },
+      {
+        "name": "Machiners Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Machiners Defender",
+        "rarity": "Common"
+      },
+      {
+        "name": "Machiners Sniper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Commander Covington",
+        "rarity": "Common"
+      },
+      {
+        "name": "Machiners Force",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cycroid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Patroid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jetroid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Machine King Prototype",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wonder Garage",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Beast Kingdom",
+    "cards": [
+      {
+        "name": "Scapegoat",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Des Koala",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Forest Guard Green Baboon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "King Tiger Wanghu",
+        "rarity": "Super"
+      },
+      {
+        "name": "Silent Fiend",
+        "rarity": "Super"
+      },
+      {
+        "name": "Gyaku-Gire Panda",
+        "rarity": "Super"
+      },
+      {
+        "name": "Wild Nature's Release",
+        "rarity": "Super"
+      },
+      {
+        "name": "Stray Lambs",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Earth - Hex-Sealed Fusion",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dian Keto the Cure Master",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Bubonic Vermin",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Bazoo the Soul-Eater",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Big Koala",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Berserk Gorilla",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Master of Oz",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Maji-Gire Panda",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Behemoth the King of All Animals",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cross Counter",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Des Wombat",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Wicked Worm Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Frenzied Panda",
+        "rarity": "Common"
+      },
+      {
+        "name": "Master & Expert",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beast Fangs",
+        "rarity": "Common"
+      },
+      {
+        "name": "Leogun",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Zebra",
+        "rarity": "Common"
+      },
+      {
+        "name": "Destruction Punch",
+        "rarity": "Common"
+      },
+      {
+        "name": "D.D. Crazy Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Continuous Destruction Punch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thousand Needles",
+        "rarity": "Common"
+      },
+      {
+        "name": "Des Kangaroo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Two Thousand Needles",
+        "rarity": "Common"
+      },
+      {
+        "name": "Desertapir",
+        "rarity": "Common"
+      },
+      {
+        "name": "3-Hump Lacooda",
+        "rarity": "Common"
+      },
+      {
+        "name": "Big-Tusked Mammoth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kangaroo Champ",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hyena",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blade Rabbit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Poison Fangs",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Big March of Animals",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beast Soul Swap",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Maiden's Heartbeat",
+    "cards": [
+      {
+        "name": "D.D. Warrior Lady",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "D.D. Assailant",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Cyber Blader",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Command Knight",
+        "rarity": "Super"
+      },
+      {
+        "name": "Shadow of Eyes",
+        "rarity": "Super"
+      },
+      {
+        "name": "The A. Forces",
+        "rarity": "Super"
+      },
+      {
+        "name": "Reinforcement of the Army",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ready for Intercepting",
+        "rarity": "Super"
+      },
+      {
+        "name": "Cyber Prima",
+        "rarity": "Super"
+      },
+      {
+        "name": "Harpie Lady Sisters",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Elegant Egotist",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Birdface",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fusion Sword Murasame Blade",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Harpies' Hunting Ground",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Divine Sword - Phoenix Blade",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cyber Gymnast",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Harpie's Pet Baby Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Hysteric Party",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Harpie Lady",
+        "rarity": "Common"
+      },
+      {
+        "name": "Legendary Sword",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Shield",
+        "rarity": "Common"
+      },
+      {
+        "name": "Harpie's Pet Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Warrior Elimination",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sword of Dragon's Soul",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lightning Blade",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Unfriendly Amazon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Crimson Sentry",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Harpie Lady",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shadow Tamer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Penumbral Soldier Lady",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fusion Weapon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Harpie Girl",
+        "rarity": "Common"
+      },
+      {
+        "name": "Harpie Lady 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Harpie Lady 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Harpie Lady 3",
+        "rarity": "Common"
+      },
+      {
+        "name": "Warrior Lady of the Wasteland",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blade Skater",
+        "rarity": "Common"
+      },
+      {
+        "name": "Etoile Cyber",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Tutu",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Never Give Up",
+    "cards": [
+      {
+        "name": "Thousand-Eyes Restrict",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Ojama Trio",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Dimension Fusion",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Relinquished",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Dark Door",
+        "rarity": "Super"
+      },
+      {
+        "name": "Fiend's Sanctuary",
+        "rarity": "Super"
+      },
+      {
+        "name": "Return from the Different Dimension",
+        "rarity": "Super"
+      },
+      {
+        "name": "Magical Mallet",
+        "rarity": "Super"
+      },
+      {
+        "name": "Inferno Reckless Summon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Satellite Cannon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Copycat",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Black Illusion Ritual",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Royal Magical Library",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Soul Tiger",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Chaos Necromancer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Inferno Tempest",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ojama King",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rescue Cat",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ojamagic",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Thousand-Eyes Idol",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Unhappy Maiden",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ojama Green",
+        "rarity": "Common"
+      },
+      {
+        "name": "Outstanding Dog Marron",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ojama Yellow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ojama Black",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ojama Delta Hurricane!!",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chaos End",
+        "rarity": "Common"
+      },
+      {
+        "name": "Thunder Crash",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Unhappy Girl",
+        "rarity": "Common"
+      },
+      {
+        "name": "Enchanting Fitting Room",
+        "rarity": "Common"
+      },
+      {
+        "name": "Catnipped Kitty",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ojamuscle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chthonian Alliance",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chthonian Polymer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chthonian Blast",
+        "rarity": "Common"
+      },
+      {
+        "name": "The League of Uniform Nomenclature",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armed Changer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ring of Defense",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Grave of Enkindling",
+        "rarity": "Common"
+      },
+      {
+        "name": "Treasure Map",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Warrior's Pyramid",
+    "cards": [
+      {
+        "name": "Amazoness Swords Woman",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Heart of the Underdog",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Water Dragon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Valkyrion the Magna Warrior",
+        "rarity": "Super"
+      },
+      {
+        "name": "Amazoness Archers",
+        "rarity": "Super"
+      },
+      {
+        "name": "Pikeru's Circle of Enchantment",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spiritual Earth Art - Kurogane",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spiritual Fire Art - Kurenai",
+        "rarity": "Super"
+      },
+      {
+        "name": "Hydrogeddon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Alpha The Magnet Warrior",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Beta The Magnet Warrior",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gamma The Magnet Warrior",
+        "rarity": "Rare"
+      },
+      {
+        "name": "White Magician Pikeru",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fuh-Rin-Ka-Zan",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ebon Magician Curran",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Familiar-Possessed - Aussa",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Familiar-Possessed - Eria",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Familiar-Possessed - Hiita",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Familiar-Possessed - Wynn",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Amazon Archer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazoness Chain Master",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazoness Fighter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazoness Spellcaster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dramatic Rescue",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazoness Paladin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazoness Blowpiper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Amazoness Tiger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Aussa the Earth Charmer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eria the Water Charmer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hiita the Fire Charmer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wynn the Wind Charmer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pikeru's Second Sight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spiritual Water Art - Aoi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spiritual Wind Art - Miyabi",
+        "rarity": "Common"
+      },
+      {
+        "name": "A Rival Appears!",
+        "rarity": "Common"
+      },
+      {
+        "name": "Oxygeddon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bonding - H2O",
+        "rarity": "Common"
+      },
+      {
+        "name": "Princess Pikeru",
+        "rarity": "Common"
+      },
+      {
+        "name": "Princess Curran",
+        "rarity": "Common"
+      },
+      {
+        "name": "Trial of the Princesses",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Technology Master",
+    "cards": [
+      {
+        "name": "Cyber Dragon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Power Bond",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Future Fusion",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "De-Fusion",
+        "rarity": "Super"
+      },
+      {
+        "name": "Blowback Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Light - Hex-Sealed Fusion",
+        "rarity": "Super"
+      },
+      {
+        "name": "Cyber Twin Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Cyber End Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Proto-Cyber Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mechanicalchaser",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Barrel Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Fiend Megacyber",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Kinetic Soldier",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Machine Duplication",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Different Dimension Capsule",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gatling Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mechanical Hound",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cyber Laser Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cyber Phoenix",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Machine Conversion Factory",
+        "rarity": "Common"
+      },
+      {
+        "name": "Megasonic Eye",
+        "rarity": "Common"
+      },
+      {
+        "name": "Labyrinth Tank",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pendulum Machine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giant Mech-Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mech Bass",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guardian of the Throne Room",
+        "rarity": "Common"
+      },
+      {
+        "name": "Disk Magician",
+        "rarity": "Common"
+      },
+      {
+        "name": "Royal Guard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Slot Machine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Steel Ogre Grotto 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber-Tech Alligator",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Falcon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mighty Guard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cybernetic Cyclopean",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Archfiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "System Down",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Barrier Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Photon Generator Unit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Attack Reflector Unit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Kirin",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Vanilla Gloom",
+    "cards": [
+      {
+        "name": "Hitotsu-Me Giant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mushroom Man",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rock Ogre Grotto 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Illusionist Faceless Mage",
+        "rarity": "Common"
+      },
+      {
+        "name": "Basic Insect",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gokibore",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tiger Axe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fiend Kraken",
+        "rarity": "Common"
+      },
+      {
+        "name": "Grappler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Chimera",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metal Guardian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gyakutenno Megami",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zanki",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armored Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Job-Change Mirror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tomozaurus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kageningen",
+        "rarity": "Common"
+      },
+      {
+        "name": "Graveyard and the Hand of Invitation",
+        "rarity": "Common"
+      },
+      {
+        "name": "Doma The Angel of Silence",
+        "rarity": "Common"
+      },
+      {
+        "name": "That Which Feeds on Life",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Gray",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nightmare Scorpion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Tool",
+        "rarity": "Common"
+      },
+      {
+        "name": "Orion the Battle King",
+        "rarity": "Common"
+      },
+      {
+        "name": "LaMoon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nemuriko",
+        "rarity": "Common"
+      },
+      {
+        "name": "Weather Control",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystical Capture Chain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystery Hand",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dragon Statue",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blue-Eyed Silver Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spiked Snail",
+        "rarity": "Common"
+      },
+      {
+        "name": "Necrolancer the Timelord",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Bewitching Phantom Thief",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Shadow Who Controls the Dark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Akihiron",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dokuroizo the Grim Reaper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Larvas",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hard Armor",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dig Beak",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lisark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Prisoner",
+        "rarity": "Common"
+      },
+      {
+        "name": "Monsturtle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Claw Reacher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Phantom Dewan",
+        "rarity": "Common"
+      },
+      {
+        "name": "Arlownay",
+        "rarity": "Common"
+      },
+      {
+        "name": "Masked Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lucky Trinket",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eyearmor",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gate Deeg",
+        "rarity": "Common"
+      },
+      {
+        "name": "Synchar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Akakieisu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Terra the Terrible",
+        "rarity": "Common"
+      },
+      {
+        "name": "Arma Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Archfiend Marmot of Nefariousness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mabarrel",
+        "rarity": "Common"
+      },
+      {
+        "name": "Twin Long Rods 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Winged Cleaver",
+        "rarity": "Common"
+      },
+      {
+        "name": "Meotoko",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kagemusha of the Blue Flame",
+        "rarity": "Common"
+      },
+      {
+        "name": "Solitude",
+        "rarity": "Common"
+      },
+      {
+        "name": "Midnight Fiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull Stalker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wood Remains",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wood Clown",
+        "rarity": "Common"
+      },
+      {
+        "name": "Madjinn Gunn",
+        "rarity": "Common"
+      },
+      {
+        "name": "Haniwa",
+        "rarity": "Common"
+      },
+      {
+        "name": "Vishwar Randi",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Drdek",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Assailant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Candle of Fate",
+        "rarity": "Common"
+      },
+      {
+        "name": "Water Element",
+        "rarity": "Common"
+      },
+      {
+        "name": "Meda Bat",
+        "rarity": "Common"
+      },
+      {
+        "name": "One Who Hunts Souls",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hyo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nekogal 1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Embryonic Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Archfiend Mirror",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rock Ogre Grotto 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Unknown Warrior of Fiend",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sectarian of Secrets",
+        "rarity": "Common"
+      },
+      {
+        "name": "Megirus Light",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gorgon Egg",
+        "rarity": "Common"
+      },
+      {
+        "name": "King Fog",
+        "rarity": "Common"
+      },
+      {
+        "name": "Holograh",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gatekeeper",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ogre of the Black Shadow",
+        "rarity": "Common"
+      },
+      {
+        "name": "Psychic Kappa",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bio Plant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Monster Tamer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Emperor of the Land and Sea",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tatsunootoshigo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Saber Slasher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shovel Crusher",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giganto",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyber Commander",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dice Armadillo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ice Water",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beautiful Beast Trainer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Water Girl",
+        "rarity": "Common"
+      },
+      {
+        "name": "White Dolphin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Metal Fish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Turu-Purun",
+        "rarity": "Common"
+      },
+      {
+        "name": "Aqua Snake",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spike Seadra",
+        "rarity": "Common"
+      },
+      {
+        "name": "30,000-Year White Turtle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Zarigun",
+        "rarity": "Common"
+      },
+      {
+        "name": "Minomushi Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Stone Ghost",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tripwire Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bolt Escargot",
+        "rarity": "Common"
+      },
+      {
+        "name": "Bolt Penguin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ganigumo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Burglar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Korogashi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Boo Koo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rainbow Marine Mermaid",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wilmee",
+        "rarity": "Common"
+      },
+      {
+        "name": "Morinphen",
+        "rarity": "Common"
+      },
+      {
+        "name": "D. Human",
+        "rarity": "Common"
+      },
+      {
+        "name": "Turtle Raccoon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Prisman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sand Stone",
+        "rarity": "Common"
+      },
+      {
+        "name": "Boulder Tortoise",
+        "rarity": "Common"
+      },
+      {
+        "name": "Turtle Bird",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit of the Mountain",
+        "rarity": "Common"
+      },
+      {
+        "name": "Neck Hunter",
+        "rarity": "Common"
+      },
+      {
+        "name": "Togex",
+        "rarity": "Common"
+      },
+      {
+        "name": "Eldeen",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mechaleon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Corroding Shark",
+        "rarity": "Common"
+      },
+      {
+        "name": "Misairuzame",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wow Warrior",
+        "rarity": "Common"
+      },
+      {
+        "name": "Frog the Jam",
+        "rarity": "Common"
+      },
+      {
+        "name": "Pot the Trick",
+        "rarity": "Common"
+      },
+      {
+        "name": "Wretched Ghost of the Attic",
+        "rarity": "Common"
+      },
+      {
+        "name": "Drooling Lizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient One of the Deep Forest",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giant Scorpion of the Tundra",
+        "rarity": "Common"
+      },
+      {
+        "name": "Leo Wizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mechanical Snail",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mon Larvas",
+        "rarity": "Common"
+      },
+      {
+        "name": "Living Vase",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tentacle Plant",
+        "rarity": "Common"
+      },
+      {
+        "name": "Giant Turtle Who Feeds on Flames",
+        "rarity": "Common"
+      },
+      {
+        "name": "Key Mace 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Obese Marmot of Nefariousness",
+        "rarity": "Common"
+      },
+      {
+        "name": "Liquid Beast",
+        "rarity": "Common"
+      },
+      {
+        "name": "Twin Long Rods 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Great Bill",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hunter Spider",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armored Starfish",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rock Spirit",
+        "rarity": "Common"
+      },
+      {
+        "name": "Succubus Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ill Witch",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Thing That Hides in the Mud",
+        "rarity": "Common"
+      },
+      {
+        "name": "Armored Rat",
+        "rarity": "Common"
+      },
+      {
+        "name": "Stone Ogre Grotto",
+        "rarity": "Common"
+      },
+      {
+        "name": "Night Lizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "Acid Crawler",
+        "rarity": "Common"
+      },
+      {
+        "name": "Machine Attacker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Three-Headed Geedo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Swordsman of Landstar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spikebot",
+        "rarity": "Common"
+      },
+      {
+        "name": "Souleater",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shapesnatch",
+        "rarity": "Common"
+      },
+      {
+        "name": "Boneheimer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Lightning Conger",
+        "rarity": "Common"
+      },
+      {
+        "name": "Science Soldier",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Tag Survivor",
+    "cards": [
+      {
+        "name": "Snatch Steal",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Injection Fairy Lily",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "United We Stand",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Mage Power",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Exchange of the Spirit",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Cyber-Stein",
+        "rarity": "Super"
+      },
+      {
+        "name": "Brain Control",
+        "rarity": "Super"
+      },
+      {
+        "name": "Creature Swap",
+        "rarity": "Super"
+      },
+      {
+        "name": "Raigeki Break",
+        "rarity": "Super"
+      },
+      {
+        "name": "Horus the Black Flame Dragon LV6",
+        "rarity": "Super"
+      },
+      {
+        "name": "Horus the Black Flame Dragon LV8",
+        "rarity": "Super"
+      },
+      {
+        "name": "Armed Dragon LV7",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ancient Gear Golem",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ultimate Insect LV7",
+        "rarity": "Super"
+      },
+      {
+        "name": "Ancient Gear Castle",
+        "rarity": "Super"
+      },
+      {
+        "name": "Magical Arm Shield",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Soul Exchange",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Enemy Controller",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Final Countdown",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Horus the Black Flame Dragon LV4",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Armed Dragon LV3",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Armed Dragon LV5",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Level Up!",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Silent Magician LV4",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Silent Magician LV8",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ultimate Insect LV3",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ultimate Insect LV5",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ancient Gear Beast",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Level Modulation",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Armed Dragon LV10",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mind Control",
+        "rarity": "Common"
+      },
+      {
+        "name": "Statue of the Wicked",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Coffin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Judgment of Pharaoh",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yu-Jo Friendship",
+        "rarity": "Common"
+      },
+      {
+        "name": "Unity",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ultimate Insect LV1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Mimic LV1",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Mimic LV3",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Graveyard in the Fourth Dimension",
+        "rarity": "Common"
+      },
+      {
+        "name": "Covering Fire",
+        "rarity": "Common"
+      },
+      {
+        "name": "Owner's Seal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Union Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Gear Soldier",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gift of the Martyr",
+        "rarity": "Common"
+      },
+      {
+        "name": "Double Attack",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Gear",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magnet Circle LV2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Gear Factory",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Gear Drill",
+        "rarity": "Common"
+      },
+      {
+        "name": "Damage Condenser",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ancient Gear Cannon",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Princeton Power",
+    "cards": [
+      {
+        "name": "Green Gadget",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Red Gadget",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Yellow Gadget",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "King Dragun",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Blue-Eyes Ultimate Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Lord of D.",
+        "rarity": "Super"
+      },
+      {
+        "name": "Burst Stream of Destruction",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Magic Attack",
+        "rarity": "Super"
+      },
+      {
+        "name": "Inferno Fire Blast",
+        "rarity": "Super"
+      },
+      {
+        "name": "Stronghold the Moving Fortress",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Dark - Hex-Sealed Fusion",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Flute of Summoning Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Makiu",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Luster Dragon 2",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Luster Dragon",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dark Flare Knight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mirage Knight",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Triangle Ecstasy Spark",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Divine Dragon Ragnarok",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Spiral Spear Strike",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Release Restraint",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Kanan the Swordmistress",
+        "rarity": "Common"
+      },
+      {
+        "name": "Stuffed Animal",
+        "rarity": "Common"
+      },
+      {
+        "name": "Yamadron",
+        "rarity": "Common"
+      },
+      {
+        "name": "Seiyaryu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Three-Legged Zombies",
+        "rarity": "Common"
+      },
+      {
+        "name": "Flying Penguin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fairy's Gift",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dharma Cannon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tri-Horned Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Serpent Night Dragon",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cosmo Queen",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mikazukinoyaiba",
+        "rarity": "Common"
+      },
+      {
+        "name": "Firewing Pegasus",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hyozanryu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Garnecia Elefantis",
+        "rarity": "Common"
+      },
+      {
+        "name": "Beast of Talwar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Man-Eating Treasure Chest",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Approach the Hotties",
+    "cards": [
+      {
+        "name": "Dark Paladin",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Breaker the Magical Warrior",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Silent Swordsman LV5",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Freed the Matchless General",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mataza the Zapper",
+        "rarity": "Super"
+      },
+      {
+        "name": "Silent Swordsman LV3",
+        "rarity": "Super"
+      },
+      {
+        "name": "Mystic Swordsman LV6",
+        "rarity": "Super"
+      },
+      {
+        "name": "Curse of Vampire",
+        "rarity": "Super"
+      },
+      {
+        "name": "Tenkabito Shien",
+        "rarity": "Super"
+      },
+      {
+        "name": "Black Luster Soldier",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Magician of Black Chaos",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Obnoxious Celtic Guard",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mystic Swordsman LV4",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Silent Swordsman LV7",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Holy Knight Ishzark",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cybernetic Magician",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Rapid-Fire Magician",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Disciple of the Forbidden Spell",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Celtic Guardian",
+        "rarity": "Common"
+      },
+      {
+        "name": "Green Phantom King",
+        "rarity": "Common"
+      },
+      {
+        "name": "Moon Envoy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Black Luster Ritual",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Magic Ritual",
+        "rarity": "Common"
+      },
+      {
+        "name": "Neo the Magic Swordsman",
+        "rarity": "Common"
+      },
+      {
+        "name": "Harpie's Brother",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fairy King Truesdale",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Magician Knight",
+        "rarity": "Common"
+      },
+      {
+        "name": "Knight's Title",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sealmaster Meisei",
+        "rarity": "Common"
+      },
+      {
+        "name": "Talisman of Trap Sealing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Talisman of Spell Sealing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mystic Swordsman LV2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gearfried the Swordmaster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Shien's Spy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chain Thrasher",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Dorothy's Soul",
+    "cards": [
+      {
+        "name": "Solemn Wishes",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Fire Princess",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Emergency Provisions",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Bad Reaction to Simochi",
+        "rarity": "Super"
+      },
+      {
+        "name": "Nimble Momonga",
+        "rarity": "Super"
+      },
+      {
+        "name": "Spell Absorption",
+        "rarity": "Super"
+      },
+      {
+        "name": "Soul Absorption",
+        "rarity": "Super"
+      },
+      {
+        "name": "Guardian Angel Joan",
+        "rarity": "Super"
+      },
+      {
+        "name": "Draining Shield",
+        "rarity": "Super"
+      },
+      {
+        "name": "Numinous Healer",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Kiseitai",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sebek's Blessing",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Cure Mermaid",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Zolga",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Poison of the Old Man",
+        "rarity": "Rare"
+      },
+      {
+        "name": "The Spell Absorbing Life",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Granadora",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mystik Wok",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Survival Instinct",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mysterious Puppeteer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mooyan Curry",
+        "rarity": "Common"
+      },
+      {
+        "name": "Red Medicine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin's Secret Remedy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Soul of the Pure",
+        "rarity": "Common"
+      },
+      {
+        "name": "Griggle",
+        "rarity": "Common"
+      },
+      {
+        "name": "Skull-Mark Ladybug",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blue Medicine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gift of The Mystical Elf",
+        "rarity": "Common"
+      },
+      {
+        "name": "Enchanted Javelin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Rain of Mercy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spring of Rebirth",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hysteric Fairy",
+        "rarity": "Common"
+      },
+      {
+        "name": "Life Absorbing Machine",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nutrient Z",
+        "rarity": "Common"
+      },
+      {
+        "name": "Token Thanksgiving",
+        "rarity": "Common"
+      },
+      {
+        "name": "Altar for Tribute",
+        "rarity": "Common"
+      },
+      {
+        "name": "Burning Algae",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gryphon's Feather Duster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Goblin Thief",
+        "rarity": "Common"
+      },
+      {
+        "name": "Absorbing Kid from the Sky",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elephant Statue of Blessing",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blessings of the Nile",
+        "rarity": "Common"
+      },
+      {
+        "name": "Royal Knight",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Sadie's Soul",
+    "cards": [
+      {
+        "name": "Ceasefire",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Lava Golem",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Wave-Motion Cannon",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Giant Germ",
+        "rarity": "Super"
+      },
+      {
+        "name": "Nightmare Wheel",
+        "rarity": "Super"
+      },
+      {
+        "name": "Dark Room of Nightmare",
+        "rarity": "Super"
+      },
+      {
+        "name": "Secret Barrel",
+        "rarity": "Super"
+      },
+      {
+        "name": "Stealth Bird",
+        "rarity": "Super"
+      },
+      {
+        "name": "Solar Flare Dragon",
+        "rarity": "Super"
+      },
+      {
+        "name": "Tremendous Fire",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Just Desserts",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Restructer Revolution",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Attack and Receive",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Mask of the Accursed",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Meteor of Destruction",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Blast Held by a Tribute",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Ominous Fortunetelling",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Coffin Seller",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Bowganian",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Sparks",
+        "rarity": "Common"
+      },
+      {
+        "name": "Hinotama",
+        "rarity": "Common"
+      },
+      {
+        "name": "Final Flame",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ookazi",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ameba",
+        "rarity": "Common"
+      },
+      {
+        "name": "Minar",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mushroom Man 2",
+        "rarity": "Common"
+      },
+      {
+        "name": "Raimei",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dark Snake Syndrome",
+        "rarity": "Common"
+      },
+      {
+        "name": "Ante",
+        "rarity": "Common"
+      },
+      {
+        "name": "Blasting the Ruins",
+        "rarity": "Common"
+      },
+      {
+        "name": "Balloon Lizard",
+        "rarity": "Common"
+      },
+      {
+        "name": "KA-2 Des Scissors",
+        "rarity": "Common"
+      },
+      {
+        "name": "Elephant Statue of Disaster",
+        "rarity": "Common"
+      },
+      {
+        "name": "Dora of Fate",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cemetary Bomb",
+        "rarity": "Common"
+      },
+      {
+        "name": "Abare Ushioni",
+        "rarity": "Common"
+      },
+      {
+        "name": "D.D. Dynamite",
+        "rarity": "Common"
+      },
+      {
+        "name": "Kozaky's Self-Destruct Button",
+        "rarity": "Common"
+      },
+      {
+        "name": "Token Feastevil",
+        "rarity": "Common"
+      },
+      {
+        "name": "Fire Darts",
+        "rarity": "Common"
+      },
+      {
+        "name": "Magical Explosion",
+        "rarity": "Common"
+      },
+      {
+        "name": "Full Salvo",
+        "rarity": "Common"
+      },
+      {
+        "name": "The Paths of Destiny",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Midday Constellation (Noon Star)",
+    "cards": [
+      {
+        "name": "Sasuke Samurai",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Victory Viper XX03",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Sasuke Samurai #2",
+        "rarity": "Super"
+      },
+      {
+        "name": "Sasuke Samurai 4",
+        "rarity": "Super"
+      },
+      {
+        "name": "B.E.S. Crystal Core",
+        "rarity": "Super"
+      },
+      {
+        "name": "B.E.S. Tetran",
+        "rarity": "Super"
+      },
+      {
+        "name": "Sasuke Samurai #3",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Lady Ninja Yae",
+        "rarity": "Rare"
+      },
+      {
+        "name": "A-Team: Trap Disposal Unit",
+        "rarity": "Rare"
+      },
+      {
+        "name": "B.E.S. Covered Core",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Power Capsule",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Fossil Excavation",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Gradius",
+        "rarity": "Common"
+      },
+      {
+        "name": "Cyclon Laser",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gradius' Option",
+        "rarity": "Common"
+      },
+      {
+        "name": "Aitsu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Koitsu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Getsu Fuhma",
+        "rarity": "Common"
+      },
+      {
+        "name": "Tactical Espionage Expert",
+        "rarity": "Common"
+      },
+      {
+        "name": "Big Core",
+        "rarity": "Common"
+      },
+      {
+        "name": "Space Mambo",
+        "rarity": "Common"
+      },
+      {
+        "name": "Moai Interceptor Cannons",
+        "rarity": "Common"
+      },
+      {
+        "name": "Soitsu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Doitsu",
+        "rarity": "Common"
+      },
+      {
+        "name": "Nanobreaker",
+        "rarity": "Common"
+      },
+      {
+        "name": "Boss Rush",
+        "rarity": "Common"
+      },
+      {
+        "name": "Option Hunter",
+        "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "packName": "Double Triple Destiny Draw",
+    "cards": [
+      {
+        "name": "Card Destruction",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Pot of Greed",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Reckless Greed",
+        "rarity": "Ultra"
+      },
+      {
+        "name": "Upstart Goblin",
+        "rarity": "Super"
+      },
+      {
+        "name": "Time Seal",
+        "rarity": "Super"
+      },
+      {
+        "name": "Disturbance Strategy",
+        "rarity": "Super"
+      },
+      {
+        "name": "Protector of the Sanctuary",
+        "rarity": "Super"
+      },
+      {
+        "name": "Good Goblin Housekeeping",
+        "rarity": "Super"
+      },
+      {
+        "name": "Pot of Avarice",
+        "rarity": "Super"
+      },
+      {
+        "name": "The Bistro Butcher",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Appropriate",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Card of Safe Return",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Jar of Greed",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Offerings to the Doomed",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Dragged Down into the Grave",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Drop Off",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Reload",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Heavy Slump",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Chainsaw Insect",
+        "rarity": "Rare"
+      },
+      {
+        "name": "Masked Sorcerer",
+        "rarity": "Common"
+      },
+      {
+        "name": "Electric Snake",
+        "rarity": "Common"
+      },
+      {
+        "name": "Gamble",
+        "rarity": "Common"
+      },
+      {
+        "name": "Monster Recovery",
+        "rarity": "Common"
+      },
+      {
+        "name": "Card of Sanctity",
+        "rarity": "Common"
+      },
+      {
+        "name": "Helping Robo For Combat",
+        "rarity": "Common"
+      },
+      {
+        "name": "Jar Robber",
+        "rarity": "Common"
+      },
+      {
+        "name": "Precious Cards from Beyond",
+        "rarity": "Common"
+      },
+      {
+        "name": "Spirit of the Pot of Greed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Coach Goblin",
+        "rarity": "Common"
+      },
+      {
+        "name": "Chaos Greed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Molten Zombie",
+        "rarity": "Common"
+      },
+      {
+        "name": "Sacred Crane",
+        "rarity": "Common"
+      },
+      {
+        "name": "Avatar of The Pot",
+        "rarity": "Common"
+      },
+      {
+        "name": "7",
+        "rarity": "Common"
+      },
+      {
+        "name": "Mind Wipe",
+        "rarity": "Common"
+      },
+      {
+        "name": "Greed",
+        "rarity": "Common"
+      },
+      {
+        "name": "Necklace of Command",
+        "rarity": "Common"
+      },
+      {
+        "name": "Penalty Game!",
+        "rarity": "Common"
+      },
+      {
+        "name": "Guard Penalty",
+        "rarity": "Common"
+      }
+    ]
+  }
+]
