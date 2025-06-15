@@ -1,0 +1,91 @@
+[
+  {
+    "id": 5860,
+    "name": "Chaos Emperor Dragon - Envoy of the End",
+    "card_type": "Monster",
+    "attribute": "DARK",
+    "type": "Dragon",
+    "level": 8,
+    "atk": 3000,
+    "def": 2500,
+    "rarity": "Super"
+  },
+  {
+    "id": 4899,
+    "name": "Chorus of Sanctuary",
+    "card_type": "Spell",
+    "property": "Field",
+    "rarity": "Rare"
+  },
+  {
+    "id": 5178,
+    "name": "Cupid Kiss",
+    "card_type": "Spell",
+    "property": "Equip",
+    "rarity": "Rare"
+  },
+  {
+    "id": 5187,
+    "name": "Dark Arena",
+    "card_type": "Spell",
+    "property": "Field",
+    "rarity": "Ultra"
+  },
+  {
+    "id": 5183,
+    "name": "Dark Scorpion Retreat",
+    "card_type": "Trap",
+    "property": "Normal",
+    "rarity": "Common"
+  },
+  {
+    "id": 5179,
+    "name": "Defense Maiden",
+    "card_type": "Trap",
+    "property": "Continuous",
+    "rarity": "Common"
+  },
+  {
+    "id": 5172,
+    "name": "Dizzy Angel",
+    "card_type": "Monster",
+    "attribute": "EARTH",
+    "type": "Fairy",
+    "level": 4,
+    "atk": 1800,
+    "def": 400,
+    "rarity": "Rare"
+  },
+  {
+    "id": 5174,
+    "name": "Flipping the Table",
+    "card_type": "Spell",
+    "property": "Continuous",
+    "rarity": "Rare"
+  },
+  {
+    "id": 5180,
+    "name": "Happy Marriage",
+    "card_type": "Spell",
+    "property": "Equip",
+    "rarity": "Ultra"
+  },
+  {
+    "id": 4198,
+    "name": "Key Mace",
+    "card_type": "Monster",
+    "attribute": "LIGHT",
+    "type": "Fairy",
+    "level": 1,
+    "atk": 400,
+    "def": 300,
+    "rarity": "Common"
+  },
+  {
+    "id": 5186,
+    "name": "Ritual of the Matador",
+    "card_type": "Spell",
+    "property": "Ritual",
+    "rarity": "Rare"
+  }
+]

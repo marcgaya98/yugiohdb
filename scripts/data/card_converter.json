@@ -1,0 +1,822 @@
+[
+    {
+        "id": "10",
+        "cards": [
+            "Battle Steer",
+            "Elemental Hero Avian",
+            "Mystical Elf",
+            "Oscillo Hero",
+            "Sparks",
+            "Sword Arm of Dragon"
+        ]
+    },
+    {
+        "id": "11",
+        "cards": [
+            "Battle Ox",
+            "Elemental Hero Burstinatrix",
+            "Judge Man",
+            "Mountain Warrior"
+        ]
+    },
+    {
+        "id": "12",
+        "cards": [
+            "Alien Grey",
+            "Big Insect",
+            "Machine Conversion Factory",
+            "Rogue Doll"
+        ]
+    },
+    {
+        "id": "13",
+        "cards": [
+            "Alien Skull",
+            "Armored Lizard",
+            "Book of Secret Arts",
+            "Killer Needle"
+        ]
+    },
+    {
+        "id": "14",
+        "cards": [
+            "Cat's Ear Tribe",
+            "Great White",
+            "Kairyu-Shin",
+            "Violet Crystal"
+        ]
+    },
+    {
+        "id": "15",
+        "cards": [
+            "Beast Fangs",
+            "Dark Snake Syndrome",
+            "Krokodilus",
+            "Megazowler"
+        ]
+    },
+    {
+        "id": "16",
+        "cards": [
+            "Battle Warrior",
+            "Crawling Dragon #2",
+            "Hero of the East",
+            "Legendary Sword",
+            "Spirit of the Winds"
+        ]
+    },
+    {
+        "id": "17",
+        "cards": [
+            "Ansatsu",
+            "Supporter in the Shadows",
+            "Swordsman of Landstar",
+            "Weather Control"
+        ]
+    },
+    {
+        "id": "18",
+        "cards": [
+            "Alligator's Sword",
+            "Monster Egg",
+            "Octoberser",
+            "Toad Master"
+        ]
+    },
+    {
+        "id": "19",
+        "cards": [
+            "Gazelle the King of Mythical Beasts",
+            "Man Eater",
+            "M-Warrior #2",
+            "The Melting Red Shadow"
+        ]
+    },
+    {
+        "id": "20",
+        "cards": [
+            "Beastking of the Swamps",
+            "Dark Shade",
+            "Hurricail",
+            "Larvae Moth",
+            "The Judgement Hand"
+        ]
+    },
+    {
+        "id": "21",
+        "cards": [
+            "Doron",
+            "Genin",
+            "Great Moth",
+            "LaLa Li-oon"
+        ]
+    },
+    {
+        "id": "22",
+        "cards": [
+            "Dorover",
+            "Droll Bird",
+            "Muka Muka",
+            "Thunder Kid"
+        ]
+    },
+    {
+        "id": "23",
+        "cards": [
+            "D.D. Warrior",
+            "Kumootoko",
+            "Skull Stalker",
+            "Two-Mouth Darkruler"
+        ]
+    },
+    {
+        "id": "24",
+        "cards": [
+            "Guardian of the Labyrinth",
+            "Hitodenchak",
+            "Treasure Map",
+            "Yashinoki"
+        ]
+    },
+    {
+        "id": "25",
+        "cards": [
+            "Cyber Kirin",
+            "Dissolverock",
+            "Nekogal #1",
+            "Root Water"
+        ]
+    },
+    {
+        "id": "26",
+        "cards": [
+            "Fairywitch",
+            "Lunar Queen Elzaim",
+            "Mystic Swordsman LV2",
+            "Stone Armadiller"
+        ]
+    },
+    {
+        "id": "27",
+        "cards": [
+            "Contract with the Dark Master",
+            "Petit Moth",
+            "The Furious Sea King",
+            "Wetha"
+        ]
+    },
+    {
+        "id": "28",
+        "cards": [
+            "Masaki the Legendary Swordsman",
+            "Mooyan Curry",
+            "Serpent Marauder",
+            "White Dragon Ritual"
+        ]
+    },
+    {
+        "id": "29",
+        "cards": [
+            "Goblin's Secret Remedy",
+            "Paladin of White Dragon",
+            "Red Medicine",
+            "Soul of the Pure"
+        ]
+    },
+    {
+        "id": "30",
+        "cards": [
+            "Dungeon Worm",
+            "Marie the Fallen One",
+            "Rude Kaiser",
+            "Swordstalker",
+            "White Magical Hat"
+        ]
+    },
+    {
+        "id": "31",
+        "cards": [
+            "Curse of the Masked Beast",
+            "Saber Slasher",
+            "Stone D.",
+            "Water Magician"
+        ]
+    },
+    {
+        "id": "32",
+        "cards": [
+            "Ancient Elf",
+            "Beautiful Beast Trainer",
+            "Chimera the Flying Mythical Beast",
+            "Waterdragon Fairy"
+        ]
+    },
+    {
+        "id": "33",
+        "cards": [
+            "Bottom Dweller",
+            "Giant Red Seasnake",
+            "Insect Queen",
+            "Sea King Dragon"
+        ]
+    },
+    {
+        "id": "34",
+        "cards": [
+            "Barrel Rock",
+            "Kanikabuto",
+            "Millennium Golem",
+            "Toon Summoned Skull"
+        ]
+    },
+    {
+        "id": "35",
+        "cards": [
+            "After the Struggle",
+            "Alinsection",
+            "Barrel Lily",
+            "Sea Kamen",
+            "Toon Mermaid"
+        ]
+    },
+    {
+        "id": "36",
+        "cards": [
+            "Boulder Tortoise",
+            "Manga Ryu-Ran",
+            "The Statue of Easter Island",
+            "Turtle Bird"
+        ]
+    },
+    {
+        "id": "37",
+        "cards": [
+            "Anthrosaurus",
+            "Earth Chant",
+            "Kamakiriman",
+            "Little D"
+        ]
+    },
+    {
+        "id": "38",
+        "cards": [
+            "Abyss Flower",
+            "Beaked Snake",
+            "Jirai Gumo",
+            "Twin Long Rods #2"
+        ]
+    },
+    {
+        "id": "39",
+        "cards": [
+            "Great Bill",
+            "Shining Friendship",
+            "Snakeyashi",
+            "Ultra Evolution Pill"
+        ]
+    },
+    {
+        "id": "40",
+        "cards": [
+            "Book of Life",
+            "Nekogal #2",
+            "Pumpking the King of Ghosts",
+            "Queen of Autumn Leaves",
+            "Trent"
+        ]
+    },
+    {
+        "id": "41",
+        "cards": [
+            "Garnecia Elefantis",
+            "Hibikime",
+            "Sengenjin",
+            "Spell Reproduction"
+        ]
+    },
+    {
+        "id": "42",
+        "cards": [
+            "Blue Medicine",
+            "Neo the Magic Swordsman",
+            "Nightmare's Steelcage",
+            "Raimei"
+        ]
+    },
+    {
+        "id": "43",
+        "cards": [
+            "Cyber Falcon",
+            "Harpie's Brother",
+            "Man-Eating Treasure Chest",
+            "The Masked Beast"
+        ]
+    },
+    {
+        "id": "44",
+        "cards": [
+            "Earthshaker",
+            "Nightmare Wheel",
+            "Oni Tank T-34",
+            "Overdrive"
+        ]
+    },
+    {
+        "id": "45",
+        "cards": [
+            "Gate Guardian",
+            "Magic Reflector",
+            "Robolady",
+            "Seal of the Ancients",
+            "Wolf Axwielder"
+        ]
+    },
+    {
+        "id": "46",
+        "cards": [
+            "Rain of Mercy",
+            "Sacred Crane",
+            "Souls of the Forgotten",
+            "Spherous Lady"
+        ]
+    },
+    {
+        "id": "47",
+        "cards": [
+            "Headless Knight",
+            "Ojama Trio",
+            "The Gross Ghost of Fled Dreams",
+            "The Portrait's Secret"
+        ]
+    },
+    {
+        "id": "48",
+        "cards": [
+            "Master Kyonshee",
+            "Mystic Swordsman LV4",
+            "Staunch Defender",
+            "The Earl of Demise"
+        ]
+    },
+    {
+        "id": "49",
+        "cards": [
+            "Chopman the Desperate Outlaw",
+            "D.D. Trainer",
+            "Miracle Kids",
+            "Spirit of the Pot of Greed"
+        ]
+    },
+    {
+        "id": "50",
+        "cards": [
+            "Burning Algae",
+            "Cocoon of Evolution",
+            "Gora Turtle of Illusion",
+            "Hero Spirit"
+        ]
+    },
+    {
+        "id": "51",
+        "cards": [
+            "Destiny Hero - Captain Tenacious",
+            "Mystical Shine Ball",
+            "Sealmaster Meisei",
+            "Warrior of Zera"
+        ]
+    },
+    {
+        "id": "52",
+        "cards": [
+            "Destiny Hero - Doom Lord",
+            "Metal Armored Bug",
+            "Piranha Army",
+            "Two Thousand Needles"
+        ]
+    },
+    {
+        "id": "53",
+        "cards": [
+            "Destiny Hero - Blade Master",
+            "Gigobyte",
+            "Pharaoh's Servant",
+            "Pharaonic Protector"
+        ]
+    },
+    {
+        "id": "54",
+        "cards": [
+            "Absorbing Kid from the Sky",
+            "Abyssal Designator",
+            "Chrysalis Dolphin",
+            "Taunt"
+        ]
+    },
+    {
+        "id": "55",
+        "cards": [
+            "Absolute End",
+            "Bokoichi the Freightening Car",
+            "Mighty Guard",
+            "Wroughtweiler"
+        ]
+    },
+    {
+        "id": "56",
+        "cards": [
+            "Assault on GHQ",
+            "Beast Soul Swap",
+            "Divine Dragon - Excelion",
+            "Harpie Girl"
+        ]
+    },
+    {
+        "id": "57",
+        "cards": [
+            "Cycroid",
+            "Different Dimension Capsule",
+            "Mirage of Nightmare",
+            "Molten Zombie"
+        ]
+    },
+    {
+        "id": "58",
+        "cards": [
+            "Life Equalizer",
+            "Sonic Shooter",
+            "Tail Swipe",
+            "The Warrior Returning Alive"
+        ]
+    },
+    {
+        "id": "59",
+        "cards": [
+            "Des Koala",
+            "Guard Penalty",
+            "Option Hunter",
+            "Success Probability 0%"
+        ]
+    },
+    {
+        "id": "60",
+        "cards": [
+            "De-Spell",
+            "Full Salvo",
+            "Generation Shift",
+            "Next to be Lost"
+        ]
+    },
+    {
+        "id": "61",
+        "cards": [
+            "Excavation of Mage Stones",
+            "Karma Cut",
+            "Malice Ascendant",
+            "Memory Crusher"
+        ]
+    },
+    {
+        "id": "62",
+        "cards": [
+            "Chain Thrasher",
+            "Damage Condenser",
+            "Dark Master - Zorc",
+            "Saber Beetle"
+        ]
+    },
+    {
+        "id": "63",
+        "cards": [
+            "Final Countdown",
+            "Hero Kid",
+            "Magnet Circle LV2",
+            "Weed Out"
+        ]
+    },
+    {
+        "id": "64",
+        "cards": [
+            "Pyramid Turtle",
+            "Shien's Spy",
+            "Simultaneous Loss",
+            "Warrior Lady of the Wasteland"
+        ]
+    },
+    {
+        "id": "65",
+        "cards": [
+            "Dark Catapulter",
+            "Hidden Book of Spell",
+            "Last Turn",
+            "Pot of Generosity",
+            "System Down"
+        ]
+    },
+    {
+        "id": "66",
+        "cards": [
+            "Bottomless Trap Hole",
+            "Moai Interceptor Cannons",
+            "Patroid",
+            "Poison Fangs"
+        ]
+    },
+    {
+        "id": "67",
+        "cards": [
+            "Big-Tusked Mammoth",
+            "Catnipped Kitty",
+            "Last Will",
+            "Mind Haxorz"
+        ]
+    },
+    {
+        "id": "68",
+        "cards": [
+            "Enchanting Fitting Room",
+            "Kunai with Chain",
+            "Mind Wipe",
+            "Penumbral Soldier Lady"
+        ]
+    },
+    {
+        "id": "69",
+        "cards": [
+            "Dust Barrier",
+            "Elephant Statue of Disaster",
+            "Summoned Skull",
+            "Sword of the Soul-Eater"
+        ]
+    },
+    {
+        "id": "70",
+        "cards": [
+            "Destruction Ring",
+            "Elephant Statue of Blessing",
+            "Fiend's Hand Mirror",
+            "Gaia The Fierce Knight"
+        ]
+    },
+    {
+        "id": "71",
+        "cards": [
+            "Balloon Lizard",
+            "Blasting the Ruins",
+            "Jade Insect Whistle",
+            "Perfectly Ultimate Great Moth"
+        ]
+    },
+    {
+        "id": "72",
+        "cards": [
+            "Altar for Tribute",
+            "Battle-Scarred",
+            "Blue-Eyes Ultimate Dragon",
+            "Frozen Soul"
+        ]
+    },
+    {
+        "id": "73",
+        "cards": [
+            "Blindly Loyal Goblin",
+            "Bowganian",
+            "Despair from the Dark",
+            "Fissure"
+        ]
+    },
+    {
+        "id": "74",
+        "cards": [
+            "Meteorain",
+            "Pineapple Blast",
+            "Sasuke Samurai",
+            "Thunder of Ruler"
+        ]
+    },
+    {
+        "id": "75",
+        "cards": [
+            "Hieroglyph Lithograph",
+            "Lava Golem",
+            "Needle Ceiling",
+            "Precious Cards from Beyond"
+        ]
+    },
+    {
+        "id": "76",
+        "cards": [
+            "Breaker the Magical Warrior",
+            "Bubble Crash",
+            "Disappear",
+            "Twin-Headed Wolf"
+        ]
+    },
+    {
+        "id": "77",
+        "cards": [
+            "Byser Shock",
+            "Rope of Life",
+            "Ryu-Kishin Clown",
+            "Victory Dragon"
+        ]
+    },
+    {
+        "id": "78",
+        "cards": [
+            "Ancient Lamp",
+            "Destruction Punch",
+            "Statue of the Wicked"
+        ]
+    },
+    {
+        "id": "79",
+        "cards": [
+            "Dancing Fairy",
+            "Dramatic Rescue",
+            "Spirit of the Breeze",
+            "The Secret of the Bandit"
+        ]
+    },
+    {
+        "id": "80",
+        "cards": [
+            "D.D. Dynamite",
+            "Dimension Distortion",
+            "Nuvia the Wicked",
+            "Wild Nature's Release"
+        ]
+    },
+    {
+        "id": "81",
+        "cards": [
+            "Empress Mantis",
+            "Necklace of Command",
+            "Order to Charge",
+            "Special Hurricane"
+        ]
+    },
+    {
+        "id": "82",
+        "cards": [
+            "Berfomet",
+            "Chakra",
+            "Resurrection of Chakra",
+            "The Law of the Normal"
+        ]
+    },
+    {
+        "id": "83",
+        "cards": [
+            "Crab Turtle",
+            "Thunder Crash",
+            "Turtle Oath"
+        ]
+    },
+    {
+        "id": "84",
+        "cards": [
+            "Elemental Hero Sparkman",
+            "Hamburger Recipe",
+            "Hungry Burger",
+            "Monster Reborn"
+        ]
+    },
+    {
+        "id": "85",
+        "cards": [
+            "Aussa the Earth Charmer",
+            "Eria the Water Charmer",
+            "Hiita the Fire Charmer",
+            "Wynn the Wind Charmer"
+        ]
+    },
+    {
+        "id": "86",
+        "cards": [
+            "Fairy Guardian",
+            "Gravekeeper's Spy",
+            "Lady Panther",
+            "Ulevo"
+        ]
+    },
+    {
+        "id": "87",
+        "cards": [
+            "Gravekeeper's Curse",
+            "Lightning Blade",
+            "Meteo the Matchless",
+            "Spring of Rebirth"
+        ]
+    },
+    {
+        "id": "88",
+        "cards": [
+            "Gravekeeper's Guard",
+            "King of Destruction - Xexex",
+            "Kryuel",
+            "Return of the Doomed"
+        ]
+    },
+    {
+        "id": "89",
+        "cards": [
+            "Armored Glass",
+            "Gravekeeper's Spear Soldier",
+            "Queen of Fate - Eternia",
+            "Solomon's Lawbook"
+        ]
+    },
+    {
+        "id": "90",
+        "cards": [
+            "Driving Snow",
+            "Gravekeeper's Vassal",
+            "Gust",
+            "The Unhappy Maiden"
+        ]
+    },
+    {
+        "id": "91",
+        "cards": [
+            "Gravekeeper's Watcher",
+            "Phantasmal Martyrs",
+            "Queen's Double",
+            "Restructer Revolution"
+        ]
+    },
+    {
+        "id": "92",
+        "cards": [
+            "Empress Judge",
+            "Graceful Charity",
+            "Gravekeeper's Cannonholder",
+            "Witch's Apprentice"
+        ]
+    },
+    {
+        "id": "93",
+        "cards": [
+            "Enchanted Javelin",
+            "Gravekeeper's Assailant",
+            "Hero Heart",
+            "Royal Knight"
+        ]
+    },
+    {
+        "id": "94",
+        "cards": [
+            "Spiritual Earth Art - Kurogane",
+            "Spiritual Fire Art - Kurenai",
+            "Spiritual Water Art - Aoi",
+            "Spiritual Wind Art - Miyabi"
+        ]
+    },
+    {
+        "id": "95",
+        "cards": [
+            "Familiar-Possessed - Aussa",
+            "Familiar-Possessed - Eria",
+            "Familiar-Possessed - Hiita",
+            "Familiar-Possessed - Wynn"
+        ]
+    },
+    {
+        "id": "96",
+        "cards": [
+            "Commander Covington",
+            "Machiners Force",
+            "Machiners Sniper",
+            "Machiners Soldier"
+        ]
+    },
+    {
+        "id": "97",
+        "cards": [
+            "Draining Shield",
+            "Miracle Restoring",
+            "Treeborn Frog",
+            "United We Stand"
+        ]
+    },
+    {
+        "id": "98",
+        "cards": [
+            "Injection Fairy Lily",
+            "Mage Power",
+            "Thunder Nyan Nyan",
+            "Toy Magician"
+        ]
+    },
+    {
+        "id": "99",
+        "cards": [
+            "Cyber Dragon",
+            "Elemental Hero Aqua Neos",
+            "Elemental Hero Dark Neos",
+            "Elemental Hero Flare Neos",
+            "Neo-Spacian Aqua Dolphin",
+            "Neo-Spacian Dark Panther",
+            "Neo-Spacian Flare Scarab"
+        ]
+    }
+]

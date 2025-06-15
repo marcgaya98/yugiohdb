@@ -1,0 +1,23 @@
+[
+  {
+    "id": 5190,
+    "name": "Ayer's Rock Sunrise",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": "Ultra"
+  },
+  {
+    "id": 5181,
+    "name": "Illusion Gate",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": "Ultra"
+  },
+  {
+    "id": 5189,
+    "name": "Philosopher's Stone - Sabatier",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": "Ultra"
+  }
+]

@@ -1,0 +1,315 @@
+{
+    "monsters": [
+        {
+            "name": "Big Shield Gardna",
+            "japanese_name": "ビッグ・シールド・ガードナー",
+            "attribute": "EARTH",
+            "type": "Warrior",
+            "level": 4,
+            "atk": 100,
+            "def": 2600
+        },
+        {
+            "name": "Blue-Eyes Ultimate Dragon",
+            "japanese_name": "青眼の究極竜ブルーアイズ・アルティメットドラゴン",
+            "attribute": "LIGHT",
+            "type": "Dragon",
+            "level": 12,
+            "atk": 4500,
+            "def": 3800
+        },
+        {
+            "name": "Blue-Eyes White Dragon",
+            "japanese_name": "青眼の白龍ブルーアイズ・ホワイト・ドラゴン",
+            "attribute": "LIGHT",
+            "type": "Dragon",
+            "level": 8,
+            "atk": 3000,
+            "def": 2500
+        },
+        {
+            "name": "Celtic Guardian",
+            "japanese_name": "エルフの剣けん士し",
+            "attribute": "EARTH",
+            "type": "Warrior",
+            "level": 4,
+            "atk": 1400,
+            "def": 1200
+        },
+        {
+            "name": "Dark Magician",
+            "japanese_name": "ブラック・マジシャン",
+            "attribute": "DARK",
+            "type": "Spellcaster",
+            "level": 7,
+            "atk": 2500,
+            "def": 2100
+        },
+        {
+            "name": "Dark Magician Girl",
+            "japanese_name": "ブラック・マジシャン・ガール",
+            "attribute": "DARK",
+            "type": "Spellcaster",
+            "level": 6,
+            "atk": 2000,
+            "def": 1700
+        },
+        {
+            "name": "Dark Paladin",
+            "japanese_name": "超ちょう魔ま導どう剣けん士し－ブラック・パラディン",
+            "attribute": "DARK",
+            "type": "Spellcaster",
+            "level": 8,
+            "atk": 2900,
+            "def": 2400
+        },
+        {
+            "name": "Elemental Hero Avian",
+            "japanese_name": "Ｅ・ＨＥＲＯエレメンタルヒーロー フェザーマン",
+            "attribute": "WIND",
+            "type": "Warrior",
+            "level": 3,
+            "atk": 1000,
+            "def": 1000
+        },
+        {
+            "name": "Elemental Hero Burstinatrix",
+            "japanese_name": "Ｅ・ＨＥＲＯエレメンタルヒーロー バーストレディ",
+            "attribute": "FIRE",
+            "type": "Warrior",
+            "level": 3,
+            "atk": 1200,
+            "def": 800
+        },
+        {
+            "name": "Elemental Hero Sparkman",
+            "japanese_name": "Ｅ・ＨＥＲＯエレメンタルヒーロー スパークマン",
+            "attribute": "LIGHT",
+            "type": "Warrior",
+            "level": 4,
+            "atk": 1600,
+            "def": 1400
+        },
+        {
+            "name": "Flame Swordsman",
+            "japanese_name": "炎ほのおの剣けん士し",
+            "attribute": "FIRE",
+            "type": "Warrior",
+            "level": 5,
+            "atk": 1800,
+            "def": 1600
+        },
+        {
+            "name": "Gaia The Fierce Knight",
+            "japanese_name": "暗あん黒こく騎き士しガイア",
+            "attribute": "EARTH",
+            "type": "Warrior",
+            "level": 7,
+            "atk": 2300,
+            "def": 2100
+        },
+        {
+            "name": "Gemini Elf",
+            "japanese_name": "ヂェミナイ・エルフ",
+            "attribute": "EARTH",
+            "type": "Spellcaster",
+            "level": 4,
+            "atk": 1900,
+            "def": 900
+        },
+        {
+            "name": "Gilford the Lightning",
+            "japanese_name": "ギルフォード・ザ・ライトニング",
+            "attribute": "LIGHT",
+            "type": "Warrior",
+            "level": 8,
+            "atk": 2800,
+            "def": 1400
+        },
+        {
+            "name": "Kuriboh",
+            "japanese_name": "クリボー",
+            "attribute": "DARK",
+            "type": "Fiend",
+            "level": 1,
+            "atk": 300,
+            "def": 200
+        },
+        {
+            "name": "La Jinn the Mystical Genie of the Lamp",
+            "japanese_name": "ランプの魔ま精せい・ラ・ジーン",
+            "attribute": "DARK",
+            "type": "Fiend",
+            "level": 4,
+            "atk": 1800,
+            "def": 1000
+        },
+        {
+            "name": "Launcher Spider",
+            "japanese_name": "ＴＭ－１ランチャースパイダー",
+            "attribute": "FIRE",
+            "type": "Machine",
+            "level": 7,
+            "atk": 2200,
+            "def": 2500
+        },
+        {
+            "name": "Millennium Shield",
+            "japanese_name": "千せん年ねんの盾たて",
+            "attribute": "EARTH",
+            "type": "Warrior",
+            "level": 5,
+            "atk": 0,
+            "def": 3000
+        },
+        {
+            "name": "Panther Warrior",
+            "japanese_name": "漆しっ黒こくの豹ひょう戦せん士しパンサーウォリアー",
+            "attribute": "EARTH",
+            "type": "Beast-Warrior",
+            "level": 4,
+            "atk": 2000,
+            "def": 1600
+        },
+        {
+            "name": "Pendulum Machine",
+            "japanese_name": "振ふり子こ刃やいばの拷ごう問もん機き械かい",
+            "attribute": "DARK",
+            "type": "Machine",
+            "level": 6,
+            "atk": 1750,
+            "def": 2000
+        },
+        {
+            "name": "Red-Eyes B. Dragon",
+            "japanese_name": "真紅眼の黒竜レッドアイズ・ブラックドラゴン",
+            "attribute": "DARK",
+            "type": "Dragon",
+            "level": 7,
+            "atk": 2400,
+            "def": 2000
+        },
+        {
+            "name": "Red-Eyes Black Metal Dragon",
+            "japanese_name": "レッドアイズ・ブラックメタルドラゴン",
+            "attribute": "DARK",
+            "type": "Machine",
+            "level": 8,
+            "atk": 2800,
+            "def": 2400
+        },
+        {
+            "name": "Summoned Skull",
+            "japanese_name": "デーモンの召しょう喚かん",
+            "attribute": "DARK",
+            "type": "Fiend",
+            "level": 6,
+            "atk": 2500,
+            "def": 1200
+        },
+        {
+            "name": "Thousand Dragon",
+            "japanese_name": "千年竜サウザンド・ドラゴン",
+            "attribute": "WIND",
+            "type": "Dragon",
+            "level": 7,
+            "atk": 2400,
+            "def": 2000
+        },
+        {
+            "name": "Tiger Axe",
+            "japanese_name": "タイガー・アックス",
+            "attribute": "EARTH",
+            "type": "Beast-Warrior",
+            "level": 4,
+            "atk": 1300,
+            "def": 1100
+        },
+        {
+            "name": "Viser Des",
+            "japanese_name": "万まん力りき魔ま神じんバイサー・デス",
+            "attribute": "DARK",
+            "type": "Fiend",
+            "level": 4,
+            "atk": 500,
+            "def": 1200
+        },
+        {
+            "name": "Vorse Raider",
+            "japanese_name": "ブラッド・ヴォルス",
+            "attribute": "DARK",
+            "type": "Beast-Warrior",
+            "level": 4,
+            "atk": 1900,
+            "def": 1200
+        },
+        {
+            "name": "Winged Kuriboh",
+            "japanese_name": "ハネクリボー",
+            "attribute": "LIGHT",
+            "type": "Fairy",
+            "level": 1,
+            "atk": 300,
+            "def": 200
+        },
+        {
+            "name": "XYZ-Dragon Cannon",
+            "japanese_name": "ＸＹＺエックスワイゼット－ドラゴン・キャノン",
+            "attribute": "LIGHT",
+            "type": "Machine",
+            "level": 8,
+            "atk": 2800,
+            "def": 2600
+        }
+    ],
+    "spells_and_traps": [
+        {
+            "name": "Acid Trap Hole",
+            "japanese_name": "硫りゅう酸さんのたまった落おとし穴あな",
+            "card_type": "Trap Card",
+            "property": "Normal Trap Card"
+        },
+        {
+            "name": "Crush Card Virus",
+            "japanese_name": "死しのデッキ破は壊かいウイルス",
+            "card_type": "Trap Card",
+            "property": "Normal Trap Card"
+        },
+        {
+            "name": "Harpie's Feather Duster",
+            "japanese_name": "ハーピィの羽は根ね帚ぼうき",
+            "card_type": "Spell Card",
+            "property": "Normal Spell Card"
+        },
+        {
+            "name": "Kunai with Chain",
+            "japanese_name": "鎖くさり付つきブーメラン",
+            "card_type": "Trap Card",
+            "property": "Normal Trap Card"
+        },
+        {
+            "name": "Metalmorph",
+            "japanese_name": "メタル化か・魔ま法ほう反はん射しゃ装そう甲こう",
+            "card_type": "Trap Card",
+            "property": "Normal Trap Card"
+        },
+        {
+            "name": "Polymerization",
+            "japanese_name": "融ゆう合ごう",
+            "card_type": "Spell Card",
+            "property": "Normal Spell Card"
+        },
+        {
+            "name": "Toon World",
+            "japanese_name": "トゥーン・ワールド",
+            "card_type": "Spell Card",
+            "property": "Continuous Spell Card"
+        },
+        {
+            "name": "Widespread Ruin",
+            "japanese_name": "万ばん能のう地じ雷らいグレイモヤ",
+            "card_type": "Trap Card",
+            "property": "Normal Trap Card"
+        }
+    ]
+}

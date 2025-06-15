@@ -1,0 +1,155 @@
+[
+  {
+    "id": 5175,
+    "name": "Swordsman Of Doom Lithmus",
+    "card_type": "Monster",
+    "attribute": "DARK",
+    "type": "Warrior",
+    "level": 8,
+    "atk": 0,
+    "def": 0,
+    "rarity": null
+  },
+  {
+    "id": 5176,
+    "name": "Ritual of Lithmus",
+    "card_type": "Spell",
+    "property": "Ritual",
+    "rarity": null
+  },
+  {
+    "id": 5183,
+    "name": "Dark Scorpion Retreat",
+    "card_type": "Trap",
+    "property": "Normal",
+    "rarity": null
+  },
+  {
+    "id": 5184,
+    "name": "Dark Scorpion - Tragedy of Love",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": null
+  },
+  {
+    "id": 5171,
+    "name": "Dizzy Tiger",
+    "card_type": "Monster",
+    "attribute": "EARTH",
+    "type": "Beast-Warrior",
+    "level": 4,
+    "atk": 1800,
+    "def": 600,
+    "rarity": null
+  },
+  {
+    "id": 5172,
+    "name": "Dizzy Angel",
+    "card_type": "Monster",
+    "attribute": "EARTH",
+    "type": "Fairy",
+    "level": 4,
+    "atk": 1800,
+    "def": 400,
+    "rarity": null
+  },
+  {
+    "id": 5173,
+    "name": "Hot Sauce Bottle",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": null
+  },
+  {
+    "id": 5177,
+    "name": "Maiden in Love",
+    "card_type": "Monster",
+    "attribute": "LIGHT",
+    "type": "Spellcaster",
+    "level": 2,
+    "atk": 400,
+    "def": 300,
+    "rarity": null
+  },
+  {
+    "id": 5178,
+    "name": "Cupid Kiss",
+    "card_type": "Spell",
+    "property": "Equip",
+    "rarity": null
+  },
+  {
+    "id": 5179,
+    "name": "Defense Maiden",
+    "card_type": "Trap",
+    "property": "Continuous",
+    "rarity": null
+  },
+  {
+    "id": 5180,
+    "name": "Happy Marriage",
+    "card_type": "Spell",
+    "property": "Equip",
+    "rarity": null
+  },
+  {
+    "id": 5185,
+    "name": "Archfiend Matador",
+    "card_type": "Monster",
+    "attribute": "DARK",
+    "type": "Warrior",
+    "level": 6,
+    "atk": 0,
+    "def": 0,
+    "rarity": null
+  },
+  {
+    "id": 5186,
+    "name": "Ritual of the Matador",
+    "card_type": "Spell",
+    "property": "Ritual",
+    "rarity": null
+  },
+  {
+    "id": 5187,
+    "name": "Dark Arena",
+    "card_type": "Spell",
+    "property": "Field",
+    "rarity": null
+  },
+  {
+    "id": 5182,
+    "name": "Amazoness Arena",
+    "card_type": "Spell",
+    "property": "Field",
+    "rarity": null
+  },
+  {
+    "id": 5188,
+    "name": "Alchemic Kettle - Chaos Distill",
+    "card_type": "Spell",
+    "property": "Continuous",
+    "rarity": null
+  },
+  {
+    "id": 5190,
+    "name": "Ayer's Rock Sunrise",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": "Ultra"
+  },
+  {
+    "id": 5181,
+    "name": "Illusion Gate",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": "Ultra"
+  },
+  {
+    "id": 5189,
+    "name": "Philosopher's Stone - Sabatier",
+    "card_type": "Spell",
+    "property": "Normal",
+    "rarity": "Ultra"
+  }
+]
