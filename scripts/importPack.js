@@ -5,7 +5,7 @@ import Card from '../models/Card.js';
 import MonsterCard from '../models/MonsterCard.js';
 import SpellCard from '../models/SpellCard.js';
 import TrapCard from '../models/TrapCard.js';
-import Pack from '../models/pack.js';
+import Pack from '../models/Pack.js';
 import '../models/associations.js';
 
 async function importAllPacks() {
