@@ -8082,7 +8082,7 @@
     ]
   },
   {
-    "name": "Blair",
+    "name": "Blair Flannigan",
     "image": "https://ms.yugipedia.com//6/6e/Blair-TFSP.png",
     "tier": "Tier 2",
     "decks": [
@@ -8251,7 +8251,7 @@
     ]
   },
   {
-    "name": "Paradox Brothers Para",
+    "name": "Para",
     "image": "https://ms.yugipedia.com//0/02/Para-TFSP.png",
     "tier": "Tier 2",
     "decks": [
@@ -8349,7 +8349,7 @@
     ]
   },
   {
-    "name": "Paradox Brothers Dox",
+    "name": "Dox",
     "image": "https://ms.yugipedia.com//a/a2/Dox-TFSP.png",
     "tier": "Tier 2",
     "decks": [
@@ -8749,7 +8749,7 @@
     ]
   },
   {
-    "name": "Dorothy",
+    "name": "Ms. Dorothy",
     "image": "https://ms.yugipedia.com//a/a6/Dorothy-TFSP.png",
     "tier": "Tier 2",
     "decks": [
@@ -9253,7 +9253,7 @@
     ]
   },
   {
-    "name": "The Gambler",
+    "name": "Pierre the Gambler",
     "image": "https://ms.yugipedia.com//thumb/e/e6/Pierre-Tag-Force.png/257px-Pierre-Tag-Force.png",
     "tier": "Tier 2",
     "decks": [
@@ -15095,7 +15095,7 @@
     ]
   },
   {
-    "name": "Rock",
+    "name": "Rock (character)",
     "image": "https://ms.yugipedia.com//thumb/4/41/Rock-TFGX.png/257px-Rock-TFGX.png",
     "tier": "Tier 3",
     "group": "Obelisk Blue boys",
@@ -16221,7 +16221,7 @@
     ]
   },
   {
-    "name": "Rie",
+    "name": "Rie Yamatani",
     "image": "https://ms.yugipedia.com//thumb/9/9e/Rie-TFGX.png/257px-Rie-TFGX.png",
     "tier": "Tier 3",
     "group": "Obelisk Blue girls",
@@ -16350,7 +16350,7 @@
     ]
   },
   {
-    "name": "Maki",
+    "name": "Maki Kirioka",
     "image": "https://ms.yugipedia.com//thumb/0/07/Maki-TFGX.png/257px-Maki-TFGX.png",
     "tier": "Tier 3",
     "group": "Obelisk Blue girls",
@@ -17187,7 +17187,7 @@
     ]
   },
   {
-    "name": "Yumi",
+    "name": "Yumi Yoshizawa",
     "image": "https://ms.yugipedia.com//a/ab/Yumi-TF05.png",
     "tier": "Tier 3",
     "group": "Obelisk Blue girls",
@@ -17401,7 +17401,7 @@
     ]
   },
   {
-    "name": "Emperor.Umiuma",
+    "name": "Kaiser Umiuma",
     "image": "https://ms.yugipedia.com//9/99/KaiserUmiuma-WC11.png",
     "tier": "Tier 3",
     "group": "Charisma",
@@ -17850,7 +17850,7 @@
     ]
   },
   {
-    "name": "Sironos",
+    "name": "Shironosu",
     "image": "https://ms.yugipedia.com//5/52/Shironosu-WC11.png",
     "tier": "Tier 3",
     "group": "Charisma",
@@ -17967,6 +17967,524 @@
           ]
         },
         "level": 8
+      },
+      {
+        "name": "White Fairy 1",
+        "subtitle": "Japanese: 純白天使１ · Rōmaji: Junpaku Tenshi 1 · Translated: Immaculate Angel 1",
+        "cards": {
+          "Monster Cards": [
+            {
+              "name": "Dunames Dark Witch",
+              "quantity": 2
+            }
+          ],
+          "Spell Cards": [
+            {
+              "name": "Brain Control",
+              "quantity": 1
+            },
+            {
+              "name": "Celestial Transformation",
+              "quantity": 2
+            },
+            {
+              "name": "Heavy Storm",
+              "quantity": 1
+            },
+            {
+              "name": "Mystical Space Typhoon",
+              "quantity": 1
+            },
+            {
+              "name": "Nobleman of Crossout",
+              "quantity": 1
+            },
+            {
+              "name": "Smashing Ground",
+              "quantity": 1
+            },
+            {
+              "name": "Snatch Steal (D)",
+              "quantity": 1
+            },
+            {
+              "name": "The Shallow Grave",
+              "quantity": 1
+            }
+          ],
+          "Trap Cards": [
+            {
+              "name": "Call of the Haunted (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Dark Bribe",
+              "quantity": 1
+            },
+            {
+              "name": "Divine Wrath",
+              "quantity": 1
+            },
+            {
+              "name": "Forced Back",
+              "quantity": 1
+            },
+            {
+              "name": "Magic Jammer",
+              "quantity": 2
+            },
+            {
+              "name": "Miraculous Descent x2 (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Seven Tools of the Bandit",
+              "quantity": 2
+            },
+            {
+              "name": "Synthetic Seraphim",
+              "quantity": 2
+            },
+            {
+              "name": "Torrential Tribute",
+              "quantity": 1
+            }
+          ]
+        },
+        "level": 4
+      },
+      {
+        "name": "White Fairy 2",
+        "subtitle": "Japanese: 純白天使２ · Rōmaji: Junpaku Tenshi 2 · Translated: Immaculate Angel 2",
+        "cards": {
+          "Monster Cards": [
+            {
+              "name": "Dunames Dark Witch",
+              "quantity": 2
+            }
+          ],
+          "Spell Cards": [
+            {
+              "name": "Brain Control",
+              "quantity": 1
+            },
+            {
+              "name": "Celestial Transformation",
+              "quantity": 2
+            },
+            {
+              "name": "Heavy Storm",
+              "quantity": 1
+            },
+            {
+              "name": "Mystical Space Typhoon",
+              "quantity": 1
+            },
+            {
+              "name": "Nobleman of Crossout",
+              "quantity": 1
+            },
+            {
+              "name": "Premature Burial",
+              "quantity": 1
+            },
+            {
+              "name": "Smashing Ground",
+              "quantity": 1
+            },
+            {
+              "name": "Snatch Steal (D)",
+              "quantity": 1
+            }
+          ],
+          "Trap Cards": [
+            {
+              "name": "Call of the Haunted (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Divine Wrath",
+              "quantity": 1
+            },
+            {
+              "name": "Forced Back",
+              "quantity": 1
+            },
+            {
+              "name": "Magic Jammer",
+              "quantity": 2
+            },
+            {
+              "name": "Miraculous Descent x2 (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Mirror Force (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Seven Tools of the Bandit",
+              "quantity": 1
+            },
+            {
+              "name": "Solemn Judgment",
+              "quantity": 2
+            },
+            {
+              "name": "Synthetic Seraphim",
+              "quantity": 2
+            }
+          ]
+        },
+        "level": 4
+      },
+      {
+        "name": "White Fairy 3",
+        "subtitle": "Japanese: 純白天使３ · Rōmaji: Junpaku Tenshi 3 · Translated: Immaculate Angel 3",
+        "cards": {
+          "Monster Cards": [
+            {
+              "name": "Dunames Dark Witch",
+              "quantity": 2
+            }
+          ],
+          "Spell Cards": [
+            {
+              "name": "Brain Control",
+              "quantity": 1
+            },
+            {
+              "name": "Celestial Transformation",
+              "quantity": 2
+            },
+            {
+              "name": "Graceful Charity (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Heavy Storm",
+              "quantity": 1
+            },
+            {
+              "name": "Mystical Space Typhoon",
+              "quantity": 1
+            },
+            {
+              "name": "Nobleman of Crossout",
+              "quantity": 1
+            },
+            {
+              "name": "Premature Burial",
+              "quantity": 1
+            },
+            {
+              "name": "Smashing Ground",
+              "quantity": 1
+            },
+            {
+              "name": "Snatch Steal (D)",
+              "quantity": 1
+            }
+          ],
+          "Trap Cards": [
+            {
+              "name": "Call of the Haunted (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Divine Wrath",
+              "quantity": 1
+            },
+            {
+              "name": "Forced Back",
+              "quantity": 1
+            },
+            {
+              "name": "Magic Jammer",
+              "quantity": 2
+            },
+            {
+              "name": "Miraculous Descent (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Mirror Force (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Seven Tools of the Bandit",
+              "quantity": 1
+            },
+            {
+              "name": "Solemn Judgment",
+              "quantity": 2
+            },
+            {
+              "name": "Synthetic Seraphim",
+              "quantity": 2
+            }
+          ]
+        },
+        "level": 4
+      },
+      {
+        "name": "Immaculate Angel 1",
+        "subtitle": "Japanese: 純白天使１ · Rōmaji: Junpaku Tenshi 1",
+        "cards": {
+          "Monster Cards": [
+            {
+              "name": "Dunames Dark Witch",
+              "quantity": 2
+            }
+          ],
+          "Spell Cards": [
+            {
+              "name": "Brain Control",
+              "quantity": 1
+            },
+            {
+              "name": "Celestial Transformation",
+              "quantity": 2
+            },
+            {
+              "name": "Heavy Storm",
+              "quantity": 1
+            },
+            {
+              "name": "Monster Reborn",
+              "quantity": 1
+            },
+            {
+              "name": "Mystical Space Typhoon",
+              "quantity": 1
+            },
+            {
+              "name": "Nobleman of Crossout",
+              "quantity": 1
+            },
+            {
+              "name": "Smashing Ground",
+              "quantity": 1
+            },
+            {
+              "name": "The Shallow Grave",
+              "quantity": 1
+            }
+          ],
+          "Trap Cards": [
+            {
+              "name": "Dark Bribe",
+              "quantity": 1
+            },
+            {
+              "name": "Divine Wrath",
+              "quantity": 1
+            },
+            {
+              "name": "Forced Back",
+              "quantity": 1
+            },
+            {
+              "name": "Magic Jammer",
+              "quantity": 2
+            },
+            {
+              "name": "Miraculous Descent",
+              "quantity": 2
+            },
+            {
+              "name": "Mirror Force",
+              "quantity": 1
+            },
+            {
+              "name": "Seven Tools of the Bandit",
+              "quantity": 2
+            },
+            {
+              "name": "Synthetic Seraphim",
+              "quantity": 2
+            },
+            {
+              "name": "Torrential Tribute",
+              "quantity": 1
+            }
+          ]
+        },
+        "level": 4
+      },
+      {
+        "name": "Immaculate Angel 2",
+        "subtitle": "Japanese: 純白天使２ · Rōmaji: Junpaku Tenshi 2",
+        "cards": {
+          "Monster Cards": [
+            {
+              "name": "Dunames Dark Witch",
+              "quantity": 2
+            }
+          ],
+          "Spell Cards": [
+            {
+              "name": "Brain Control",
+              "quantity": 1
+            },
+            {
+              "name": "Celestial Transformation",
+              "quantity": 2
+            },
+            {
+              "name": "Heavy Storm",
+              "quantity": 1
+            },
+            {
+              "name": "Monster Reborn",
+              "quantity": 1
+            },
+            {
+              "name": "Mystical Space Typhoon",
+              "quantity": 1
+            },
+            {
+              "name": "Nobleman of Crossout",
+              "quantity": 1
+            },
+            {
+              "name": "Premature Burial",
+              "quantity": 1
+            },
+            {
+              "name": "Smashing Ground",
+              "quantity": 1
+            },
+            {
+              "name": "Swords of Revealing Light",
+              "quantity": 1
+            }
+          ],
+          "Trap Cards": [
+            {
+              "name": "Divine Wrath",
+              "quantity": 1
+            },
+            {
+              "name": "Forced Back",
+              "quantity": 1
+            },
+            {
+              "name": "Magic Jammer",
+              "quantity": 2
+            },
+            {
+              "name": "Miraculous Descent",
+              "quantity": 2
+            },
+            {
+              "name": "Mirror Force",
+              "quantity": 1
+            },
+            {
+              "name": "Seven Tools of the Bandit",
+              "quantity": 1
+            },
+            {
+              "name": "Solemn Judgment",
+              "quantity": 2
+            },
+            {
+              "name": "Synthetic Seraphim",
+              "quantity": 2
+            }
+          ]
+        },
+        "level": 4
+      },
+      {
+        "name": "Immaculate Angel 3",
+        "subtitle": "Japanese: 純白天使３ · Rōmaji: Junpaku Tenshi 3",
+        "cards": {
+          "Monster Cards": [
+            {
+              "name": "Dunames Dark Witch",
+              "quantity": 2
+            }
+          ],
+          "Spell Cards": [
+            {
+              "name": "Brain Control",
+              "quantity": 1
+            },
+            {
+              "name": "Celestial Transformation",
+              "quantity": 2
+            },
+            {
+              "name": "Graceful Charity (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Heavy Storm",
+              "quantity": 1
+            },
+            {
+              "name": "Mystical Space Typhoon",
+              "quantity": 1
+            },
+            {
+              "name": "Nobleman of Crossout",
+              "quantity": 1
+            },
+            {
+              "name": "Premature Burial",
+              "quantity": 1
+            },
+            {
+              "name": "Smashing Ground",
+              "quantity": 1
+            },
+            {
+              "name": "Snatch Steal (D)",
+              "quantity": 1
+            }
+          ],
+          "Trap Cards": [
+            {
+              "name": "Call of the Haunted",
+              "quantity": 1
+            },
+            {
+              "name": "Divine Wrath",
+              "quantity": 1
+            },
+            {
+              "name": "Forced Back",
+              "quantity": 1
+            },
+            {
+              "name": "Magic Jammer",
+              "quantity": 2
+            },
+            {
+              "name": "Miraculous Descent",
+              "quantity": 1
+            },
+            {
+              "name": "Mirror Force (D)",
+              "quantity": 1
+            },
+            {
+              "name": "Seven Tools of the Bandit",
+              "quantity": 1
+            },
+            {
+              "name": "Solemn Judgment",
+              "quantity": 2
+            },
+            {
+              "name": "Synthetic Seraphim",
+              "quantity": 2
+            }
+          ]
+        },
+        "level": 4
       }
     ]
   },

@@ -44,7 +44,7 @@ import packRoutes from './routes/packRoutes.js';
 app.use('/packs', packRoutes);
 
 // Importar modelos
-import Pack from './models/pack.js';
+import Pack from './models/Pack.js';
 import Genre from './models/Genre.js';
 
 // Sincronizar modelos con la base de datos
