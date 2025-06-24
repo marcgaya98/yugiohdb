@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      target: production
+    container_name: yugioh-api
+    ports:
+      - "${PORT:-3000}:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      - NODE_ENV=production
+      - DB_HOST=db
+      - DB_USER=${DB_USER:-yugioh}
+      - DB_PASSWORD=${DB_PASSWORD:-yugioh}
+      - DB_NAME=${DB_NAME:-yugioh}
+      - DB_PORT=3306
+      - PORT=${PORT:-3000}
+    restart: unless-stopped
+    networks:
+      - yugioh-network
+
+  db:
+    image: mysql:8.0
+    container_name: yugioh-db
+    ports:
+      - "${DB_PORT:-3306}:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=${DB_ROOT_PASSWORD:-root}
+      - MYSQL_USER=${DB_USER:-yugioh}
+      - MYSQL_PASSWORD=${DB_PASSWORD:-yugioh}
+      - MYSQL_DATABASE=${DB_NAME:-yugioh}
+    volumes:
+      - yugioh-db-data:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost", "-u$$MYSQL_USER", "-p$$MYSQL_PASSWORD" ]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    restart: unless-stopped
+    networks:
+      - yugioh-network
+
+networks:
+  yugioh-network:
+    driver: bridge
+
+volumes:
+  yugioh-db-data:
+    driver: local
