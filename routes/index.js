@@ -5,6 +5,7 @@ import characterRoutes from './characterRoutes.js';
 import deckRoutes from './deckRoutes.js';
 import obtentionRoutes from './obtentionRoutes.js';
 import iconRoutes from './iconRoutes.js';
+import ygoprodeckRoutes from './ygoprodeckRoutes.js';
 
 const router = Router();
 
@@ -18,5 +19,6 @@ router.use('/bonus', bonusRoutes);
 router.use('/high-score', highScoreRoutes);
 router.use('/challenge', challengeRoutes);
 router.use('/icon', iconRoutes);
+router.use('/ygoprodeck', ygoprodeckRoutes);
 
 export default router;
