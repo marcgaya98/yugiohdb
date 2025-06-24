@@ -1,9 +1,15 @@
 {
-  "name": "yugioh",
+  "name": "yugiohdb",
   "type": "module",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "migrate": "node scripts/migrate.js",
+    "import:cards": "node scripts/importMissingCards.js",
+    "import:decks": "node scripts/importDecksFromJson.js",
+    "import:characters": "node scripts/importDuelists.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,6 +22,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "jsdom": "^26.1.0",
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.14.1",
     "node-fetch": "^2.7.0",
