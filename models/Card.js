@@ -8,13 +8,38 @@ const Card = sequelize.define('Card', {
         autoIncrement: true,
         allowNull: false,
     },
-    name: { type: DataTypes.STRING, allowNull: false },
-    code: { type: DataTypes.STRING, allowNull: false },
-    description: { type: DataTypes.TEXT, allowNull: false },
-    image_url: { type: DataTypes.STRING, allowNull: false },
+    name: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        validate: {
+            notEmpty: true
+        }
+    },
+    code: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        unique: true,
+        validate: {
+            notEmpty: true
+        }
+    },
+    description: {
+        type: DataTypes.TEXT,
+        allowNull: false
+    },
+    image_url: {
+        type: DataTypes.STRING,
+        allowNull: false,
+        validate: {
+            isUrl: true
+        }
+    },
     password: {
         type: DataTypes.STRING,
-        comment: 'Password de la carta (8 dígitos)'
+        comment: 'Password de la carta (8 dígitos)',
+        validate: {
+            is: /^[0-9]{8}$/, // Validación para asegurar que sea un password de 8 dígitos
+        }
     },
     rarity: {
         type: DataTypes.ENUM('ultra', 'super', 'rare', 'common'),
@@ -43,10 +68,13 @@ const Card = sequelize.define('Card', {
     timestamps: false,
     indexes: [
         { unique: true, fields: ['code'] },
-        { fields: ['name'] },
+        { fields: ['name'], type: 'FULLTEXT' }, // Optimizado para búsqueda por texto
         { fields: ['cardType'] },
         { fields: ['archetype'] },
-        { fields: ['password'] } // Añadir índice para consultas por password
+        { fields: ['password'] }, // Para consultas por password
+        { fields: ['rarity'] },   // Para filtros por rareza
+        { fields: ['frame'] },    // Para filtros por tipo de marco
+        { fields: ['cardType', 'frame', 'archetype'] } // Índice compuesto para filtros comunes
     ]
 });
 

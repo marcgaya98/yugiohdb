@@ -10,7 +10,6 @@ const Genre = sequelize.define('Genre', {
     timestamps: false,
 });
 
-Genre.belongsTo(GenreCategory, { foreignKey: 'categoryId', as: 'category' });
-GenreCategory.hasMany(Genre, { foreignKey: 'categoryId', as: 'genres' });
+// Las asociaciones se definen en el archivo associations.js
 
 export default Genre;

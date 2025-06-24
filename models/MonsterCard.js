@@ -55,6 +55,16 @@ const MonsterCard = sequelize.define('MonsterCard', {
 }, {
     tableName: 'monster_card',
     timestamps: false,
+    indexes: [
+        { fields: ['attribute'] },
+        { fields: ['type'] },
+        { fields: ['level'] },
+        { fields: ['summonMechanic'] },
+        { fields: ['effectTrait'] },
+        { fields: ['ability'] },
+        { fields: ['level', 'attribute', 'type'] },  // Índice compuesto para búsquedas comunes
+        { fields: ['attack', 'defense'] }            // Índice compuesto para búsquedas por ATK/DEF
+    ]
 });
 
 export default MonsterCard;

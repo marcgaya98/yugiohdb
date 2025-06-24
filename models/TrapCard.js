@@ -18,6 +18,9 @@ const TrapCard = sequelize.define('TrapCard', {
 }, {
     tableName: 'trap_card',
     timestamps: false,
+    indexes: [
+        { fields: ['type'] }
+    ]
 });
 
 export default TrapCard;

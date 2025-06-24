@@ -18,6 +18,9 @@ const SpellCard = sequelize.define('SpellCard', {
 }, {
     tableName: 'spell_card',
     timestamps: false,
+    indexes: [
+        { fields: ['type'] }
+    ]
 });
 
 export default SpellCard;

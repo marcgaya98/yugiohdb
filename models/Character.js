@@ -10,7 +10,7 @@ const Character = sequelize.define('Character', {
         allowNull: false
     },
     category: {
-        type: DataTypes.ENUM('Teachers', 'Slifer Red', 'Ra Yellow', 'Obelisk Blue boys', 'Obelisk Blue girls', 'Charisma', null),
+        type: DataTypes.ENUM('Teachers', 'Slifer Red', 'Ra Yellow', 'Obelisk Blue boys', 'Obelisk Blue girls', 'Charisma'),
         allowNull: true // Permite null para Tier 1, 2 y Non Duelist que no tienen categoría
     },
     image: { type: DataTypes.STRING, allowNull: true },
