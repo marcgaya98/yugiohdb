@@ -3,3 +3,8 @@
 *.{bat,[bB][aA][tT]} text eol=crlf
 *.{png,jpg,jpeg,gif,webp,svg,ico} binary
 *.{ttf,woff,woff2,eot} binary
+
+# Configuración específica para archivos que podrían confundirse con otros tipos
+.github/CODEOWNERS linguist-language=Text
+.github/ISSUE_TEMPLATE/* linguist-language=Markdown
+.github/PULL_REQUEST_TEMPLATE/* linguist-language=Markdown

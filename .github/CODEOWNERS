@@ -1,3 +1,6 @@
+# NOTA: Este NO es un Dockerfile. Es un archivo de configuración de GitHub para definir propietarios de código.
+# GITHUB CODEOWNERS FILE - NO ES UN DOCKERFILE
+
 # Este archivo define quién es responsable de revisar cambios en diferentes partes del código
 # Para más información, consulta: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 

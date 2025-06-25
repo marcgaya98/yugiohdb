@@ -8,5 +8,11 @@
   ],
   "files.exclude": {
     "**/node_modules": true
-  }
+  },
+  "files.associations": {
+    ".github/CODEOWNERS": "plaintext"
+  },
+  "dockerfile-utils.excludePaths": [
+    ".github/CODEOWNERS"
+  ]
 }
