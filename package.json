@@ -10,7 +10,11 @@
     "import:cards": "node scripts/importMissingCards.js",
     "import:decks": "node scripts/importDecksFromJson.js",
     "import:characters": "node scripts/importDuelists.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "test": "echo \"No tests implemented yet\" && exit 0",
+    "build": "echo \"No build step required\" && exit 0"
   },
   "keywords": [],
   "author": "",
