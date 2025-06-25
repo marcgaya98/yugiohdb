@@ -1,0 +1,34 @@
+name: 💡 Solicitud de Característica
+description: Sugerir una idea para este proyecto
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por sugerir una nueva característica. Tu feedback es valioso para mejorar el proyecto.
+  - type: textarea
+    id: problema
+    attributes:
+      label: ¿Su solicitud de función está relacionada con un problema?
+      description: Una descripción clara y concisa del problema. Ej. Siempre me frustra cuando [...]
+    validations:
+      required: false
+  - type: textarea
+    id: solucion
+    attributes:
+      label: Describa la solución que le gustaría
+      description: Una descripción clara y concisa de lo que quiere que suceda.
+    validations:
+      required: true
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Describa las alternativas que ha considerado
+      description: Una descripción clara y concisa de cualquier solución o característica alternativa que haya considerado.
+    validations:
+      required: false
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Añada cualquier otro contexto o capturas de pantalla sobre la solicitud de característica aquí.
