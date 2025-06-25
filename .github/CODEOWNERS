@@ -1,0 +1,22 @@
+# Este archivo define quién es responsable de revisar cambios en diferentes partes del código
+# Para más información, consulta: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Propietarios por defecto para todo el código
+*       @marcgaya98
+
+# Propietarios de modelos
+/models/ @marcgaya98
+
+# Propietarios de controladores
+/controllers/ @marcgaya98
+
+# Propietarios de scripts de importación
+/scripts/ @marcgaya98
+
+# Propietarios de configuración de Docker
+/docker* @marcgaya98
+/Dockerfile @marcgaya98
+/.dockerignore @marcgaya98
+
+# Propietarios de configuración de CI/CD
+/.github/workflows/ @marcgaya98
