@@ -14,6 +14,14 @@ import GenreCategory from './GenreCategory.js';
 import CardObtention from './CardObtention.js';
 import Character from './Character.js';
 import CharacterSandwichRating from './CharacterSandwichRating.js';
+import CardTutorialObtention from './CardTutorialObtention.js';
+import CardInitialDeck from './CardInitialDeck.js';
+import CardPackObtention from './CardPackObtention.js';
+import CardConverterObtention from './CardConverterObtention.js';
+import CardCharacterObtention from './CardCharacterObtention.js';
+import CardSandwichObtention from './CardSandwichObtention.js';
+import Pack from './Pack.js';
+import HighScore from './HighScore.js';
 
 /**
  * Asociaciones Card con las cartas especializadas (MonsterCard, SpellCard, TrapCard)
@@ -131,5 +139,133 @@ Deck.belongsTo(Character, {
     foreignKey: 'characterId',
     as: 'owner',
     onDelete: 'SET NULL',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para CardTutorialObtention
+ * Relaciona cartas con los días de tutoriales en que se obtienen
+ */
+Card.hasMany(CardTutorialObtention, {
+    foreignKey: 'cardId',
+    as: 'tutorialObtentions',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+CardTutorialObtention.belongsTo(Card, {
+    foreignKey: 'cardId',
+    as: 'card',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para CardInitialDeck
+ * Relaciona cartas con el mazo inicial del jugador
+ */
+Card.hasOne(CardInitialDeck, {
+    foreignKey: 'cardId',
+    as: 'initialDeck',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+CardInitialDeck.belongsTo(Card, {
+    foreignKey: 'cardId',
+    as: 'card',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para CardSandwichObtention
+ * Relaciona cartas con las que se obtienen mediante Plain Sandwich
+ */
+Card.hasOne(CardSandwichObtention, {
+    foreignKey: 'cardId',
+    as: 'sandwichObtention',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+CardSandwichObtention.belongsTo(Card, {
+    foreignKey: 'cardId',
+    as: 'card',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para CardPackObtention
+ * Relaciona cartas con los packs donde se pueden obtener
+ */
+Card.belongsToMany(Pack, {
+    through: CardPackObtention,
+    foreignKey: 'cardId',
+    otherKey: 'packId',
+    as: 'packs'
+});
+Pack.belongsToMany(Card, {
+    through: CardPackObtention,
+    foreignKey: 'packId',
+    otherKey: 'cardId',
+    as: 'cards'
+});
+
+CardPackObtention.belongsTo(Card, {
+    foreignKey: 'cardId',
+    as: 'card',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+CardPackObtention.belongsTo(Pack, {
+    foreignKey: 'packId',
+    as: 'pack',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para CardConverterObtention
+ * Relaciona cartas con el sistema de convertidor
+ */
+Card.hasOne(CardConverterObtention, {
+    foreignKey: 'cardId',
+    as: 'converterObtention',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+CardConverterObtention.belongsTo(Card, {
+    foreignKey: 'cardId',
+    as: 'card',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para CardCharacterObtention
+ * Relaciona cartas con los personajes que las otorgan
+ */
+Card.belongsToMany(Character, {
+    through: CardCharacterObtention,
+    foreignKey: 'cardId',
+    otherKey: 'characterId',
+    as: 'characterObtentions'
+});
+Character.belongsToMany(Card, {
+    through: CardCharacterObtention,
+    foreignKey: 'characterId',
+    otherKey: 'cardId',
+    as: 'rewardCards'
+});
+
+CardCharacterObtention.belongsTo(Card, {
+    foreignKey: 'cardId',
+    as: 'card',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+CardCharacterObtention.belongsTo(Character, {
+    foreignKey: 'characterId',
+    as: 'character',
+    onDelete: 'CASCADE',
     onUpdate: 'CASCADE'
 });
