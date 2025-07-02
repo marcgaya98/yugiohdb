@@ -6,9 +6,7 @@ import deckRoutes from './deckRoutes.js';
 import obtentionRoutes from './obtentionRoutes.js';
 import iconRoutes from './iconRoutes.js';
 import ygoprodeckRoutes from './ygoprodeckRoutes.js';
-import bonusRoutes from './bonusRoutes.js';
-import highScoreRoutes from './highScoreRoutes.js';
-import challengeRoutes from './challengeRoutes.js';
+import gameStatsRoutes from './gameStatsRoutes.js';
 
 const router = Router();
 
@@ -18,9 +16,7 @@ router.use('/pack', packRoutes);
 router.use('/character', characterRoutes);
 router.use('/deck', deckRoutes);
 router.use('/obtention', obtentionRoutes);
-router.use('/bonus', bonusRoutes);
-router.use('/high-score', highScoreRoutes);
-router.use('/challenge', challengeRoutes);
+router.use('/game-stats', gameStatsRoutes); // Rutas unificadas de bonus, challenges y high scores
 router.use('/icon', iconRoutes);
 router.use('/ygoprodeck', ygoprodeckRoutes);
 
