@@ -1,4 +1,3 @@
-Control.js
 /**
  * Middleware to set cache headers for API responses
  * @param {number} maxAge - Max age in seconds
