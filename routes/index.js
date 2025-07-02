@@ -6,6 +6,9 @@ import deckRoutes from './deckRoutes.js';
 import obtentionRoutes from './obtentionRoutes.js';
 import iconRoutes from './iconRoutes.js';
 import ygoprodeckRoutes from './ygoprodeckRoutes.js';
+import bonusRoutes from './bonusRoutes.js';
+import highScoreRoutes from './highScoreRoutes.js';
+import challengeRoutes from './challengeRoutes.js';
 
 const router = Router();
 
