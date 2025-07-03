@@ -10,7 +10,6 @@ import TrapCard from './TrapCard.js';
 import Genre from './Genre.js';
 import CardGenre from './CardGenre.js';
 import Deck from './Deck.js';
-import GenreCategory from './GenreCategory.js';
 import CardObtention from './CardObtention.js';
 import Character from './Character.js';
 import CharacterSandwichRating from './CharacterSandwichRating.js';
@@ -21,7 +20,6 @@ import CardConverterObtention from './CardConverterObtention.js';
 import CardCharacterObtention from './CardCharacterObtention.js';
 import CardSandwichObtention from './CardSandwichObtention.js';
 import Pack from './Pack.js';
-import HighScore from './HighScore.js';
 
 /**
  * Asociaciones Card con las cartas especializadas (MonsterCard, SpellCard, TrapCard)
@@ -57,24 +55,6 @@ SpellCard.belongsTo(Card, {
 TrapCard.belongsTo(Card, {
     foreignKey: 'cardId',
     as: 'card'
-});
-
-/**
- * Asociaciones de Géneros y Categorías
- * Tipo de relación: One-to-Many
- */
-Genre.belongsTo(GenreCategory, {
-    foreignKey: 'categoryId',
-    as: 'genreCategory',
-    onDelete: 'CASCADE',
-    onUpdate: 'CASCADE'
-});
-
-GenreCategory.hasMany(Genre, {
-    foreignKey: 'categoryId',
-    as: 'genreItems',  // Cambiado de 'genres' para evitar duplicidad de alias
-    onDelete: 'CASCADE',
-    onUpdate: 'CASCADE'
 });
 
 /**

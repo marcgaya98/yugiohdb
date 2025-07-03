@@ -16,14 +16,14 @@ const CardSandwichObtention = sequelize.define('card_sandwich_obtention', {
         type: DataTypes.INTEGER,
         allowNull: false,
         references: {
-            model: 'card',
+            model: Card,
             key: 'id'
-        }
+        },
+        primaryKey: true,
     }
 }, {
     tableName: 'card_sandwich_obtention',
-    timestamps: true,
-    underscored: true
+    timestamps: false
 });
 
 // Las asociaciones se definen centralmente en associations.js

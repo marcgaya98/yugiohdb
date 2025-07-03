@@ -32,11 +32,6 @@ Challenge.init({
         type: DataTypes.INTEGER,
         allowNull: true,
         comment: 'Nivel de dificultad estimado (1-5)'
-    },
-    dpReward: {
-        type: DataTypes.INTEGER,
-        allowNull: true,
-        comment: 'Puntos DP de recompensa si aplica'
     }
 }, {
     sequelize,
