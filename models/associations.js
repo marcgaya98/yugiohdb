@@ -10,7 +10,6 @@ import TrapCard from './TrapCard.js';
 import Genre from './Genre.js';
 import CardGenre from './CardGenre.js';
 import Deck from './Deck.js';
-import CardObtention from './CardObtention.js';
 import Character from './Character.js';
 import CharacterSandwichRating from './CharacterSandwichRating.js';
 import CardTutorialObtention from './CardTutorialObtention.js';
@@ -75,19 +74,6 @@ Genre.belongsToMany(Card, {
     foreignKey: 'genreId',
     onDelete: 'CASCADE',
     onUpdate: 'CASCADE'
-});
-
-/**
- * Asociaciones Card-CardObtention
- * Tipo de relación: One-to-Many
- */
-Card.hasMany(CardObtention, {
-    foreignKey: 'cardId',
-    onDelete: 'CASCADE',
-    onUpdate: 'CASCADE'
-});
-CardObtention.belongsTo(Card, {
-    foreignKey: 'cardId'
 });
 
 /**

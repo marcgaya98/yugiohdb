@@ -29,6 +29,14 @@ coverage
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+# Downloaded card images (optional - remove this line to track images in git)
+public/images/cards/normal/
+public/images/cards/small/
+public/images/cards/cropped/
+public/images/cards/normal_webp/
+public/images/cards/small_webp/
+public/images/cards/cropped_webp/
+
 # Bower dependency directory (https://bower.io/)
 bower_components
 

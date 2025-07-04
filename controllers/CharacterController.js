@@ -3,7 +3,7 @@ import Character from '../models/Character.js';
 import Deck from '../models/Deck.js';
 import CharacterSandwichRating from '../models/CharacterSandwichRating.js';
 import Card from '../models/Card.js';
-import CardObtention from '../models/CardObtention.js';
+import CardCharacterObtention from '../models/CardCharacterObtention.js';
 
 class CharacterController {
   /**
@@ -74,10 +74,9 @@ class CharacterController {
       // Also fetch cards that can be obtained by defeating this character
       const victoryCards = await Card.findAll({
         include: {
-          model: CardObtention,
+          model: CardCharacterObtention,
           where: {
-            method: 'victory',
-            sourceId: req.params.id
+            characterId: req.params.id
           },
           required: true
         }

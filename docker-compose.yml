@@ -19,6 +19,8 @@ services:
       - DB_NAME=${DB_NAME:-yugioh}
       - DB_PORT=3306
       - PORT=${PORT:-3000}
+    volumes:
+      - yugioh-images:/usr/src/app/public/images/cards
     restart: unless-stopped
     networks:
       - yugioh-network
@@ -51,4 +53,6 @@ networks:
 
 volumes:
   yugioh-db-data:
+    driver: local
+  yugioh-images:
     driver: local

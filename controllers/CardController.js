@@ -1,8 +1,8 @@
 import { Op } from 'sequelize';
 import Card from '../models/Card.js';
 import Genre from '../models/Genre.js';
-import GenreCategory from '../models/GenreCategory.js';
-import CardObtention from '../models/CardObtention.js';
+// import GenreCategory from '../models/GenreCategory.js'; // No existe
+// import CardObtention from '../models/CardObtention.js'; // No existe
 import MonsterCard from '../models/MonsterCard.js';
 import SpellCard from '../models/SpellCard.js';
 import TrapCard from '../models/TrapCard.js';
@@ -16,14 +16,15 @@ class CardController {
   async getAllCards(req, res) {
     try {
       const filters = this.buildCardFilters(req.query);
+      const baseUrl = `${req.protocol}://${req.get('host')}`;
 
-      const cards = await Card.findAll({
+      const cards = await Card.findAllWithImages({
         where: filters,
         include: this.getCardIncludes(),
         order: [['name', 'ASC']],
         limit: req.query.limit ? parseInt(req.query.limit) : undefined,
         offset: req.query.offset ? parseInt(req.query.offset) : undefined
-      });
+      }, baseUrl);
 
       return res.json(cards);
     } catch (error) {
@@ -38,9 +39,12 @@ class CardController {
    */
   async getCardById(req, res) {
     try {
-      const card = await Card.findByPk(req.params.id, {
+      const baseUrl = `${req.protocol}://${req.get('host')}`;
+
+      const card = await Card.findOneWithImages({
+        where: { id: req.params.id },
         include: this.getCardIncludes(true)
-      });
+      }, baseUrl);
 
       if (!card) {
         return res.status(404).json({ message: 'Card not found' });
@@ -86,11 +90,11 @@ class CardController {
     const includes = [
       {
         model: Genre,
-        as: 'genres',
-        include: {
-          model: GenreCategory,
-          as: 'category'
-        }
+        as: 'genres'
+        // include: {
+        //   model: GenreCategory, // No existe
+        //   as: 'category'
+        // }
       }
     ];
 
@@ -99,8 +103,8 @@ class CardController {
       includes.push(
         { model: MonsterCard, as: 'monsterData' },
         { model: SpellCard, as: 'spellData' },
-        { model: TrapCard, as: 'trapData' },
-        { model: CardObtention, as: 'CardObtentions' }
+        { model: TrapCard, as: 'trapData' }
+        // { model: CardObtention, as: 'CardObtentions' } // No existe
       );
     }
 

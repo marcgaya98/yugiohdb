@@ -1,6 +1,5 @@
 import { Op } from 'sequelize';
 import sequelize from '../config/database.js';
-import CardObtention from '../models/CardObtention.js';
 import CardPackObtention from '../models/CardPackObtention.js';
 import CardConverterObtention from '../models/CardConverterObtention.js';
 import CardCharacterObtention from '../models/CardCharacterObtention.js';
@@ -17,14 +16,31 @@ class ObtentionController {
      */
     async getAllObtentionMethods(req, res) {
         try {
-            const methods = await CardObtention.findAll({
-                attributes: [
-                    'method',
-                    [sequelize.fn('COUNT', sequelize.col('method')), 'count']
-                ],
-                group: ['method'],
-                order: [['method', 'ASC']]
-            });
+            // Aggregate from all specific obtention models
+            const [
+                packCount,
+                characterCount,
+                converterCount,
+                tutorialCount,
+                sandwichCount,
+                initialDeckCount
+            ] = await Promise.all([
+                CardPackObtention.count(),
+                CardCharacterObtention.count(),
+                CardConverterObtention.count(),
+                CardTutorialObtention.count(),
+                CardSandwichObtention.count(),
+                CardInitialDeck.count()
+            ]);
+
+            const methods = [
+                { method: 'pack', count: packCount },
+                { method: 'character', count: characterCount },
+                { method: 'converter', count: converterCount },
+                { method: 'tutorial', count: tutorialCount },
+                { method: 'sandwich', count: sandwichCount },
+                { method: 'initial_deck', count: initialDeckCount }
+            ].filter(method => method.count > 0);
 
             res.json(methods);
         } catch (error) {

@@ -6,7 +6,7 @@ import { validateIdParam, validatePaginationParams } from '../middleware/validat
 const router = Router();
 
 // Rutas para cartas
-router.get('/', validatePaginationParams, CardController.getAllCards);
-router.get('/:id', validateIdParam, CardController.getCardById);
+router.get('/', validatePaginationParams, (req, res) => CardController.getAllCards(req, res));
+router.get('/:id', validateIdParam, (req, res) => CardController.getCardById(req, res));
 
 export default router;
