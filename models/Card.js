@@ -63,19 +63,52 @@ const Card = sequelize.define('Card', {
         type: DataTypes.ENUM('Monster', 'Spell', 'Trap'),
         allowNull: false
     },
-    alter_name: { type: DataTypes.STRING }
+    alter_name: { type: DataTypes.STRING },
+    visual_embedding: {
+        type: DataTypes.TEXT('long'), // Puede almacenar JSON largo
+        allowNull: true,
+        get() {
+            const raw = this.getDataValue('visual_embedding');
+            return raw ? JSON.parse(raw) : null;
+        },
+        set(val) {
+            this.setDataValue('visual_embedding', val ? JSON.stringify(val) : null);
+        },
+        comment: 'Vector de embedding visual para búsqueda por similitud (JSON array)'
+    },
+    clip_embedding: {
+        type: DataTypes.TEXT('long'), // Para embeddings CLIP (texto + imagen)
+        allowNull: true,
+        get() {
+            const raw = this.getDataValue('clip_embedding');
+            try {
+                return raw ? JSON.parse(raw) : null;
+            } catch (error) {
+                console.warn(`Error parsing CLIP embedding for card ${this.id}:`, error.message);
+                return null;
+            }
+        },
+        set(val) {
+            this.setDataValue('clip_embedding', val ? JSON.stringify(val) : null);
+        },
+        comment: 'CLIP embedding for visual-semantic search (allows text-to-image matching)'
+    }
 }, {
     tableName: 'card',
     timestamps: false,
     indexes: [
         { unique: true, fields: ['code'] },
         { fields: ['name'], type: 'FULLTEXT' }, // Optimizado para búsqueda por texto
-        { fields: ['cardType'] },
         { fields: ['archetype'] },
-        { fields: ['password'] }, // Para consultas por password
-        { fields: ['rarity'] },   // Para filtros por rareza
-        { fields: ['frame'] },    // Para filtros por tipo de marco
-        { fields: ['cardType', 'frame', 'archetype'] } // Índice compuesto para filtros comunes
+        { fields: ['rarity'] },
+        { fields: ['frame'] },
+        { fields: ['cardType'] },
+        { fields: ['limit'] },
+        { fields: ['password'] },
+        { fields: ['cardType', 'frame', 'archetype'] },
+        { fields: ['cardType', 'rarity', 'frame'] },
+        { fields: ['cardType', 'limit'] },
+        { fields: ['archetype', 'rarity'] }
     ]
 });
 

@@ -38,6 +38,13 @@ app.use('/images', express.static(path.join(__dirname, 'public/images'), {
   immutable: true
 }));
 
+// Servir archivos estáticos generales desde public
+app.use(express.static(path.join(__dirname, 'public'), {
+  maxAge: '1h', // Cache por 1 hora para archivos estáticos generales
+  etag: true,
+  lastModified: true
+}));
+
 // Middleware de caché inteligente para imágenes (descargar si no existen)
 app.use(imageCache.middleware());
 

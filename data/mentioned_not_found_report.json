@@ -1,0 +1,296 @@
+[
+    {
+        "cardId": 11317,
+        "cardName": "Chimera the Flying Mythical Beast",
+        "mentioned": "Phantom Beast",
+        "classification": "archetype_exact",
+        "details": "'Phantom Beast' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11336,
+        "cardName": "Fiend Skull Dragon",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11409,
+        "cardName": "White Hole",
+        "mentioned": "Dark Hole's",
+        "classification": "plural/variant",
+        "details": "No existe carta llamada 'Dark Hole's'. Probablemente referencia a 'Dark Hole' (singular)."
+    },
+    {
+        "cardId": 11480,
+        "cardName": "Dark Scorpion - Meanae the Thorn",
+        "mentioned": "Dark Scorpion",
+        "classification": "archetype_exact",
+        "details": "'Dark Scorpion' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11480,
+        "cardName": "Dark Scorpion - Meanae the Thorn",
+        "mentioned": "Dark Scorpion",
+        "classification": "archetype_exact",
+        "details": "'Dark Scorpion' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11521,
+        "cardName": "Mustering of the Dark Scorpions",
+        "mentioned": "Dark Scorpion",
+        "classification": "archetype_exact",
+        "details": "'Dark Scorpion' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11546,
+        "cardName": "Horus' Servant",
+        "mentioned": "Horus the Black Flame Dragon",
+        "classification": "archetype_exact",
+        "details": "'Horus the Black Flame Dragon' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11626,
+        "cardName": "Des Croaking",
+        "mentioned": "Des Frogs",
+        "classification": "plural/variant",
+        "details": "No existe carta llamada 'Des Frogs', pero sí 'Des Frog'."
+    },
+    {
+        "cardId": 11699,
+        "cardName": "Battery Charger",
+        "mentioned": "Batteryman",
+        "classification": "archetype_exact",
+        "details": "'Batteryman' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11724,
+        "cardName": "Element Valkyrie",
+        "mentioned": "Valkyrie",
+        "classification": "archetype_similar",
+        "details": "No existe arquetipo exacto 'Valkyrie', pero puede referirse a cartas con ese término."
+    },
+    {
+        "cardId": 11754,
+        "cardName": "Exxod, Master of The Guard",
+        "mentioned": "sphinx",
+        "classification": "archetype_similar",
+        "details": "No existe arquetipo exacto 'sphinx', pero sí 'Sphinx'."
+    },
+    {
+        "cardId": 11819,
+        "cardName": "Jam Breeding Machine",
+        "mentioned": "Slime Token",
+        "classification": "token",
+        "details": "No existe carta/token singular 'Slime Token' en la base de datos."
+    },
+    {
+        "cardId": 11819,
+        "cardName": "Jam Breeding Machine",
+        "mentioned": "Slime Tokens",
+        "classification": "token",
+        "details": "No existe carta/token plural 'Slime Tokens' en la base de datos."
+    },
+    {
+        "cardId": 11830,
+        "cardName": "Ninjitsu Art of Transformation",
+        "mentioned": "Ninja",
+        "classification": "archetype_exact",
+        "details": "'Ninja' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11833,
+        "cardName": "Ninjitsu Art of Decoy",
+        "mentioned": "Ninja",
+        "classification": "archetype_exact",
+        "details": "'Ninja' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11877,
+        "cardName": "Cobra Jar",
+        "mentioned": "Poisonous Snake Token",
+        "classification": "token",
+        "details": "No existe carta/token singular 'Poisonous Snake Token' en la base de datos."
+    },
+    {
+        "cardId": 11877,
+        "cardName": "Cobra Jar",
+        "mentioned": "Poisonous Snake Token",
+        "classification": "token",
+        "details": "No existe carta/token singular 'Poisonous Snake Token' en la base de datos."
+    },
+    {
+        "cardId": 11890,
+        "cardName": "Axe of Despair",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11911,
+        "cardName": "Fuhma Shuriken",
+        "mentioned": "Ninja",
+        "classification": "archetype_exact",
+        "details": "'Ninja' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11934,
+        "cardName": "Arsenal Summoner",
+        "mentioned": "Guardian",
+        "classification": "archetype_exact",
+        "details": "'Guardian' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "Spirit Message",
+        "classification": "archetype_exact",
+        "details": "'Spirit Message' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "Spirit Message",
+        "classification": "archetype_exact",
+        "details": "'Spirit Message' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "I",
+        "classification": "spirit_message_letter",
+        "details": "No existe carta llamada solo 'I', pero es parte de 'Spirit Message'."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "N",
+        "classification": "spirit_message_letter",
+        "details": "No existe carta llamada solo 'N', pero es parte de 'Spirit Message'."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "A",
+        "classification": "spirit_message_letter",
+        "details": "No existe carta llamada solo 'A', pero es parte de 'Spirit Message'."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "L",
+        "classification": "spirit_message_letter",
+        "details": "No existe carta llamada solo 'L', pero es parte de 'Spirit Message'."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "Spirit Message",
+        "classification": "archetype_exact",
+        "details": "'Spirit Message' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 11948,
+        "cardName": "Destiny Board",
+        "mentioned": "Spirit Message",
+        "classification": "archetype_exact",
+        "details": "'Spirit Message' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12040,
+        "cardName": "Synthetic Seraphim",
+        "mentioned": "Synthetic Seraphim Token",
+        "classification": "token",
+        "details": "No existe carta/token singular 'Synthetic Seraphim Token' en la base de datos."
+    },
+    {
+        "cardId": 12044,
+        "cardName": "Toon Summoned Skull",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12048,
+        "cardName": "Toon Table of Contents",
+        "mentioned": "Toon",
+        "classification": "archetype_exact",
+        "details": "'Toon' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12065,
+        "cardName": "Manga Ryu-Ran",
+        "mentioned": "Toon",
+        "classification": "archetype_exact",
+        "details": "'Toon' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12165,
+        "cardName": "Black Skull Dragon",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12193,
+        "cardName": "Pandemonium",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12193,
+        "cardName": "Pandemonium",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12193,
+        "cardName": "Pandemonium",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12197,
+        "cardName": "Lesser Fiend",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12200,
+        "cardName": "Falling Down",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12206,
+        "cardName": "Gateway to Dark World",
+        "mentioned": "Dark World",
+        "classification": "archetype_exact",
+        "details": "'Dark World' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12226,
+        "cardName": "Archfiend's Roar",
+        "mentioned": "Archfiend",
+        "classification": "archetype_exact",
+        "details": "'Archfiend' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12236,
+        "cardName": "Scarr, Scout of Dark World",
+        "mentioned": "Dark World",
+        "classification": "archetype_exact",
+        "details": "'Dark World' coincide exactamente con un arquetipo registrado en la base de datos."
+    },
+    {
+        "cardId": 12237,
+        "cardName": "The Forces of Darkness",
+        "mentioned": "Dark World",
+        "classification": "archetype_exact",
+        "details": "'Dark World' coincide exactamente con un arquetipo registrado en la base de datos."
+    }
+]

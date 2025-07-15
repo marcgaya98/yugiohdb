@@ -1,0 +1,688 @@
+[
+  {
+    "cardId": 11336,
+    "cardName": "Fiend Skull Dragon",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11480,
+    "cardName": "Dark Scorpion - Meanae the Thorn",
+    "mentioned": "Dark Scorpion",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11480,
+    "cardName": "Dark Scorpion - Meanae the Thorn",
+    "mentioned": "Dark Scorpion",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11521,
+    "cardName": "Mustering of the Dark Scorpions",
+    "mentioned": "Dark Scorpion",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11546,
+    "cardName": "Horus' Servant",
+    "mentioned": "Horus the Black Flame Dragon",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11699,
+    "cardName": "Battery Charger",
+    "mentioned": "Batteryman",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11830,
+    "cardName": "Ninjitsu Art of Transformation",
+    "mentioned": "Ninja",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11833,
+    "cardName": "Ninjitsu Art of Decoy",
+    "mentioned": "Ninja",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11890,
+    "cardName": "Axe of Despair",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11911,
+    "cardName": "Fuhma Shuriken",
+    "mentioned": "Ninja",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11934,
+    "cardName": "Arsenal Summoner",
+    "mentioned": "Guardian",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12044,
+    "cardName": "Toon Summoned Skull",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": false
+  },
+  {
+    "cardId": 12048,
+    "cardName": "Toon Table of Contents",
+    "mentioned": "Toon",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12065,
+    "cardName": "Manga Ryu-Ran",
+    "mentioned": "Toon",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12165,
+    "cardName": "Black Skull Dragon",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12193,
+    "cardName": "Pandemonium",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12193,
+    "cardName": "Pandemonium",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12193,
+    "cardName": "Pandemonium",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12197,
+    "cardName": "Lesser Fiend",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12200,
+    "cardName": "Falling Down",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12206,
+    "cardName": "Gateway to Dark World",
+    "mentioned": "Dark World",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12226,
+    "cardName": "Archfiend's Roar",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12236,
+    "cardName": "Scarr, Scout of Dark World",
+    "mentioned": "Dark World",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12237,
+    "cardName": "The Forces of Darkness",
+    "mentioned": "Dark World",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12242,
+    "cardName": "Gravekeeper's Spy",
+    "mentioned": "Gravekeeper's",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12243,
+    "cardName": "Necrovalley",
+    "mentioned": "Gravekeeper's",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12250,
+    "cardName": "Gravekeeper's Chief",
+    "mentioned": "Gravekeeper's",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12266,
+    "cardName": "Gravekeeper's Cannonholder",
+    "mentioned": "Gravekeeper's",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12270,
+    "cardName": "Charm of Shabti",
+    "mentioned": "Gravekeeper's",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12271,
+    "cardName": "Rite of Spirit",
+    "mentioned": "Gravekeeper's",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12324,
+    "cardName": "A Deal with Dark Ruler",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12387,
+    "cardName": "Elemental HERO Shining Phoenix Enforcer",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12397,
+    "cardName": "Destiny Signal",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12398,
+    "cardName": "D - Shield",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12399,
+    "cardName": "Destiny HERO - Fear Monger",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12400,
+    "cardName": "Destiny HERO - Dogma",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12401,
+    "cardName": "Dark City",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12408,
+    "cardName": "Cosmic Horror Gangi'el",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12409,
+    "cardName": "Crop Circles",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12412,
+    "cardName": "Destiny HERO - Captain Tenacious",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12414,
+    "cardName": "D - Time",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": false
+  },
+  {
+    "cardId": 12414,
+    "cardName": "D - Time",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12414,
+    "cardName": "D - Time",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": false
+  },
+  {
+    "cardId": 12415,
+    "cardName": "Destiny HERO - Blade Master",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12417,
+    "cardName": "D - Chain",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12418,
+    "cardName": "D - Spirit",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12418,
+    "cardName": "D - Spirit",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12419,
+    "cardName": "Destiny Mirage",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12419,
+    "cardName": "Destiny Mirage",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12422,
+    "cardName": "Contact",
+    "mentioned": "Chrysalis",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12423,
+    "cardName": "Fake Hero",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12424,
+    "cardName": "Common Soul",
+    "mentioned": "Neo-Spacian",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12426,
+    "cardName": "Alien Grey",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12427,
+    "cardName": "Alien Skull",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12429,
+    "cardName": "Alien Warrior",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12430,
+    "cardName": "Flying Saucer Muusik'i",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12431,
+    "cardName": "Orbital Bombardment",
+    "mentioned": "Alien",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12433,
+    "cardName": "Cyclone Blade",
+    "mentioned": "Destiny HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12483,
+    "cardName": "Miracle Fusion",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12484,
+    "cardName": "Elemental HERO Shining Flare Wingman",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12493,
+    "cardName": "E - Emergency Call",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12497,
+    "cardName": "Hero Signal",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12499,
+    "cardName": "Skyscraper",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12503,
+    "cardName": "Elemental HERO Necroshade",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12507,
+    "cardName": "R - Righteous Justice",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12516,
+    "cardName": "Wroughtweiler",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12519,
+    "cardName": "Bubble Shuffle",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12523,
+    "cardName": "Hero Barrier",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12527,
+    "cardName": "Burst Return",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12533,
+    "cardName": "Hero Heart",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12535,
+    "cardName": "Hero Spirit",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12537,
+    "cardName": "O - Oversoul",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12538,
+    "cardName": "Hero Flash!!",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12538,
+    "cardName": "Hero Flash!!",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12539,
+    "cardName": "Elemental Recharge",
+    "mentioned": "Elemental HERO",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12629,
+    "cardName": "Harpie's Pet Baby Dragon",
+    "mentioned": "Harpie",
+    "archetypeExists": true,
+    "belongsToArchetype": false
+  },
+  {
+    "cardId": 12629,
+    "cardName": "Harpie's Pet Baby Dragon",
+    "mentioned": "Harpie",
+    "archetypeExists": true,
+    "belongsToArchetype": false
+  },
+  {
+    "cardId": 12641,
+    "cardName": "Shadow Tamer",
+    "mentioned": "Archfiend",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12683,
+    "cardName": "Ojamuscle",
+    "mentioned": "Ojama",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12683,
+    "cardName": "Ojamuscle",
+    "mentioned": "Ojama",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12696,
+    "cardName": "Amazoness Archers",
+    "mentioned": "Amazoness",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12714,
+    "cardName": "Amazoness Spellcaster",
+    "mentioned": "Amazoness",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12715,
+    "cardName": "Dramatic Rescue",
+    "mentioned": "Amazoness",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12716,
+    "cardName": "Amazoness Paladin",
+    "mentioned": "Amazoness",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12718,
+    "cardName": "Amazoness Tiger",
+    "mentioned": "Amazoness",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 12718,
+    "cardName": "Amazoness Tiger",
+    "mentioned": "Amazoness",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 13173,
+    "cardName": "Boss Rush",
+    "mentioned": "B.E.S.",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 13173,
+    "cardName": "Boss Rush",
+    "mentioned": "B.E.S.",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 13344,
+    "cardName": "Machina Soldier",
+    "mentioned": "Machina",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  },
+  {
+    "cardId": 13346,
+    "cardName": "Machina Sniper",
+    "mentioned": "Machina",
+    "archetypeExists": true,
+    "belongsToArchetype": true
+  }
+]

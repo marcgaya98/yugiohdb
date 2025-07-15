@@ -8,6 +8,8 @@ import iconRoutes from './iconRoutes.js';
 // import ygoprodeckRoutes from './ygoprodeckRoutes.js'; // Comentado temporalmente - archivo no existe
 import gameStatsRoutes from './gameStatsRoutes.js';
 import imageRoutes from './imageRoutes.js';
+import visualSearchRoutes from './visualSearchRoutes.js';
+import semanticSearchRoutes from './semanticSearchRoutes.js';
 
 const router = Router();
 
@@ -21,5 +23,7 @@ router.use('/game-stats', gameStatsRoutes);
 router.use('/icons', iconRoutes);
 // router.use('/ygoprodeck', ygoprodeckRoutes); // Comentado temporalmente
 router.use('/images', imageRoutes);
+router.use('/visual-search', visualSearchRoutes);
+router.use('/semantic-search', semanticSearchRoutes);
 
 export default router;

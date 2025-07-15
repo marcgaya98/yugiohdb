@@ -1,0 +1,827 @@
+[
+    {
+        "name": "Flame Swordsman",
+        "code": "4021",
+        "materials": [
+            "Flame Manipulator",
+            "Masaki the Legendary Swordsman"
+        ]
+    },
+    {
+        "name": "Punished Eagle",
+        "code": "4471",
+        "materials": [
+            "Blue-Winged Crown",
+            "Niwatori"
+        ]
+    },
+    {
+        "name": "Rose Spectre of Dunn",
+        "code": "4600",
+        "materials": [
+            "Feral Imp",
+            "Snakeyashi"
+        ]
+    },
+    {
+        "name": "Karbonala Warrior",
+        "code": "4049",
+        "materials": [
+            "M-Warrior #1",
+            "M-Warrior #2"
+        ]
+    },
+    {
+        "name": "Barox",
+        "code": "4092",
+        "materials": [
+            "Frenzied Panda",
+            "Ryu-Kishin"
+        ]
+    },
+    {
+        "name": "Rabid Horseman",
+        "code": "4098",
+        "materials": [
+            "Battle Ox",
+            "Mystic Horseman"
+        ]
+    },
+    {
+        "name": "Charubin the Fire Knight",
+        "code": "4139",
+        "materials": [
+            "Monster Egg",
+            "Hinotama Soul"
+        ]
+    },
+    {
+        "name": "Darkfire Dragon",
+        "code": "4174",
+        "materials": [
+            "Firegrass",
+            "Petit Dragon"
+        ]
+    },
+    {
+        "name": "Fusionist",
+        "code": "4195",
+        "materials": [
+            "Petit Angel",
+            "Mystical Sheep #2"
+        ]
+    },
+    {
+        "name": "Rare Fish",
+        "code": "4236",
+        "materials": [
+            "Fusionist",
+            "Enchanting Mermaid"
+        ]
+    },
+    {
+        "name": "Mavelus",
+        "code": "4278",
+        "materials": [
+            "Tyhone",
+            "Wings of Wicked Flame"
+        ]
+    },
+    {
+        "name": "Dragoness the Wicked Knight",
+        "code": "4300",
+        "materials": [
+            "Armaill",
+            "One-Eyed Shield Dragon"
+        ]
+    },
+    {
+        "name": "Giltia the D. Knight",
+        "code": "4395",
+        "materials": [
+            "Guardian of the Labyrinth",
+            "Protector of the Throne"
+        ]
+    },
+    {
+        "name": "Metal Dragon",
+        "code": "4415",
+        "materials": [
+            "Steel Ogre Grotto #1",
+            "Lesser Dragon"
+        ]
+    },
+    {
+        "name": "Deepsea Shark",
+        "code": "4443",
+        "materials": [
+            "Bottom Dweller",
+            "Tongyo"
+        ]
+    },
+    {
+        "name": "Kaminari Attack",
+        "code": "4464",
+        "materials": [
+            "Ocubeam",
+            "Mega Thunderball"
+        ]
+    },
+    {
+        "name": "Vermillion Sparrow",
+        "code": "4479",
+        "materials": [
+            "Rhaimundos of the Red Sword",
+            "Fireyarou"
+        ]
+    },
+    {
+        "name": "Pragtical",
+        "code": "4488",
+        "materials": [
+            "Trakodon",
+            "Flame Viper"
+        ]
+    },
+    {
+        "name": "Flower Wolf",
+        "code": "4493",
+        "materials": [
+            "Silver Fang",
+            "Darkworld Thorns"
+        ]
+    },
+    {
+        "name": "Skullbird",
+        "code": "4527",
+        "materials": [
+            "Takuhee",
+            "Temple of Skulls"
+        ]
+    },
+    {
+        "name": "Kwagar Hercules",
+        "code": "4539",
+        "materials": [
+            "Kuwagata α",
+            "Hercules Beetle"
+        ]
+    },
+    {
+        "name": "Marine Beast",
+        "code": "4623",
+        "materials": [
+            "Water Magician",
+            "Behegon"
+        ]
+    },
+    {
+        "name": "Warrior of Tradition",
+        "code": "4624",
+        "materials": [
+            "Sonic Maid",
+            "Beautiful Headhuntress"
+        ]
+    },
+    {
+        "name": "Amphibious Bugroth",
+        "code": "4645",
+        "materials": [
+            "Ground Attacker Bugroth",
+            "Defender of the Sea"
+        ]
+    },
+    {
+        "name": "The Last Warrior from Another Planet",
+        "code": "4785",
+        "materials": [
+            "Zombyra the Dark",
+            "Maryokutai"
+        ]
+    },
+    {
+        "name": "Crimson Sunbird",
+        "code": "4473",
+        "materials": [
+            "Faith Bird",
+            "Skull Red Bird"
+        ]
+    },
+    {
+        "name": "Twin-Headed Thunder Dragon",
+        "code": "4619",
+        "materials": [
+            "Thunder Dragon",
+            "Thunder Dragon"
+        ]
+    },
+    {
+        "name": "Zombie Warrior",
+        "code": "4036",
+        "materials": [
+            "Skull Servant",
+            "Battle Warrior"
+        ]
+    },
+    {
+        "name": "Kamionwizard",
+        "code": "4121",
+        "materials": [
+            "Mystical Elf",
+            "Curtain of the Dark Ones"
+        ]
+    },
+    {
+        "name": "Flame Ghost",
+        "code": "4221",
+        "materials": [
+            "Skull Servant",
+            "Dissolverock"
+        ]
+    },
+    {
+        "name": "Roaring Ocean Snake",
+        "code": "4229",
+        "materials": [
+            "Mystic Lamp",
+            "Hyosube"
+        ]
+    },
+    {
+        "name": "Bickuribox",
+        "code": "4391",
+        "materials": [
+            "Crass Clown",
+            "Dream Clown"
+        ]
+    },
+    {
+        "name": "Kaiser Dragon",
+        "code": "4433",
+        "materials": [
+            "Winged Dragon, Guardian of the Fortress #1",
+            "Fairy Dragon"
+        ]
+    },
+    {
+        "name": "Aqua Dragon",
+        "code": "4448",
+        "materials": [
+            "Fairy Dragon",
+            "Amazon of the Seas",
+            "Zone Eater"
+        ]
+    },
+    {
+        "name": "Soul Hunter",
+        "code": "4477",
+        "materials": [
+            "Lord of the Lamp",
+            "Invader from Another Dimension"
+        ]
+    },
+    {
+        "name": "Musician King",
+        "code": "4501",
+        "materials": [
+            "Witch of the Black Forest",
+            "Lady of Faith"
+        ]
+    },
+    {
+        "name": "Cyber Saurus",
+        "code": "4514",
+        "materials": [
+            "Blast Juggler",
+            "Two-Headed King Rex"
+        ]
+    },
+    {
+        "name": "Bracchio-raidus",
+        "code": "4515",
+        "materials": [
+            "Two-Headed King Rex",
+            "Crawling Dragon #2"
+        ]
+    },
+    {
+        "name": "Mystical Sand",
+        "code": "4537",
+        "materials": [
+            "Giant Soldier of Stone",
+            "Ancient Elf"
+        ]
+    },
+    {
+        "name": "Skelgon",
+        "code": "4551",
+        "materials": [
+            "The Snake Hair",
+            "Blackland Fire Dragon"
+        ]
+    },
+    {
+        "name": "Great Mammoth of Goldfine",
+        "code": "4570",
+        "materials": [
+            "The Snake Hair",
+            "Dragon Zombie"
+        ]
+    },
+    {
+        "name": "Man-Eating Black Shark",
+        "code": "4571",
+        "materials": [
+            "Sea Kamen",
+            "Gruesome Goo",
+            "Amazon of the Seas"
+        ]
+    },
+    {
+        "name": "Empress Judge",
+        "code": "4578",
+        "materials": [
+            "Queen's Double",
+            "Hibikime"
+        ]
+    },
+    {
+        "name": "Skull Knight",
+        "code": "4713",
+        "materials": [
+            "Tainted Wisdom",
+            "Ancient Brain"
+        ]
+    },
+    {
+        "name": "Chimera the Flying Mythical Beast",
+        "code": "4756",
+        "materials": [
+            "Gazelle the King of Mythical Beasts",
+            "Berfomet"
+        ]
+    },
+    {
+        "name": "Humanoid Worm Drake",
+        "code": "5062",
+        "materials": [
+            "Worm Drake",
+            "Humanoid Slime"
+        ]
+    },
+    {
+        "name": "Super Robolady",
+        "code": "5383",
+        "materials": [
+            "Robolady",
+            "Roboyarou"
+        ]
+    },
+    {
+        "name": "Super Roboyarou",
+        "code": "5384",
+        "materials": [
+            "Roboyarou",
+            "Robolady"
+        ]
+    },
+    {
+        "name": "Sanwitch",
+        "code": "6128",
+        "materials": [
+            "Sangan",
+            "Witch of the Black Forest"
+        ]
+    },
+    {
+        "name": "Dark Balter the Terrible",
+        "code": "5302",
+        "materials": [
+            "Possessed Dark Soul",
+            "Frontier Wiseman"
+        ]
+    },
+    {
+        "name": "Ryu Senshi",
+        "code": "5319",
+        "materials": [
+            "Warrior Dai Grepher",
+            "Spirit Ryu"
+        ]
+    },
+    {
+        "name": "Fiend Skull Dragon",
+        "code": "5338",
+        "materials": [
+            "Cave Dragon",
+            "Lesser Fiend"
+        ]
+    },
+    {
+        "name": "Alligator's Sword Dragon",
+        "code": "5003",
+        "materials": [
+            "Baby Dragon",
+            "Alligator's Sword"
+        ]
+    },
+    {
+        "name": "D.3.S. Frog",
+        "code": "6614",
+        "materials": [
+            "Des Frog",
+            "Des Frog",
+            "Des Frog"
+        ]
+    },
+    {
+        "name": "VWXYZ-Dragon Catapult Cannon",
+        "code": "6484",
+        "materials": [
+            "VW-Tiger Catapult",
+            "XYZ-Dragon Cannon"
+        ]
+    },
+    {
+        "name": "XYZ-Dragon Cannon",
+        "code": "5556",
+        "materials": [
+            "X-Head Cannon",
+            "Y-Dragon Head",
+            "Z-Metal Tank"
+        ]
+    },
+    {
+        "name": "XY-Dragon Cannon",
+        "code": "5553",
+        "materials": [
+            "X-Head Cannon",
+            "Y-Dragon Head"
+        ]
+    },
+    {
+        "name": "XZ-Tank Cannon",
+        "code": "5625",
+        "materials": [
+            "X-Head Cannon",
+            "Z-Metal Tank"
+        ]
+    },
+    {
+        "name": "YZ-Tank Dragon",
+        "code": "5626",
+        "materials": [
+            "Y-Dragon Head",
+            "Z-Metal Tank"
+        ]
+    },
+    {
+        "name": "Dark Blade the Dragon Knight",
+        "code": "6204",
+        "materials": [
+            "Dark Blade",
+            "Pitch-Dark Dragon"
+        ]
+    },
+    {
+        "name": "VW-Tiger Catapult",
+        "code": "6483",
+        "materials": [
+            "V-Tiger Jet",
+            "W-Wing Catapult"
+        ]
+    },
+    {
+        "name": "St. Joan",
+        "code": "5208",
+        "materials": [
+            "The Forgiving Maiden",
+            "Darklord Marie"
+        ]
+    },
+    {
+        "name": "Mokey Mokey King",
+        "code": "6205",
+        "materials": [
+            "Mokey Mokey",
+            "Mokey Mokey",
+            "Mokey Mokey"
+        ]
+    },
+    {
+        "name": "Meteor Black Dragon",
+        "code": "4719",
+        "materials": [
+            "Red-Eyes Black Dragon",
+            "Meteor Dragon"
+        ]
+    },
+    {
+        "name": "Gaia the Dragon Champion",
+        "code": "4043",
+        "materials": [
+            "Gaia The Fierce Knight",
+            "Curse of Dragon"
+        ]
+    },
+    {
+        "name": "Thousand Dragon",
+        "code": "4075",
+        "materials": [
+            "Time Wizard",
+            "Baby Dragon"
+        ]
+    },
+    {
+        "name": "Black Skull Dragon",
+        "code": "4223",
+        "materials": [
+            "Summoned Skull",
+            "Red-Eyes Black Dragon"
+        ]
+    },
+    {
+        "name": "Reaper on the Nightmare",
+        "code": "5528",
+        "materials": [
+            "Spirit Reaper",
+            "Nightmare Horse"
+        ]
+    },
+    {
+        "name": "Chimeratech Overdragon",
+        "code": "6734",
+        "materials": [
+            "Cyber Dragon",
+            "1+ Machine monsters"
+        ]
+    },
+    {
+        "name": "Elemental HERO Shining Phoenix Enforcer",
+        "code": "6656",
+        "materials": [
+            "Elemental HERO Phoenix Enforcer",
+            "Elemental HERO Sparkman"
+        ]
+    },
+    {
+        "name": "Elemental HERO Phoenix Enforcer",
+        "code": "6655",
+        "materials": [
+            "Elemental HERO Avian",
+            "Elemental HERO Burstinatrix"
+        ]
+    },
+    {
+        "name": "Elemental HERO Aqua Neos",
+        "code": "6766",
+        "materials": [
+            "Elemental HERO Neos",
+            "Neo-Spacian Aqua Dolphin"
+        ]
+    },
+    {
+        "name": "Elemental HERO Flare Neos",
+        "code": "6767",
+        "materials": [
+            "Elemental HERO Neos",
+            "Neo-Spacian Flare Scarab"
+        ]
+    },
+    {
+        "name": "Elemental HERO Shining Flare Wingman",
+        "code": "6467",
+        "materials": [
+            "Elemental HERO Flame Wingman",
+            "Elemental HERO Sparkman"
+        ]
+    },
+    {
+        "name": "Elemental HERO Flame Wingman",
+        "code": "6344",
+        "materials": [
+            "Elemental HERO Avian",
+            "Elemental HERO Burstinatrix"
+        ]
+    },
+    {
+        "name": "Elemental HERO Thunder Giant",
+        "code": "6345",
+        "materials": [
+            "Elemental HERO Sparkman",
+            "Elemental HERO Clayman"
+        ]
+    },
+    {
+        "name": "Elemental HERO Wildedge",
+        "code": "6488",
+        "materials": [
+            "Elemental HERO Wildheart",
+            "Elemental HERO Bladedge"
+        ]
+    },
+    {
+        "name": "Elemental HERO Wild Wingman",
+        "code": "6643",
+        "materials": [
+            "Elemental HERO Wildheart",
+            "Elemental HERO Avian"
+        ]
+    },
+    {
+        "name": "Elemental HERO Tempest",
+        "code": "6487",
+        "materials": [
+            "Elemental HERO Avian",
+            "Elemental HERO Sparkman",
+            "Elemental HERO Bubbleman"
+        ]
+    },
+    {
+        "name": "Elemental HERO Necroid Shaman",
+        "code": "6644",
+        "materials": [
+            "Elemental HERO Wildheart",
+            "Elemental HERO Necroshade"
+        ]
+    },
+    {
+        "name": "Elemental HERO Mariner",
+        "code": "6657",
+        "materials": [
+            "Elemental HERO Bubbleman",
+            "Elemental HERO Avian"
+        ]
+    },
+    {
+        "name": "Elemental HERO Rampart Blaster",
+        "code": "6486",
+        "materials": [
+            "Elemental HERO Clayman",
+            "Elemental HERO Burstinatrix"
+        ]
+    },
+    {
+        "name": "Elemental HERO Steam Healer",
+        "code": "6535",
+        "materials": [
+            "Elemental HERO Burstinatrix",
+            "Elemental HERO Bubbleman"
+        ]
+    },
+    {
+        "name": "Super Vehicroid Jumbo Drill",
+        "code": "6739",
+        "materials": [
+            "Steamroid",
+            "Drillroid",
+            "Submarineroid"
+        ]
+    },
+    {
+        "name": "UFOroid Fighter",
+        "code": "6395",
+        "materials": [
+            "UFOroid",
+            "1 Warrior-Type monster"
+        ]
+    },
+    {
+        "name": "Steam Gyroid",
+        "code": "6394",
+        "materials": [
+            "Gyroid",
+            "Steamroid"
+        ]
+    },
+    {
+        "name": "Ambulance Rescueroid",
+        "code": "6744",
+        "materials": [
+            "Rescueroid",
+            "Ambulanceroid"
+        ]
+    },
+    {
+        "name": "Master of Oz",
+        "code": "6127",
+        "materials": [
+            "Big Koala",
+            "Des Kangaroo"
+        ]
+    },
+    {
+        "name": "Cyber Blader",
+        "code": "6485",
+        "materials": [
+            "Etoile Cyber",
+            "Blade Skater"
+        ]
+    },
+    {
+        "name": "Thousand-Eyes Restrict",
+        "code": "4740",
+        "materials": [
+            "Relinquished",
+            "Thousand-Eyes Idol"
+        ]
+    },
+    {
+        "name": "Ojama King",
+        "code": "6126",
+        "materials": [
+            "Ojama Green",
+            "Ojama Yellow",
+            "Ojama Black"
+        ]
+    },
+    {
+        "name": "Cyber Twin Dragon",
+        "code": "6396",
+        "materials": [
+            "Cyber Dragon",
+            "Cyber Dragon"
+        ]
+    },
+    {
+        "name": "Cyber End Dragon",
+        "code": "6397",
+        "materials": [
+            "Cyber Dragon",
+            "Cyber Dragon",
+            "Cyber Dragon"
+        ]
+    },
+    {
+        "name": "Gatling Dragon",
+        "code": "6264",
+        "materials": [
+            "Barrel Dragon",
+            "Blowback Dragon"
+        ]
+    },
+    {
+        "name": "Labyrinth Tank",
+        "code": "4376",
+        "materials": [
+            "Giga-Tech Wolf",
+            "Cannon Soldier"
+        ]
+    },
+    {
+        "name": "King Dragun",
+        "code": "6265",
+        "materials": [
+            "Lord of D.",
+            "Divine Dragon Ragnarok"
+        ]
+    },
+    {
+        "name": "Blue-Eyes Ultimate Dragon",
+        "code": "4386",
+        "materials": [
+            "Blue-Eyes White Dragon",
+            "Blue-Eyes White Dragon",
+            "Blue-Eyes White Dragon"
+        ]
+    },
+    {
+        "name": "Dark Flare Knight",
+        "code": "5698",
+        "materials": [
+            "Dark Magician",
+            "Flame Swordsman"
+        ]
+    },
+    {
+        "name": "Dark Paladin",
+        "code": "5628",
+        "materials": [
+            "Dark Magician",
+            "Buster Blader"
+        ]
+    },
+    {
+        "name": "Dragon Master Knight",
+        "code": "5501",
+        "materials": [
+            "Black Luster Soldier",
+            "Blue-Eyes Ultimate Dragon"
+        ]
+    },
+    {
+        "name": "Five-Headed Dragon",
+        "code": "5502",
+        "materials": [
+            "5 Dragon monsters"
+        ]
+    },
+    {
+        "name": "Chimeratech Overdragon",
+        "code": "6734",
+        "materials": [
+            "Cyber Dragon",
+            "1+ Machine monsters"
+        ]
+    }
+]
