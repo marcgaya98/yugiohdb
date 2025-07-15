@@ -1,0 +1,158 @@
+[
+    {
+        "ritualMonsterId": 11680,
+        "ritualMonster": "Elemental Mistress Doriado",
+        "ritualSpellId": 11725,
+        "ritualSpell": "Doriado's Blessing"
+    },
+    {
+        "ritualMonsterId": 12336,
+        "ritualMonster": "Shinato, King of a Higher Plane",
+        "ritualSpellId": 12350,
+        "ritualSpell": "Shinato's Ark"
+    },
+    {
+        "ritualMonsterId": 12337,
+        "ritualMonster": "Dark Master - Zorc",
+        "ritualSpellId": 12352,
+        "ritualSpell": "Contract with the Dark Master"
+    },
+    {
+        "ritualMonsterId": 12338,
+        "ritualMonster": "Demise, King of Armageddon",
+        "ritualSpellId": 12355,
+        "ritualSpell": "End of the World"
+    },
+    {
+        "ritualMonsterId": 12339,
+        "ritualMonster": "The Masked Beast",
+        "ritualSpellId": 12348,
+        "ritualSpell": "Curse of the Masked Beast"
+    },
+    {
+        "ritualMonsterId": 12340,
+        "ritualMonster": "Legendary Flame Lord",
+        "ritualSpellId": 12351,
+        "ritualSpell": "Incandescent Ordeal"
+    },
+    {
+        "ritualMonsterId": 12344,
+        "ritualMonster": "Reshef the Dark Being",
+        "ritualSpellId": 12354,
+        "ritualSpell": "Final Ritual of the Ancients"
+    },
+    {
+        "ritualMonsterId": 12345,
+        "ritualMonster": "Ruin, Queen of Oblivion",
+        "ritualSpellId": 12355,
+        "ritualSpell": "End of the World"
+    },
+    {
+        "ritualMonsterId": 12349,
+        "ritualMonster": "Paladin of White Dragon",
+        "ritualSpellId": 12380,
+        "ritualSpell": "White Dragon Ritual"
+    },
+    {
+        "ritualMonsterId": 12356,
+        "ritualMonster": "Super War-Lion",
+        "ritualSpellId": 12360,
+        "ritualSpell": "War-Lion Ritual"
+    },
+    {
+        "ritualMonsterId": 12357,
+        "ritualMonster": "Zera the Mant",
+        "ritualSpellId": 12359,
+        "ritualSpell": "Zera Ritual"
+    },
+    {
+        "ritualMonsterId": 12358,
+        "ritualMonster": "Fiend's Mirror",
+        "ritualSpellId": 12361,
+        "ritualSpell": "Beastly Mirror Ritual"
+    },
+    {
+        "ritualMonsterId": 12371,
+        "ritualMonster": "Performance of Sword",
+        "ritualSpellId": 12362,
+        "ritualSpell": "Commencement Dance"
+    },
+    {
+        "ritualMonsterId": 12372,
+        "ritualMonster": "Hungry Burger",
+        "ritualSpellId": 12363,
+        "ritualSpell": "Hamburger Recipe"
+    },
+    {
+        "ritualMonsterId": 12373,
+        "ritualMonster": "Skull Guardian",
+        "ritualSpellId": 12364,
+        "ritualSpell": "Novox's Prayer"
+    },
+    {
+        "ritualMonsterId": 12374,
+        "ritualMonster": "Chakra",
+        "ritualSpellId": 12366,
+        "ritualSpell": "Resurrection of Chakra"
+    },
+    {
+        "ritualMonsterId": 12375,
+        "ritualMonster": "Crab Turtle",
+        "ritualSpellId": 12365,
+        "ritualSpell": "Turtle Oath"
+    },
+    {
+        "ritualMonsterId": 12376,
+        "ritualMonster": "Garma Sword",
+        "ritualSpellId": 12368,
+        "ritualSpell": "Garma Sword Oath"
+    },
+    {
+        "ritualMonsterId": 12377,
+        "ritualMonster": "Javelin Beetle",
+        "ritualSpellId": 12367,
+        "ritualSpell": "Javelin Beetle Pact"
+    },
+    {
+        "ritualMonsterId": 12378,
+        "ritualMonster": "Fortress Whale",
+        "ritualSpellId": 12370,
+        "ritualSpell": "Fortress Whale's Oath"
+    },
+    {
+        "ritualMonsterId": 12379,
+        "ritualMonster": "Dokurorider",
+        "ritualSpellId": 12369,
+        "ritualSpell": "Revival of Dokurorider"
+    },
+    {
+        "ritualMonsterId": 12655,
+        "ritualMonster": "Relinquished",
+        "ritualSpellId": 12663,
+        "ritualSpell": "Black Illusion Ritual"
+    },
+    {
+        "ritualMonsterId": 13038,
+        "ritualMonster": "Black Luster Soldier",
+        "ritualSpellId": 13049,
+        "ritualSpell": "Black Luster Ritual"
+    },
+    {
+        "ritualMonsterId": 13039,
+        "ritualMonster": "Magician of Black Chaos",
+        "ritualSpellId": 13296,
+        "ritualSpell": "Black Magic Ritual"
+    },
+    {
+        "ritualMonsterId": 13428,
+        "ritualMonster": "Litmus Doom Swordsman",
+        "ritualSpellId": 13457,
+        "ritualSpell": "Litmus Doom Ritual"
+    },
+    {
+        "ritualMonsterId": 13424,
+        "ritualMonster": "Archfiend Matador",
+        "ritualSpellId": 13458,
+        "ritualSpell": "Ritual of the Matador"
+    }
+]

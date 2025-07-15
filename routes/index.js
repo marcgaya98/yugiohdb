@@ -5,19 +5,25 @@ import characterRoutes from './characterRoutes.js';
 import deckRoutes from './deckRoutes.js';
 import obtentionRoutes from './obtentionRoutes.js';
 import iconRoutes from './iconRoutes.js';
-import ygoprodeckRoutes from './ygoprodeckRoutes.js';
+// import ygoprodeckRoutes from './ygoprodeckRoutes.js'; // Comentado temporalmente - archivo no existe
 import gameStatsRoutes from './gameStatsRoutes.js';
+import imageRoutes from './imageRoutes.js';
+import visualSearchRoutes from './visualSearchRoutes.js';
+import semanticSearchRoutes from './semanticSearchRoutes.js';
 
 const router = Router();
 
 // Registra todas las rutas
-router.use('/card', cardRoutes);
-router.use('/pack', packRoutes);
-router.use('/character', characterRoutes);
-router.use('/deck', deckRoutes);
-router.use('/obtention', obtentionRoutes);
-router.use('/game-stats', gameStatsRoutes); // Rutas unificadas de bonus, challenges y high scores
-router.use('/icon', iconRoutes);
-router.use('/ygoprodeck', ygoprodeckRoutes);
+router.use('/cards', cardRoutes);
+router.use('/packs', packRoutes);
+router.use('/characters', characterRoutes);
+router.use('/decks', deckRoutes);
+router.use('/obtentions', obtentionRoutes);
+router.use('/game-stats', gameStatsRoutes);
+router.use('/icons', iconRoutes);
+// router.use('/ygoprodeck', ygoprodeckRoutes); // Comentado temporalmente
+router.use('/images', imageRoutes);
+router.use('/visual-search', visualSearchRoutes);
+router.use('/semantic-search', semanticSearchRoutes);
 
 export default router;

@@ -1,6 +1,6 @@
 import Pack from '../models/Pack.js';
 import Card from '../models/Card.js';
-import CardObtention from '../models/CardObtention.js';
+import CardPackObtention from '../models/CardPackObtention.js';
 
 class PackController {
   /**
@@ -54,13 +54,12 @@ class PackController {
         return res.status(404).json({ message: 'Pack not found' });
       }
 
-      // Find cards in this pack through CardObtention
+      // Find cards in this pack through CardPackObtention
       const cards = await Card.findAll({
         include: {
-          model: CardObtention,
+          model: CardPackObtention,
           where: {
-            method: 'pack',
-            sourceId: packId.toString()
+            packId: packId
           },
           required: true
         },

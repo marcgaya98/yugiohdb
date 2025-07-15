@@ -1,0 +1,529 @@
+{
+    "card": [
+        {
+            "name": "Flame Swordsman",
+            "code": "4021",
+            "description": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\""
+        },
+        {
+            "name": "Punished Eagle",
+            "code": "4471",
+            "description": "\"Blue-Winged Crown\" + \"Niwatori\""
+        },
+        {
+            "name": "Rose Spectre of Dunn",
+            "code": "4600",
+            "description": "\"Feral Imp\" + \"Snakeyashi\""
+        },
+        {
+            "name": "Karbonala Warrior",
+            "code": "4049",
+            "description": "\"M-Warrior #1\" + \"M-Warrior #2\""
+        },
+        {
+            "name": "Barox",
+            "code": "4092",
+            "description": "\"Frenzied Panda\" + \"Ryu-Kishin\""
+        },
+        {
+            "name": "Rabid Horseman",
+            "code": "4098",
+            "description": "\"Battle Ox\" + \"Mystic Horseman\""
+        },
+        {
+            "name": "Charubin the Fire Knight",
+            "code": "4139",
+            "description": "\"Monster Egg\" + \"Hinotama Soul\""
+        },
+        {
+            "name": "Darkfire Dragon",
+            "code": "4174",
+            "description": "\"Firegrass\" + \"Petit Dragon\""
+        },
+        {
+            "name": "Fusionist",
+            "code": "4195",
+            "description": "\"Petit Angel\" + \"Mystical Sheep #2\""
+        },
+        {
+            "name": "Rare Fish",
+            "code": "4236",
+            "description": "\"Fusionist\" + \"Enchanting Mermaid\""
+        },
+        {
+            "name": "Mavelus",
+            "code": "4278",
+            "description": "\"Tyhone\" + \"Wings of Wicked Flame\""
+        },
+        {
+            "name": "Dragoness the Wicked Knight",
+            "code": "4300",
+            "description": "\"Armaill\" + \"One-Eyed Shield Dragon\""
+        },
+        {
+            "name": "Giltia the D. Knight",
+            "code": "4395",
+            "description": "\"Guardian of the Labyrinth\" + \"Protector of the Throne\""
+        },
+        {
+            "name": "Metal Dragon",
+            "code": "4415",
+            "description": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\""
+        },
+        {
+            "name": "Deepsea Shark",
+            "code": "4443",
+            "description": "\"Bottom Dweller\" + \"Tongyo\""
+        },
+        {
+            "name": "Kaminari Attack",
+            "code": "4464",
+            "description": "\"Ocubeam\" + \"Mega Thunderball\""
+        },
+        {
+            "name": "Vermillion Sparrow",
+            "code": "4479",
+            "description": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\""
+        },
+        {
+            "name": "Pragtical",
+            "code": "4488",
+            "description": "\"Trakodon\" + \"Flame Viper\""
+        },
+        {
+            "name": "Flower Wolf",
+            "code": "4493",
+            "description": "\"Silver Fang\" + \"Darkworld Thorns\""
+        },
+        {
+            "name": "Skullbird",
+            "code": "4527",
+            "description": "\"Takuhee\" + \"Temple of Skulls\""
+        },
+        {
+            "name": "Kwagar Hercules",
+            "code": "4539",
+            "description": "\"Kuwagata α\" + \"Hercules Beetle\""
+        },
+        {
+            "name": "Marine Beast",
+            "code": "4623",
+            "description": "\"Water Magician\" + \"Behegon\""
+        },
+        {
+            "name": "Warrior of Tradition",
+            "code": "4624",
+            "description": "\"Sonic Maid\" + \"Beautiful Headhuntress\""
+        },
+        {
+            "name": "Amphibious Bugroth",
+            "code": "4645",
+            "description": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\""
+        },
+        {
+            "name": "The Last Warrior from Another Planet",
+            "code": "4785",
+            "description": "\"Zombyra the Dark\" + \"Maryokutai\"\nIf this card is Special Summoned: Destroy all other monsters you control. Neither player can Summon monsters."
+        },
+        {
+            "name": "Crimson Sunbird",
+            "code": "4473",
+            "description": "\"Faith Bird\" + \"Skull Red Bird\""
+        },
+        {
+            "name": "Twin-Headed Thunder Dragon",
+            "code": "4619",
+            "description": "\"Thunder Dragon\" + \"Thunder Dragon\""
+        },
+        {
+            "name": "Zombie Warrior",
+            "code": "4036",
+            "description": "\"Skull Servant\" + \"Battle Warrior\""
+        },
+        {
+            "name": "Kamionwizard",
+            "code": "4121",
+            "description": "\"Mystical Elf\" + \"Curtain of the Dark Ones\""
+        },
+        {
+            "name": "Flame Ghost",
+            "code": "4221",
+            "description": "\"Skull Servant\" + \"Dissolverock\""
+        },
+        {
+            "name": "Roaring Ocean Snake",
+            "code": "4229",
+            "description": "\"Mystic Lamp\" + \"Hyosube\""
+        },
+        {
+            "name": "Bickuribox",
+            "code": "4391",
+            "description": "\"Crass Clown\" + \"Dream Clown\""
+        },
+        {
+            "name": "Kaiser Dragon",
+            "code": "4433",
+            "description": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\""
+        },
+        {
+            "name": "Aqua Dragon",
+            "code": "4448",
+            "description": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\""
+        },
+        {
+            "name": "Soul Hunter",
+            "code": "4477",
+            "description": "\"Lord of the Lamp\" + \"Invader from Another Dimension\""
+        },
+        {
+            "name": "Musician King",
+            "code": "4501",
+            "description": "\"Witch of the Black Forest\" + \"Lady of Faith\""
+        },
+        {
+            "name": "Cyber Saurus",
+            "code": "4514",
+            "description": "\"Blast Juggler\" + \"Two-Headed King Rex\""
+        },
+        {
+            "name": "Bracchio-raidus",
+            "code": "4515",
+            "description": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\""
+        },
+        {
+            "name": "Mystical Sand",
+            "code": "4537",
+            "description": "\"Giant Soldier of Stone\" + \"Ancient Elf\""
+        },
+        {
+            "name": "Skelgon",
+            "code": "4551",
+            "description": "\"The Snake Hair\" + \"Blackland Fire Dragon\""
+        },
+        {
+            "name": "Great Mammoth of Goldfine",
+            "code": "4570",
+            "description": "\"The Snake Hair\" + \"Dragon Zombie\""
+        },
+        {
+            "name": "Man-Eating Black Shark",
+            "code": "4571",
+            "description": "\"Sea Kamen\" + \"Gruesome Goo\" + \"Amazon of the Seas\""
+        },
+        {
+            "name": "Empress Judge",
+            "code": "4578",
+            "description": "\"Queen's Double\" + \"Hibikime\""
+        },
+        {
+            "name": "Skull Knight",
+            "code": "4713",
+            "description": "\"Tainted Wisdom\" + \"Ancient Brain\""
+        },
+        {
+            "name": "Chimera the Flying Mythical Beast",
+            "code": "4756",
+            "description": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(This card is always treated as a \"Phantom Beast\" card.)\nWhen this card is destroyed: You can target 1 \"Berfomet\" or 1 \"Gazelle the King of Mythical Beasts\" in your Graveyard; Special Summon that target."
+        },
+        {
+            "name": "Humanoid Worm Drake",
+            "code": "5062",
+            "description": "\"Worm Drake\" + \"Humanoid Slime\""
+        },
+        {
+            "name": "Super Robolady",
+            "code": "5383",
+            "description": "\"Robolady\" + \"Roboyarou\"\nYou can Special Summon \"Super Roboyarou\" by returning this card from the field to the Extra Deck. You cannot use this effect during the same turn this monster is Special Summoned. In addition, increase the ATK of this monster by 1000 points during the Damage Step when this monster inflicts Direct Damage to your opponent's Life Points."
+        },
+        {
+            "name": "Super Roboyarou",
+            "code": "5384",
+            "description": "\"Roboyarou\" + \"Robolady\"\nYou can Special Summon \"Super Robolady\" by returning this card from the field to the Extra Deck. You cannot use this effect during the same turn this monster is Special Summoned. In addition, increase the ATK of this monster by 1000 points during the Damage Step when this monster battles with a monster."
+        },
+        {
+            "name": "Sanwitch",
+            "code": "6128",
+            "description": "\"Sangan\" + \"Witch of the Black Forest\""
+        },
+        {
+            "name": "Dark Balter the Terrible",
+            "code": "5302",
+            "description": "\"Possessed Dark Soul\" + \"Frontier Wiseman\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When a Normal Spell Card is activated, negate the effect by paying 1000 Life Points. The effect of an Effect Monster that this monster destroys as a result of battle is negated."
+        },
+        {
+            "name": "Ryu Senshi",
+            "code": "5319",
+            "description": "\"Warrior Dai Grepher\" + \"Spirit Ryu\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. When a Normal Trap Card is activated (Quick Effect): You can pay 1000 LP; negate that effect. This card must be face-up on the field to activate and to resolve this effect. Negate the effects of any Spell Card that targets this card and destroy it."
+        },
+        {
+            "name": "Fiend Skull Dragon",
+            "code": "5338",
+            "description": "\"Cave Dragon\" + \"Lesser Fiend\"\r\n(This card is always treated as an \"Archfiend\" card.)\r\nA Fusion Summon of this card can only be done with the above Fusion Material Monsters. Negate the effects of Flip Effect Monsters. Negate any Trap effects that target this card on the field, and if you do, destroy that Trap Card."
+        },
+        {
+            "name": "Alligator's Sword Dragon",
+            "code": "5003",
+            "description": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE."
+        },
+        {
+            "name": "D.3.S. Frog",
+            "code": "6614",
+            "description": "\"Des Frog\" + \"Des Frog\" + \"Des Frog\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each \"Treeborn Frog\" in your Graveyard."
+        },
+        {
+            "name": "VWXYZ-Dragon Catapult Cannon",
+            "code": "6484",
+            "description": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent's monster: You can target the attack target; change that attack target's battle position. (Flip Effects are not activated.)"
+        },
+        {
+            "name": "XYZ-Dragon Cannon",
+            "code": "5556",
+            "description": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target."
+        },
+        {
+            "name": "XY-Dragon Cannon",
+            "code": "5553",
+            "description": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-up Spell\/Trap Card your opponent controls; destroy that target."
+        },
+        {
+            "name": "XZ-Tank Cannon",
+            "code": "5625",
+            "description": "\"X-Head Cannon\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down Spell\/Trap Card your opponent controls; destroy that target."
+        },
+        {
+            "name": "YZ-Tank Dragon",
+            "code": "5626",
+            "description": "\"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down monster your opponent controls; destroy that target."
+        },
+        {
+            "name": "Dark Blade the Dragon Knight",
+            "code": "6204",
+            "description": "\"Dark Blade\" + \"Pitch-Dark Dragon\"\nEach time this card inflicts Battle Damage to your opponent, you can select up to 3 Monster Cards from your opponent's Graveyard and remove them from play."
+        },
+        {
+            "name": "VW-Tiger Catapult",
+            "code": "6483",
+            "description": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip Effects are not activated.)"
+        },
+        {
+            "name": "St. Joan",
+            "code": "5208",
+            "description": "\"The Forgiving Maiden\" + \"Darklord Marie\""
+        },
+        {
+            "name": "Mokey Mokey King",
+            "code": "6205",
+            "description": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard."
+        },
+        {
+            "name": "Meteor Black Dragon",
+            "code": "4719",
+            "description": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\""
+        },
+        {
+            "name": "Gaia the Dragon Champion",
+            "code": "4043",
+            "description": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\""
+        },
+        {
+            "name": "Thousand Dragon",
+            "code": "4075",
+            "description": "\"Time Wizard\" + \"Baby Dragon\""
+        },
+        {
+            "name": "Black Skull Dragon",
+            "code": "4223",
+            "description": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\r\n\r\n\r\n\r\n(This card is always treated as an \"Archfiend\" card.)"
+        },
+        {
+            "name": "Reaper on the Nightmare",
+            "code": "5528",
+            "description": "\"Spirit Reaper\" + \"Nightmare Horse\"\nThis card is not destroyed as a result of battle. Destroy this card when it is targeted by the effect of a Spell, Trap, or Effect Monster. This card can attack your opponent's Life Points directly even if there is a monster on your opponent's side of the field. If this card successfully attacks your opponent's Life Points directly, your opponent discards 1 card randomly from his\/her hand."
+        },
+        {
+            "name": "Chimeratech Overdragon",
+            "code": "6734",
+            "description": "\"Cyber Dragon\" + 1+ Machine monsters\r\nMust be Fusion Summoned. If this card is Fusion Summoned: Send all other cards you control to the GY. The original ATK\/DEF of this card each become equal to the number of Fusion Materials used for its Fusion Summon x 800. Each turn, this card can attack your opponent's monsters a number of times equal to the number of Fusion Materials used for its Fusion Summon."
+        },
+        {
+            "name": "Elemental HERO Shining Phoenix Enforcer",
+            "code": "6656",
+            "description": "\"Elemental HERO Phoenix Enforcer\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. This card cannot be destroyed by battle."
+        },
+        {
+            "name": "Elemental HERO Phoenix Enforcer",
+            "code": "6655",
+            "description": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot be destroyed by battle."
+        },
+        {
+            "name": "Elemental HERO Aqua Neos",
+            "code": "6766",
+            "description": "\"Elemental HERO Neos\" + \"Neo-Spacian Aqua Dolphin\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can discard 1 card; destroy 1 random card in your opponent's hand. During the End Phase: Shuffle this card into the Extra Deck."
+        },
+        {
+            "name": "Elemental HERO Flare Neos",
+            "code": "6767",
+            "description": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each Spell\/Trap Card on the field. During the End Phase: Shuffle this card into the Extra Deck."
+        },
+        {
+            "name": "Elemental HERO Shining Flare Wingman",
+            "code": "6467",
+            "description": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard."
+        },
+        {
+            "name": "Elemental HERO Flame Wingman",
+            "code": "6344",
+            "description": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard."
+        },
+        {
+            "name": "Elemental HERO Thunder Giant",
+            "code": "6345",
+            "description": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target."
+        },
+        {
+            "name": "Elemental HERO Wildedge",
+            "code": "6488",
+            "description": "\"Elemental HERO Wildheart\" + \"Elemental HERO Bladedge\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack every monster your opponent controls (one attack on each monster per Battle Phase)."
+        },
+        {
+            "name": "Elemental HERO Wild Wingman",
+            "code": "6643",
+            "description": "\"Elemental HERO Wildheart\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell\/Trap Card on the field; destroy that target."
+        },
+        {
+            "name": "Elemental HERO Tempest",
+            "code": "6487",
+            "description": "\"Elemental HERO Avian\" + \"Elemental HERO Sparkman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can send 1 other card you control to the Graveyard to target 1 monster you control; while this card is face-up on the field, that monster cannot be destroyed by battle."
+        },
+        {
+            "name": "Elemental HERO Necroid Shaman",
+            "code": "6644",
+            "description": "\"Elemental HERO Wildheart\" + \"Elemental HERO Necroshade\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 monster your opponent controls; destroy that target, then Special Summon 1 monster from your opponent's Graveyard to their side of the field."
+        },
+        {
+            "name": "Elemental HERO Mariner",
+            "code": "6657",
+            "description": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While you have any face-down card(s) in your Spell & Trap Card Zones, this card can attack your opponent directly."
+        },
+        {
+            "name": "Elemental HERO Rampart Blaster",
+            "code": "6486",
+            "description": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\r\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only."
+        },
+        {
+            "name": "Elemental HERO Steam Healer",
+            "code": "6535",
+            "description": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the ATK of that destroyed monster in the Graveyard."
+        },
+        {
+            "name": "Super Vehicroid Jumbo Drill",
+            "code": "6739",
+            "description": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent."
+        },
+        {
+            "name": "UFOroid Fighter",
+            "code": "6395",
+            "description": "\"UFOroid\" + 1 Warrior-Type monster\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card."
+        },
+        {
+            "name": "Steam Gyroid",
+            "code": "6394",
+            "description": "\"Gyroid\" + \"Steamroid\""
+        },
+        {
+            "name": "Ambulance Rescueroid",
+            "code": "6744",
+            "description": "\"Rescueroid\" + \"Ambulanceroid\"\nThis monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position."
+        },
+        {
+            "name": "Master of Oz",
+            "code": "6127",
+            "description": "\"Big Koala\" + \"Des Kangaroo\""
+        },
+        {
+            "name": "Cyber Blader",
+            "code": "6485",
+            "description": "\"Etoile Cyber\" + \"Blade Skater\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monster Cards."
+        },
+        {
+            "name": "Thousand-Eyes Restrict",
+            "code": "4740",
+            "description": "\"Relinquished\" + \"Thousand-Eyes Idol\"\r\nOther monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK\/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead."
+        },
+        {
+            "name": "Ojama King",
+            "code": "6126",
+            "description": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nSelect up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used."
+        },
+        {
+            "name": "Cyber Twin Dragon",
+            "code": "6396",
+            "description": "\"Cyber Dragon\" + \"Cyber Dragon\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. This card can make a second attack during each Battle Phase."
+        },
+        {
+            "name": "Cyber End Dragon",
+            "code": "6397",
+            "description": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage."
+        },
+        {
+            "name": "Gatling Dragon",
+            "code": "6264",
+            "description": "\"Barrel Dragon\" + \"Blowback Dragon\"\r\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads."
+        },
+        {
+            "name": "Labyrinth Tank",
+            "code": "4376",
+            "description": "\"Giga-Tech Wolf\" + \"Cannon Soldier\""
+        },
+        {
+            "name": "King Dragun",
+            "code": "6265",
+            "description": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand."
+        },
+        {
+            "name": "Blue-Eyes Ultimate Dragon",
+            "code": "4386",
+            "description": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\""
+        },
+        {
+            "name": "Dark Flare Knight",
+            "code": "5698",
+            "description": "\"Dark Magician\" + \"Flame Swordsman\"\nYou take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 \"Mirage Knight\" from your hand or Deck."
+        },
+        {
+            "name": "Dark Paladin",
+            "code": "5628",
+            "description": "\"Dark Magician\" + \"Buster Blader\"\r\nMust be Fusion Summoned. When a Spell Card is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. Gains 500 ATK for each Dragon monster on the field and in the GY."
+        },
+        {
+            "name": "Dragon Master Knight",
+            "code": "5501",
+            "description": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\r\nMust be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card."
+        },
+        {
+            "name": "Five-Headed Dragon",
+            "code": "5502",
+            "description": "5 Dragon monsters\r\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster."
+        },
+        {
+            "name": "Arcana Knight Joker",
+            "code": "6454",
+            "description": "\"Queen's Knight\" + \"Jack's Knight\" + \"King's Knight\"\r\nA Fusion Summon of this card can only be done with the above materials. Once per turn, when a Spell\/Trap Card, or monster effect, is activated that targets this face-up card on the field (Quick Effect): You can discard the same type of card (Monster, Spell, or Trap); negate the effect."
+        },
+        {
+            "name": "Elemental HERO Mudballman",
+            "code": "6529",
+            "description": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways."
+        },
+        {
+            "name": "Elemental HERO Electrum",
+            "code": "6639",
+            "description": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also WIND, WATER, FIRE, and EARTH-Attribute. When this card is Fusion Summoned: Shuffle all banished cards into the Deck(s). This card gains 300 ATK for each monster your opponent controls that shares an Attribute with this card."
+        },
+        {
+            "name": "Elemental HERO Dark Neos",
+            "code": "6765",
+            "description": "\"Elemental HERO Neos\" + \"Neo-Spacian Dark Panther\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) If this card is not already targeting a monster with its effect: You can target 1 face-up Effect Monster on the field; while you control this face-up card, that target's effect on the field is negated. During the End Phase: Shuffle this card into the Extra Deck."
+        }
+    ]
+}

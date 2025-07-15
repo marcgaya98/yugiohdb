@@ -1,0 +1,707 @@
+[
+  {
+    "cardId": 11317,
+    "cardName": "Chimera the Flying Mythical Beast",
+    "mentioned": "Phantom Beast"
+  },
+  {
+    "cardId": 11336,
+    "cardName": "Fiend Skull Dragon",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 11409,
+    "cardName": "White Hole",
+    "mentioned": "Dark Hole's"
+  },
+  {
+    "cardId": 11480,
+    "cardName": "Dark Scorpion - Meanae the Thorn",
+    "mentioned": "Dark Scorpion"
+  },
+  {
+    "cardId": 11480,
+    "cardName": "Dark Scorpion - Meanae the Thorn",
+    "mentioned": "Dark Scorpion"
+  },
+  {
+    "cardId": 11521,
+    "cardName": "Mustering of the Dark Scorpions",
+    "mentioned": "Dark Scorpion"
+  },
+  {
+    "cardId": 11546,
+    "cardName": "Horus' Servant",
+    "mentioned": "Horus the Black Flame Dragon"
+  },
+  {
+    "cardId": 11626,
+    "cardName": "Des Croaking",
+    "mentioned": "Des Frogs"
+  },
+  {
+    "cardId": 11699,
+    "cardName": "Battery Charger",
+    "mentioned": "Batteryman"
+  },
+  {
+    "cardId": 11724,
+    "cardName": "Element Valkyrie",
+    "mentioned": "Valkyrie"
+  },
+  {
+    "cardId": 11754,
+    "cardName": "Exxod, Master of The Guard",
+    "mentioned": "sphinx"
+  },
+  {
+    "cardId": 11819,
+    "cardName": "Jam Breeding Machine",
+    "mentioned": "Slime Token"
+  },
+  {
+    "cardId": 11819,
+    "cardName": "Jam Breeding Machine",
+    "mentioned": "Slime Tokens"
+  },
+  {
+    "cardId": 11830,
+    "cardName": "Ninjitsu Art of Transformation",
+    "mentioned": "Ninja"
+  },
+  {
+    "cardId": 11833,
+    "cardName": "Ninjitsu Art of Decoy",
+    "mentioned": "Ninja"
+  },
+  {
+    "cardId": 11877,
+    "cardName": "Cobra Jar",
+    "mentioned": "Poisonous Snake Token"
+  },
+  {
+    "cardId": 11877,
+    "cardName": "Cobra Jar",
+    "mentioned": "Poisonous Snake Token"
+  },
+  {
+    "cardId": 11890,
+    "cardName": "Axe of Despair",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 11911,
+    "cardName": "Fuhma Shuriken",
+    "mentioned": "Ninja"
+  },
+  {
+    "cardId": 11934,
+    "cardName": "Arsenal Summoner",
+    "mentioned": "Guardian"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "I"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "N"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "A"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "L"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message"
+  },
+  {
+    "cardId": 11948,
+    "cardName": "Destiny Board",
+    "mentioned": "Spirit Message"
+  },
+  {
+    "cardId": 12040,
+    "cardName": "Synthetic Seraphim",
+    "mentioned": "Synthetic Seraphim Token"
+  },
+  {
+    "cardId": 12044,
+    "cardName": "Toon Summoned Skull",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12048,
+    "cardName": "Toon Table of Contents",
+    "mentioned": "Toon"
+  },
+  {
+    "cardId": 12065,
+    "cardName": "Manga Ryu-Ran",
+    "mentioned": "Toon"
+  },
+  {
+    "cardId": 12165,
+    "cardName": "Black Skull Dragon",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12193,
+    "cardName": "Pandemonium",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12193,
+    "cardName": "Pandemonium",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12193,
+    "cardName": "Pandemonium",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12197,
+    "cardName": "Lesser Fiend",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12200,
+    "cardName": "Falling Down",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12206,
+    "cardName": "Gateway to Dark World",
+    "mentioned": "Dark World"
+  },
+  {
+    "cardId": 12226,
+    "cardName": "Archfiend's Roar",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12236,
+    "cardName": "Scarr, Scout of Dark World",
+    "mentioned": "Dark World"
+  },
+  {
+    "cardId": 12237,
+    "cardName": "The Forces of Darkness",
+    "mentioned": "Dark World"
+  },
+  {
+    "cardId": 12238,
+    "cardName": "Dark Deal",
+    "mentioned": "Your opponent discards 1 random card"
+  },
+  {
+    "cardId": 12242,
+    "cardName": "Gravekeeper's Spy",
+    "mentioned": "Gravekeeper's"
+  },
+  {
+    "cardId": 12243,
+    "cardName": "Necrovalley",
+    "mentioned": "Gravekeeper's"
+  },
+  {
+    "cardId": 12250,
+    "cardName": "Gravekeeper's Chief",
+    "mentioned": "Gravekeeper's"
+  },
+  {
+    "cardId": 12253,
+    "cardName": "Diffusion Wave-Motion",
+    "mentioned": "Fusion"
+  },
+  {
+    "cardId": 12266,
+    "cardName": "Gravekeeper's Cannonholder",
+    "mentioned": "Gravekeeper's"
+  },
+  {
+    "cardId": 12270,
+    "cardName": "Charm of Shabti",
+    "mentioned": "Gravekeeper's"
+  },
+  {
+    "cardId": 12271,
+    "cardName": "Rite of Spirit",
+    "mentioned": "Gravekeeper's"
+  },
+  {
+    "cardId": 12285,
+    "cardName": "Toy Magician",
+    "mentioned": "Toy Magicians"
+  },
+  {
+    "cardId": 12314,
+    "cardName": "Violet Crystal",
+    "mentioned": "Crystal"
+  },
+  {
+    "cardId": 12324,
+    "cardName": "A Deal with Dark Ruler",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12349,
+    "cardName": "Paladin of White Dragon",
+    "mentioned": "Blue-Eyes White Dragons"
+  },
+  {
+    "cardId": 12387,
+    "cardName": "Elemental HERO Shining Phoenix Enforcer",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12390,
+    "cardName": "Destiny HERO - Double Dude",
+    "mentioned": "Double Dude Tokens"
+  },
+  {
+    "cardId": 12392,
+    "cardName": "Phantom Beast Cross-Wing",
+    "mentioned": "Phantom Beast"
+  },
+  {
+    "cardId": 12394,
+    "cardName": "Phantom Beast Thunder-Pegasus",
+    "mentioned": "Phantom Beast"
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12396,
+    "cardName": "Destiny HERO - Dreadmaster",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12397,
+    "cardName": "Destiny Signal",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12398,
+    "cardName": "D - Shield",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12399,
+    "cardName": "Destiny HERO - Fear Monger",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12400,
+    "cardName": "Destiny HERO - Dogma",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12401,
+    "cardName": "Dark City",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12408,
+    "cardName": "Cosmic Horror Gangi'el",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12409,
+    "cardName": "Crop Circles",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12412,
+    "cardName": "Destiny HERO - Captain Tenacious",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12414,
+    "cardName": "D - Time",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12414,
+    "cardName": "D - Time",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12414,
+    "cardName": "D - Time",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12415,
+    "cardName": "Destiny HERO - Blade Master",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12417,
+    "cardName": "D - Chain",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12418,
+    "cardName": "D - Spirit",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12418,
+    "cardName": "D - Spirit",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12419,
+    "cardName": "Destiny Mirage",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12419,
+    "cardName": "Destiny Mirage",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12422,
+    "cardName": "Contact",
+    "mentioned": "Chrysalis"
+  },
+  {
+    "cardId": 12423,
+    "cardName": "Fake Hero",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12424,
+    "cardName": "Common Soul",
+    "mentioned": "Neo-Spacian"
+  },
+  {
+    "cardId": 12426,
+    "cardName": "Alien Grey",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12427,
+    "cardName": "Alien Skull",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12429,
+    "cardName": "Alien Warrior",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12430,
+    "cardName": "Flying Saucer Muusik'i",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12431,
+    "cardName": "Orbital Bombardment",
+    "mentioned": "Alien"
+  },
+  {
+    "cardId": 12433,
+    "cardName": "Cyclone Blade",
+    "mentioned": "Destiny HERO"
+  },
+  {
+    "cardId": 12483,
+    "cardName": "Miracle Fusion",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12484,
+    "cardName": "Elemental HERO Shining Flare Wingman",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12493,
+    "cardName": "E - Emergency Call",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12497,
+    "cardName": "Hero Signal",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12499,
+    "cardName": "Skyscraper",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12503,
+    "cardName": "Elemental HERO Necroshade",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12507,
+    "cardName": "R - Righteous Justice",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12516,
+    "cardName": "Wroughtweiler",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12519,
+    "cardName": "Bubble Shuffle",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12523,
+    "cardName": "Hero Barrier",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12527,
+    "cardName": "Burst Return",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12528,
+    "cardName": "Bubble Blaster",
+    "mentioned": "Elemental Hero Bubbleman"
+  },
+  {
+    "cardId": 12529,
+    "cardName": "Bubble Illusion",
+    "mentioned": "Elemental Hero Bubbleman"
+  },
+  {
+    "cardId": 12531,
+    "cardName": "Elemental HERO Neo Bubbleman",
+    "mentioned": "Elemental Hero Bubbleman"
+  },
+  {
+    "cardId": 12531,
+    "cardName": "Elemental HERO Neo Bubbleman",
+    "mentioned": "Elemental Hero Bubbleman"
+  },
+  {
+    "cardId": 12533,
+    "cardName": "Hero Heart",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12535,
+    "cardName": "Hero Spirit",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12537,
+    "cardName": "O - Oversoul",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12538,
+    "cardName": "Hero Flash!!",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12538,
+    "cardName": "Hero Flash!!",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12539,
+    "cardName": "Elemental Recharge",
+    "mentioned": "Elemental HERO"
+  },
+  {
+    "cardId": 12545,
+    "cardName": "Ambulanceroid",
+    "mentioned": "roid"
+  },
+  {
+    "cardId": 12555,
+    "cardName": "Rescueroid",
+    "mentioned": "roid"
+  },
+  {
+    "cardId": 12556,
+    "cardName": "Supercharge",
+    "mentioned": "roid"
+  },
+  {
+    "cardId": 12557,
+    "cardName": "Vehicroid Connection Zone",
+    "mentioned": "Vehicroid"
+  },
+  {
+    "cardId": 12574,
+    "cardName": "Wonder Garage",
+    "mentioned": "roid"
+  },
+  {
+    "cardId": 12608,
+    "cardName": "Hyena",
+    "mentioned": "Hyenas"
+  },
+  {
+    "cardId": 12629,
+    "cardName": "Harpie's Pet Baby Dragon",
+    "mentioned": "Harpie"
+  },
+  {
+    "cardId": 12629,
+    "cardName": "Harpie's Pet Baby Dragon",
+    "mentioned": "Harpie"
+  },
+  {
+    "cardId": 12641,
+    "cardName": "Shadow Tamer",
+    "mentioned": "Archfiend"
+  },
+  {
+    "cardId": 12683,
+    "cardName": "Ojamuscle",
+    "mentioned": "Ojama"
+  },
+  {
+    "cardId": 12683,
+    "cardName": "Ojamuscle",
+    "mentioned": "Ojama"
+  },
+  {
+    "cardId": 12695,
+    "cardName": "Valkyrion the Magna Warrior",
+    "mentioned": "Gamma The Magnet Warrior"
+  },
+  {
+    "cardId": 12695,
+    "cardName": "Valkyrion the Magna Warrior",
+    "mentioned": "Gamma The Magnet Warrior"
+  },
+  {
+    "cardId": 12696,
+    "cardName": "Amazoness Archers",
+    "mentioned": "Amazoness"
+  },
+  {
+    "cardId": 12714,
+    "cardName": "Amazoness Spellcaster",
+    "mentioned": "Amazoness"
+  },
+  {
+    "cardId": 12715,
+    "cardName": "Dramatic Rescue",
+    "mentioned": "Amazoness"
+  },
+  {
+    "cardId": 12716,
+    "cardName": "Amazoness Paladin",
+    "mentioned": "Amazoness"
+  },
+  {
+    "cardId": 12718,
+    "cardName": "Amazoness Tiger",
+    "mentioned": "Amazoness"
+  },
+  {
+    "cardId": 12718,
+    "cardName": "Amazoness Tiger",
+    "mentioned": "Amazoness"
+  },
+  {
+    "cardId": 12769,
+    "cardName": "Photon Generator Unit",
+    "mentioned": "Cyber Dragons"
+  },
+  {
+    "cardId": 12964,
+    "cardName": "Level Up!",
+    "mentioned": "LV"
+  },
+  {
+    "cardId": 12970,
+    "cardName": "Level Modulation",
+    "mentioned": "LV"
+  },
+  {
+    "cardId": 12980,
+    "cardName": "The Graveyard in the Fourth Dimension",
+    "mentioned": "LV"
+  },
+  {
+    "cardId": 13066,
+    "cardName": "Nimble Momonga",
+    "mentioned": "Nimble Momongas"
+  },
+  {
+    "cardId": 13108,
+    "cardName": "Giant Germ",
+    "mentioned": "Giant Germs"
+  },
+  {
+    "cardId": 13173,
+    "cardName": "Boss Rush",
+    "mentioned": "B.E.S."
+  },
+  {
+    "cardId": 13173,
+    "cardName": "Boss Rush",
+    "mentioned": "B.E.S."
+  },
+  {
+    "cardId": 13344,
+    "cardName": "Machina Soldier",
+    "mentioned": "Machina"
+  },
+  {
+    "cardId": 13346,
+    "cardName": "Machina Sniper",
+    "mentioned": "Machina"
+  },
+  {
+    "cardId": 13370,
+    "cardName": "Phantom Beast Rock-Lizard",
+    "mentioned": "Phantom Beast"
+  },
+  {
+    "cardId": 13431,
+    "cardName": "Cupid Kiss",
+    "mentioned": "Maiden Counter"
+  },
+  {
+    "cardId": 13452,
+    "cardName": "Flipping the Table",
+    "mentioned": "Dizzy"
+  }
+]

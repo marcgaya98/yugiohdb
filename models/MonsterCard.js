@@ -5,6 +5,7 @@ const MonsterCard = sequelize.define('MonsterCard', {
     cardId: {
         type: DataTypes.INTEGER,
         allowNull: false,
+        primaryKey: true,
         references: {
             model: 'card',
             key: 'id',
@@ -59,11 +60,15 @@ const MonsterCard = sequelize.define('MonsterCard', {
         { fields: ['attribute'] },
         { fields: ['type'] },
         { fields: ['level'] },
+        { fields: ['attack'] },
+        { fields: ['defense'] },
         { fields: ['summonMechanic'] },
         { fields: ['effectTrait'] },
         { fields: ['ability'] },
-        { fields: ['level', 'attribute', 'type'] },  // Índice compuesto para búsquedas comunes
-        { fields: ['attack', 'defense'] }            // Índice compuesto para búsquedas por ATK/DEF
+        { fields: ['level', 'attribute', 'type'] },
+        { fields: ['attack', 'defense'] },
+        { fields: ['type', 'attribute'] },
+        { fields: ['level', 'attack', 'defense'] }
     ]
 });
 

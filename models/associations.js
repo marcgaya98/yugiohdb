@@ -10,7 +10,6 @@ import TrapCard from './TrapCard.js';
 import Genre from './Genre.js';
 import CardGenre from './CardGenre.js';
 import Deck from './Deck.js';
-import CardObtention from './CardObtention.js';
 import Character from './Character.js';
 import CharacterSandwichRating from './CharacterSandwichRating.js';
 import CardTutorialObtention from './CardTutorialObtention.js';
@@ -20,6 +19,8 @@ import CardConverterObtention from './CardConverterObtention.js';
 import CardCharacterObtention from './CardCharacterObtention.js';
 import CardSandwichObtention from './CardSandwichObtention.js';
 import Pack from './Pack.js';
+import FusionMaterial from './FusionMaterial.js';
+import RitualMonsterSpell from './RitualMonsterSpell.js';
 
 /**
  * Asociaciones Card con las cartas especializadas (MonsterCard, SpellCard, TrapCard)
@@ -75,19 +76,6 @@ Genre.belongsToMany(Card, {
     foreignKey: 'genreId',
     onDelete: 'CASCADE',
     onUpdate: 'CASCADE'
-});
-
-/**
- * Asociaciones Card-CardObtention
- * Tipo de relación: One-to-Many
- */
-Card.hasMany(CardObtention, {
-    foreignKey: 'cardId',
-    onDelete: 'CASCADE',
-    onUpdate: 'CASCADE'
-});
-CardObtention.belongsTo(Card, {
-    foreignKey: 'cardId'
 });
 
 /**
@@ -248,4 +236,54 @@ CardCharacterObtention.belongsTo(Character, {
     as: 'character',
     onDelete: 'CASCADE',
     onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para FusionMaterial
+ * Relaciona cartas de fusión con sus materiales
+ */
+Card.hasMany(FusionMaterial, {
+    foreignKey: 'fusionId',
+    as: 'fusionMaterials',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+Card.hasMany(FusionMaterial, {
+    foreignKey: 'materialId',
+    as: 'asMaterialIn',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+FusionMaterial.belongsTo(Card, {
+    foreignKey: 'fusionId',
+    as: 'fusion',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+FusionMaterial.belongsTo(Card, {
+    foreignKey: 'materialId',
+    as: 'material',
+    onDelete: 'CASCADE',
+    onUpdate: 'CASCADE'
+});
+
+/**
+ * Asociaciones para RitualMonsterSpell
+ * Relaciona monstruos rituales con hechizos rituales
+ */
+Card.hasMany(RitualMonsterSpell, {
+    foreignKey: 'ritualMonsterId',
+    as: 'ritualSpells'
+});
+Card.hasMany(RitualMonsterSpell, {
+    foreignKey: 'ritualSpellId',
+    as: 'ritualMonsters'
+});
+RitualMonsterSpell.belongsTo(Card, {
+    foreignKey: 'ritualMonsterId',
+    as: 'monster'
+});
+RitualMonsterSpell.belongsTo(Card, {
+    foreignKey: 'ritualSpellId',
+    as: 'spell'
 });

@@ -1,33 +1,177 @@
 import { Op } from 'sequelize';
 import Card from '../models/Card.js';
 import Genre from '../models/Genre.js';
-import GenreCategory from '../models/GenreCategory.js';
-import CardObtention from '../models/CardObtention.js';
+// import GenreCategory from '../models/GenreCategory.js'; // No existe
+// import CardObtention from '../models/CardObtention.js'; // No existe
 import MonsterCard from '../models/MonsterCard.js';
 import SpellCard from '../models/SpellCard.js';
 import TrapCard from '../models/TrapCard.js';
 
 class CardController {
   /**
-   * Get all cards with optional filters
-   * @param {Object} req - Express request object
-   * @param {Object} res - Express response object
+   * Obtener todas las cartas con filtrado, ordenación y paginación avanzados
+   * @param {Object} req - Objeto de solicitud Express
+   * @param {Object} res - Objeto de respuesta Express
    */
   async getAllCards(req, res) {
     try {
-      const filters = this.buildCardFilters(req.query);
+      // Destructuring de parámetros de consulta
+      const {
+        name,
+        code,
+        rarity,
+        limit: limitParam,
+        offset: offsetParam,
+        page,
+        frame,
+        archetype,
+        cardType,
+        alterName,
+        password,
+        attribute,
+        effectTrait,
+        summonMechanic,
+        ability,
+        type,
+        level,
+        levelMin,
+        levelMax,
+        attack,
+        attackMin,
+        attackMax,
+        defense,
+        defenseMin,
+        defenseMax,
+        spellType,
+        trapType,
+        genres,
+        genreCategory,
+        sortBy = 'name',
+        sortOrder = 'asc'
+      } = req.query;
 
-      const cards = await Card.findAll({
+      // Validación básica de paginación
+      let limit = limitParam ? parseInt(limitParam) : 24;
+      if (limit > 100) limit = 100;
+      let offset = offsetParam ? parseInt(offsetParam) : (page ? (parseInt(page) - 1) * limit : 0);
+
+      // Filtros principales (case-insensitive)
+      const filters = {};
+      if (name) filters.name = { [Op.iLike]: `%${name}%` };
+      if (code) filters.code = { [Op.iLike]: `%${code}%` };
+      if (rarity) filters.rarity = rarity;
+      if (frame) filters.frame = frame;
+      if (archetype) filters.archetype = { [Op.iLike]: `%${archetype}%` };
+      if (cardType) filters.cardType = cardType;
+      if (alterName) filters.alter_name = { [Op.iLike]: `%${alterName}%` };
+      if (password) filters.password = { [Op.iLike]: `%${password}%` };
+      if (limitParam) filters.limit = parseInt(limitParam);
+
+      // Includes dinámicos para joins
+      const includes = [
+        {
+          model: Genre,
+          as: 'genres',
+          where: genres
+            ? {
+              id: {
+                [Op.in]: genres.split(',').map((g) => parseInt(g))
+              }
+            }
+            : undefined,
+          required: !!genres
+        }
+      ];
+
+      // MonsterCard join y filtros
+      if (
+        attribute || effectTrait || summonMechanic || ability || type || level || levelMin || levelMax || attack || attackMin || attackMax || defense || defenseMin || defenseMax
+      ) {
+        includes.push({
+          model: MonsterCard,
+          as: 'monsterData',
+          where: {
+            ...(attribute && { attribute }),
+            ...(effectTrait !== undefined && { effectTrait }),
+            ...(summonMechanic && { summonMechanic }),
+            ...(ability && { ability }),
+            ...(type && { type }),
+            ...(level && { level: parseInt(level) }),
+            ...(levelMin && { level: { [Op.gte]: parseInt(levelMin) } }),
+            ...(levelMax && { level: { ...(includes.find(i => i.as === 'monsterData')?.where?.level || {}), [Op.lte]: parseInt(levelMax) } }),
+            ...(attack && { attack: parseInt(attack) }),
+            ...(attackMin && { attack: { [Op.gte]: parseInt(attackMin) } }),
+            ...(attackMax && { attack: { ...(includes.find(i => i.as === 'monsterData')?.where?.attack || {}), [Op.lte]: parseInt(attackMax) } }),
+            ...(defense && { defense: parseInt(defense) }),
+            ...(defenseMin && { defense: { [Op.gte]: parseInt(defenseMin) } }),
+            ...(defenseMax && { defense: { ...(includes.find(i => i.as === 'monsterData')?.where?.defense || {}), [Op.lte]: parseInt(defenseMax) } })
+          },
+          required: true
+        });
+      }
+
+      // SpellCard join y filtros
+      if (spellType) {
+        includes.push({
+          model: SpellCard,
+          as: 'spellData',
+          where: { type: spellType },
+          required: true
+        });
+      }
+
+      // TrapCard join y filtros
+      if (trapType) {
+        includes.push({
+          model: TrapCard,
+          as: 'trapData',
+          where: { type: trapType },
+          required: true
+        });
+      }
+
+      // Ordenación dinámica (case-insensitive para texto)
+      let order = [];
+      if (sortBy) {
+        if ([
+          'name', 'archetype', 'code', 'alter_name', 'password'
+        ].includes(sortBy)) {
+          order.push([sortBy, sortOrder.toUpperCase()]);
+        } else if ([
+          'attack', 'defense', 'level'
+        ].includes(sortBy)) {
+          order.push([{ model: MonsterCard, as: 'monsterData' }, sortBy, sortOrder.toUpperCase()]);
+        } else if (sortBy === 'rarity') {
+          order.push(['rarity', sortOrder.toUpperCase()]);
+        }
+      } else {
+        order.push(['name', 'ASC']);
+      }
+
+      // Consulta principal con Sequelize
+      const { rows, count } = await Card.findAndCountAll({
         where: filters,
-        include: this.getCardIncludes(),
-        order: [['name', 'ASC']],
-        limit: req.query.limit ? parseInt(req.query.limit) : undefined,
-        offset: req.query.offset ? parseInt(req.query.offset) : undefined
+        include: includes,
+        order,
+        limit,
+        offset,
+        distinct: true
       });
 
-      return res.json(cards);
+      return res.status(200).json({
+        status: 'success',
+        message: 'Cartas obtenidas correctamente',
+        data: rows,
+        total: count,
+        offset,
+        limit
+      });
     } catch (error) {
-      return res.status(500).json({ message: 'Error fetching cards', error: error.message });
+      return res.status(500).json({
+        status: 'error',
+        message: 'Error al obtener cartas',
+        error: error.message
+      });
     }
   }
 
@@ -38,9 +182,12 @@ class CardController {
    */
   async getCardById(req, res) {
     try {
-      const card = await Card.findByPk(req.params.id, {
+      const baseUrl = `${req.protocol}://${req.get('host')}`;
+
+      const card = await Card.findOneWithImages({
+        where: { id: req.params.id },
         include: this.getCardIncludes(true)
-      });
+      }, baseUrl);
 
       if (!card) {
         return res.status(404).json({ message: 'Card not found' });
@@ -86,11 +233,11 @@ class CardController {
     const includes = [
       {
         model: Genre,
-        as: 'genres',
-        include: {
-          model: GenreCategory,
-          as: 'category'
-        }
+        as: 'genres'
+        // include: {
+        //   model: GenreCategory, // No existe
+        //   as: 'category'
+        // }
       }
     ];
 
@@ -99,8 +246,8 @@ class CardController {
       includes.push(
         { model: MonsterCard, as: 'monsterData' },
         { model: SpellCard, as: 'spellData' },
-        { model: TrapCard, as: 'trapData' },
-        { model: CardObtention, as: 'CardObtentions' }
+        { model: TrapCard, as: 'trapData' }
+        // { model: CardObtention, as: 'CardObtentions' } // No existe
       );
     }
 
