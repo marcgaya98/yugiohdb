@@ -43,5 +43,3 @@ Este proyecto es una API REST para una base de datos de Yu-Gi-Oh! usando:
 - console-ninja: Herramientas de consola avanzadas
 - sequential-thinking: Razonamiento secuencial
 - context7: Búsqueda semántica/contextual y documentación de librerías
-- playwright: Automatización de navegador Chromium para testing y scraping
-- memory: Almacenamiento temporal/contextual en memoria

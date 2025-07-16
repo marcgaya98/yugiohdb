@@ -1,0 +1,148 @@
+# Cartas del género "Special Summon" (Tag Force 1)
+
+## Monstruos
+
+- Agido
+- Alien Mother
+- Alien Skull
+- Ambulance Rescueroid
+- Ambulanceroid
+- Ancient Gear
+- Ancient Lamp
+- Andro Sphinx
+- Apprentice Magician
+- Armed Dragon LV3
+- Armed Dragon LV5
+- Avalanching Aussa
+- Babycerasaurus
+- Beiige, Vanguard of Dark World
+- Blazing Hiita
+- Blockman
+- Bubonic Vermin
+- Chimera the Flying Mythical Beast
+- Chrysalis Dolphin
+- Cobra Jar
+- Commander Covington
+- The Creator
+- The Creator Incarnate
+- Curse of Vampire
+- Cyber Dragon
+- Cyber Jar
+- Cyber-Stein
+- D.D. Scout Plane
+- D.D. Survivor
+- D.D.M. - Different Dimension Master
+- Dandylion
+- The Dark - Hex-Sealed Fusion
+- Dark Flare Knight
+- Dark Mimic LV1
+- Dark Ruler Vandalgyon
+- Decayed Commander
+- Des Dendle
+- Des Frog
+- Despair from the Dark
+- Desrook Archfiend
+- Destiny Hero - Captain Tenacious
+- Destiny Hero - Dasher
+- Destiny Hero - Double Dude
+- Destiny Hero - Dreadmaster
+- Destiny Hero - Fear Monger
+- Disciple of the Forbidden Spell
+- Don Turtle
+- The Earth - Hex-Sealed Fusion
+- Elemental Hero Bubbleman
+- Elemental Hero Necroid Shaman
+
+
+- Flying Kamakiri #1
+- Gravekeeper's Chief
+- Gravekeeper's Spy
+- Hydrogeddon
+- Kaibaman
+- King's Knight
+- Lekunga
+- Marauding Captain
+- Morphing Jar #2
+- Mystic Swordsman LV2
+- Nimble Momonga
+- Raviel, Lord of Phantasms
+- Skull Knight #2
+- Summoner of Illusions
+- Super Roboyarou
+- UFOroid
+- Victory Viper XX03
+
+## Magia y Trampa
+
+- Archfiend's Roar
+- Attack Reflector Unit
+- Autonomous Action Unit
+- Ayer's Rock Sunrise
+- Battery Charger
+- Beast Soul Swap
+- Beastly Mirror Ritual
+- Big Wave Small Wave
+- Black Illusion Ritual
+- Black Luster Ritual
+- Bonding - H2O
+- Book of Life
+- Boss Rush
+- Branch!
+- Bubble Shuffle
+- Call of the Haunted
+- Call of the Mummy
+- Cathedral of Nobles
+- Celestial Transformation
+- Centrifugal Field
+- Chosen One
+- Clock Tower Prison
+- Clone Duplication
+- Commencement Dance
+- Common Soul
+- Conscription
+- Contact
+- Contract with Exodia
+- Contract with the Abyss
+- Contract with the Dark Master
+- Crop Circles
+- Curse of the Masked Beast
+- D - Spirit
+- Damage Condenser
+- Dark Magic Curtain
+- Dark Magic Ritual
+- De-Fusion
+- A Deal with Dark Ruler
+- Dedication through Light and Darkness
+- Destiny Mirage
+- Destiny Signal
+- Dimension Distortion
+- Dimension Fusion
+- Doriado's Blessing
+- Dragon's Mirror
+- Dramatic Rescue
+- Earth Chant
+- Elegant Egotist
+- Embodiment of Apophis
+- Enchanting Fitting Room
+
+- Fossil Excavation
+- Garma Sword Oath
+- A Hero Emerges
+- Hero Signal
+- Illusion Gate
+- Last Will
+- Magical Hats
+- Miracle Fusion
+- Monster Reborn
+- Ojama Trio
+- Polymerization
+- Power Bond
+- Rite of Spirit
+- Ritual of Lithmus
+- Ritual of the Matador
+- A Rival Appears!
+- Rope of Spirit
+- Time Machine
+- Transcendent Wings
+- White Dragon Ritual
+- Zera Ritual

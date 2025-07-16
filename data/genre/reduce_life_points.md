@@ -1,0 +1,122 @@
+# Cartas del género "Reduce Life Points" (Tag Force 1)
+
+## Monstruos
+
+- Abare Ushioni
+- Amazon Archer
+- Ameba
+- Ancient Gear Cannon
+- Andro Sphinx
+- Anti-Aircraft Flower
+- Atomic Firefly
+- Balloon Lizard
+- Blast Sphere
+- Bowganian
+- Cannon Soldier
+- Castle Gate
+- Catapult Turtle
+- Chaos Emperor Dragon - Envoy of the End
+- Chthonian Soldier
+- Cobra Jar
+- Dark Eradicator Warlock
+- Dark Ruler Vandalgyon
+- Des Koala
+- Des Volstgalph
+- Destiny Hero - Dogma
+- Dice Jar
+- Divine Dragon - Excelion
+- Ebon Magician Curran
+- Elemental Hero Flame Wingman
+- Elemental Hero Shining Flare Wingman
+- Elephant Statue of Disaster
+- Exxod, Master of The Guard
+- Fire Princess
+- Fire Sorcerer
+- Giant Germ
+- Giant Kozaky
+- Granadora
+- Grave Ohja
+- Gravekeeper's Cannonholder
+- Gravekeeper's Curse
+- Gravekeeper's Vassal
+- Hamon, Lord of Striking Thunder
+- Inferno
+- Jigen Bakudan
+- KA-2 Des Scissors
+- Lady Assailant of Flames
+- Lava Golem
+- Man-Thro' Tro'
+- Marshmallon
+- Mecha-Dog Marron
+- Memory Crusher
+- Minar
+- Mine Golem
+- Mushroom Man #2
+- Neo-Spacian Aqua Dolphin
+- Oxygeddon
+- Stealth Bird
+- Time Wizard
+- Toon Cannon Soldier
+- Winged Kuriboh LV10
+
+## Magia y Trampa
+
+- Amazoness Arena
+- Ante
+- Attack and Receive
+- Backfire
+- Bad Reaction to Simochi
+- Barrel Behind the Door
+- Black Pendant
+- Blast Held by a Tribute
+- Blasting the Ruins
+- Burning Land
+- Ceasefire
+- Cemetary Bomb
+- Chain Burst
+- Chthonian Blast
+- Clay Charge
+- Coffin Seller
+- Crop Circles
+- Curse of Darkness
+- Cyber Summon Blaster
+- Cyclone Boomerang
+- D - Chain
+- D.D. Dynamite
+- Dark Room of Nightmare
+- Dark Snake Syndrome
+- Destruction Ring
+- Destruction of Destiny
+- Dimension Wall
+- Dora of Fate
+- Dragon's Gunfire
+- Ectoplasmer
+- Enchanted Arrow
+- Falling Down
+- Fatal Abacus
+- Final Flame
+- Fire Darts
+- Fuhma Shuriken
+- Full Salvo
+- Goblin Thief
+- Grand Convergence
+- Graverobber
+- Graverobber's Retribution
+- Greed
+- Hinotama
+- Hot Sauce Bottle
+- Inferno Fire Blast
+- Judgment of Anubis
+- Just Desserts
+- Kozaky's Self-Destruct Button
+- Legendary Black Belt
+- Life Equalizer
+- Magic Cylinder
+- Ojama Trio
+- Power Bond
+- Raimei
+- Restructer Revolution
+- Rock Bombardment
+- Sparks
+- Wave-Motion Cannon
+- Yu-Jo Friendship

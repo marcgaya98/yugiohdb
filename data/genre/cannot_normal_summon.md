@@ -1,0 +1,82 @@
+# Cartas del género "Cannot perform Normal Summon" (Tag Force 1)
+
+## Monstruos
+
+- Alkana Knight Joker
+- Alligator's Sword Dragon
+- Ambulance Rescueroid
+- Amphibious Bugroth
+- Anteatereatingant
+- Aqua Dragon
+- Aqua Spirit
+- Archfiend Matador
+- Archlord Zerato
+- Armed Dragon LV10
+- Armed Dragon LV7
+- B. Skull Dragon
+- Barox
+- Berserk Dragon
+- Bickuribox
+- Black Luster Soldier
+- Black Luster Soldier - Envoy of the Beginning
+- Blue-Eyes Shining Dragon
+- Blue-Eyes Toon Dragon
+- Blue-Eyes Ultimate Dragon
+- Bracchio-raidus
+- Chakra
+- Chaos Emperor Dragon - Envoy of the End
+- Chaos Sorcerer
+- Charubin the Fire Knight
+- Chimera the Flying Mythical Beast
+- Chimeratech Overdragon
+- Crab Turtle
+- Crimson Sunbird
+- Cyber Barrier Dragon
+- Cyber Blader
+- Cyber End Dragon
+- Cyber Laser Dragon
+- Cyber Saurus
+- Cyber Twin Dragon
+- D.3.S. Frog
+- Dark Balter the Terrible
+- Dark Blade the Dragon Knight
+- Dark Eradicator Warlock
+- Dark Flare Knight
+- Dark Magician Knight
+- Dark Master - Zorc
+- Dark Necrofear
+- Dark Paladin
+- Dark Sage
+- Darkfire Dragon
+- Deepsea Shark
+- Demise, King of Armageddon
+- Destiny Hero - Dogma
+- Dokurorider
+
+
+- Elemental Hero Rampart Blaster
+- Elemental Hero Thunder Giant
+- Elemental Hero Wildedge
+- F.G.D.
+- Flame Swordsman
+- Gaia the Dragon Champion
+- Garma Sword
+- Gate Guardian
+- Gradius' Option
+- Great Moth
+- Hamon, Lord of Striking Thunder
+- Humanoid Worm Drake
+- Inferno
+- Labyrinth Tank
+- Larvae Moth
+- Lava Golem
+- Manga Ryu-Ran
+- Metalzoa
+- Ojama King
+- Raviel, Lord of Phantasms
+- Red-Eyes Darkness Dragon
+- Sanwitch
+- Super Roboyarou
+- Swordsman Of Doom Lithmus
+- Thousand Dragon
+- Toon Dark Magician Girl

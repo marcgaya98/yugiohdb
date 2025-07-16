@@ -1,0 +1,72 @@
+# Cartas del género "Recover Life Points" (Tag Force 1)
+
+## Monstruos
+
+- Absorbing Kid from the Sky
+- Brain Jacker
+- Burning Algae
+- Cure Mermaid
+- Dancing Fairy
+- Elemental Hero Steam Healer
+- Elephant Statue of Blessing
+- Fushi No Tori
+- Granadora
+- Griggle
+- Guardian Angel Joan
+- Hysteric Fairy
+- The Immortal of Thunder
+- Kiseitai
+- Marie the Fallen One
+- Mysterious Puppeteer
+- Nimble Momonga
+- Princess Pikeru
+- Royal Knight
+- Skull-Mark Ladybug
+- Spirit of the Breeze
+- White Magician Pikeru
+- Zolga
+
+## Magia y Trampa
+
+- 7
+- Altar for Tribute
+- Amazoness Arena
+- Blessings of the Nile
+- Blue Medicine
+- Cestus of Dagla
+- Dark Magician's Tome of Black Magic
+- Dian Keto the Cure Master
+- Draining Shield
+- Elemental Recharge
+- Emergency Provisions
+- Enchanted Javelin
+- The Eye of Truth
+- Gift of The Mystical Elf
+- Goblin Thief
+- Goblin's Secret Remedy
+- Gryphon's Feather Duster
+- Life Absorbing Machine
+- Life Equalizer
+- Mooyan Curry
+- Mystik Wok
+- Numinous Healer
+- Nutrient Z
+- Option Hunter
+- The Paths of Destiny
+- Poison of the Old Man
+- Rain of Mercy
+- Red Medicine
+- Reversal Quiz
+- Sebek's Blessing
+- Snatch Steal
+- Solemn Wishes
+- Soul Absorption
+- Soul Taker
+- Soul of the Pure
+- The Spell Absorbing Life
+- Spell Absorption
+- Spring of Rebirth
+- Survival Instinct
+- Token Thanksgiving
+- Upstart Goblin
+- Yu-Jo Friendship
